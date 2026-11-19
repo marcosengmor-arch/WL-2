@@ -5,33 +5,3 @@ today 3-m payload ['weight loss', 'metformin weight loss', 'lemon balm', 'olive 
 today 3-m payload ['weight loss', 'Japanese mounjaro', 'castor oil belly', 'protein coffee', 'sleepy girl mocktail']
 today 3-m payload ['weight loss', 'menopause belly', 'cortisol belly', 'perimenopause weight gain', 'weight loss after 50']
 today 3-m payload ['weight loss', 'menopause supplements', 'hormone therapy menopause', 'Wegovy pill', 'Zepbound']
-today 3-m payload ['weight loss', 'compounded semaglutide']
-wrote raw/TRENDS_ingredients_iot_3m.csv 0 rows 0 cols
-today 12-m payload ['weight loss', 'gelatin trick', 'baking soda trick', 'pink salt trick', 'cortisol cocktail']
-today 12-m payload ['weight loss', 'chia seed water', 'bone broth diet', 'cottage cheese recipes', 'creatine for women']
-today 12-m payload ['weight loss', 'natural GLP-1', 'GLP-1 foods', 'fiber for weight loss', 'berberine']
-today 12-m payload ['weight loss', 'metformin weight loss', 'lemon balm', 'olive oil shot', 'oatzempic']
-today 12-m payload ['weight loss', 'Japanese mounjaro', 'castor oil belly', 'protein coffee', 'sleepy girl mocktail']
-today 12-m payload ['weight loss', 'menopause belly', 'cortisol belly', 'perimenopause weight gain', 'weight loss after 50']
-today 12-m payload ['weight loss', 'menopause supplements', 'hormone therapy menopause', 'Wegovy pill', 'Zepbound']
-today 12-m payload ['weight loss', 'compounded semaglutide']
-wrote raw/TRENDS_ingredients_iot_12m.csv 0 rows 0 cols
-related weight loss
-related gelatin trick
-related baking soda trick
-related pink salt trick
-related cortisol cocktail
-related chia seed water
-related bone broth diet
-related cottage cheese recipes
-related creatine for women
-related natural GLP-1
-related GLP-1 foods
-related fiber for weight loss
-related berberine
-related metformin weight loss
-related lemon balm
-related olive oil shot
-related oatzempic
-related Japanese mounjaro
-related castor oil belly

@@ -12,21 +12,22 @@ log=open(out+'_log.txt','a')
 def L(*a):
     s=' '.join(str(x) for x in a); print(s); log.write(s+'\n'); log.flush()
 pt=TrendReq(hl='en-US', tz=300, timeout=(10,40), retries=0)
+FAIL=object()
 def call(fn, *a, **k):
     for attempt in range(5):
         try: return fn(*a, **k)
         except Exception as e:
             wait=20*(attempt+1)+random.uniform(0,10); L('  retry',attempt,type(e).__name__,str(e)[:80],'wait',int(wait)); time.sleep(wait)
-    return None
+    return FAIL
 def groups(lst,n=4):
     for i in range(0,len(lst),n): yield lst[i:i+n]
 for tf,tag in [('today 3-m','3m'),('today 12-m','12m')]:
     rows={}; cols=[]
     for g in groups(rest):
         kw=[anchor]+g; L(tf,'payload',kw)
-        if call(pt.build_payload, kw, geo='US', timeframe=tf) is None: continue
+        if call(pt.build_payload, kw, geo='US', timeframe=tf) is FAIL: continue
         df=call(pt.interest_over_time)
-        if df is None or df.empty: L('  empty'); time.sleep(8); continue
+        if df is FAIL or df is None or df.empty: L('  empty'); time.sleep(8); continue
         for c in kw:
             if c in df.columns and c not in cols: cols.append(c)
         for d,r in df.iterrows():
@@ -40,9 +41,9 @@ for tf,tag in [('today 3-m','3m'),('today 12-m','12m')]:
 with open(out+'_related.jsonl','a') as f:
     for t in terms:
         L('related',t)
-        if call(pt.build_payload, [t], geo='US', timeframe='today 3-m') is None: continue
+        if call(pt.build_payload, [t], geo='US', timeframe='today 3-m') is FAIL: continue
         rq=call(pt.related_queries)
-        if rq and t in rq:
+        if rq is not FAIL and rq and t in rq:
             rec={'term':t,'timeframe':'today 3-m','geo':'US'}
             for k in ('rising','top'):
                 d=rq[t].get(k)
