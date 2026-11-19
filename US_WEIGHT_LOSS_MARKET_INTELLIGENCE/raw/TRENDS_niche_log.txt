@@ -1,0 +1,37 @@
+today 3-m payload ['gelatin trick', 'baking soda trick', 'pink salt trick', 'cortisol cocktail', 'creatine for women']
+  retry 0 TooManyRequestsError The request failed: Google returned a response with code 429 wait 26
+  retry 1 TooManyRequestsError The request failed: Google returned a response with code 429 wait 43
+  retry 2 TooManyRequestsError The request failed: Google returned a response with code 429 wait 61
+today 3-m payload ['gelatin trick', 'psyllium husk weight loss', 'fibermaxxing', 'cottage cheese diet', 'black seed oil']
+today 3-m payload ['gelatin trick', 'lemon balm weight loss', 'clove water', 'chia seed water', 'natural GLP-1']
+today 3-m payload ['gelatin trick', 'GLP-1 friendly', 'berberine weight loss', 'menopause belly fat', 'cortisol belly']
+today 3-m payload ['gelatin trick', 'perimenopause weight gain', 'weight loss after 50', 'hormone therapy weight loss']
+wrote raw/TRENDS_niche_iot_3m.csv 93 rows 20 cols
+today 12-m payload ['gelatin trick', 'baking soda trick', 'pink salt trick', 'cortisol cocktail', 'creatine for women']
+today 12-m payload ['gelatin trick', 'psyllium husk weight loss', 'fibermaxxing', 'cottage cheese diet', 'black seed oil']
+today 12-m payload ['gelatin trick', 'lemon balm weight loss', 'clove water', 'chia seed water', 'natural GLP-1']
+today 12-m payload ['gelatin trick', 'GLP-1 friendly', 'berberine weight loss', 'menopause belly fat', 'cortisol belly']
+today 12-m payload ['gelatin trick', 'perimenopause weight gain', 'weight loss after 50', 'hormone therapy weight loss']
+wrote raw/TRENDS_niche_iot_12m.csv 53 rows 20 cols
+related gelatin trick
+related baking soda trick
+related pink salt trick
+related cortisol cocktail
+related creatine for women
+related psyllium husk weight loss
+related fibermaxxing
+related cottage cheese diet
+related black seed oil
+related lemon balm weight loss
+related clove water
+related chia seed water
+related natural GLP-1
+related GLP-1 friendly
+related berberine weight loss
+related menopause belly fat
+related cortisol belly
+related perimenopause weight gain
+related weight loss after 50
+  retry 0 TooManyRequestsError The request failed: Google returned a response with code 429 wait 28
+related hormone therapy weight loss
+done

@@ -12,7 +12,7 @@
 
 ---
 
-## 12 descobertas que mudam a VSL
+## 13 descobertas que mudam a VSL
 
 1. **O avatar não precisa ser convencida do problema, mas da causa.** A frase-núcleo é o ritual que falhou: "religiously stuck to 1200kcal… stopped all alcohol" (55); "same weight, two sizes bigger at the waist". Ela quer saber *o que mudou*, não *o que fazer*. ALTA.
 2. **"Comer menos piorou" e "não é a mesma gordura" são as quebras de crença que mais retêm** (Amati 506K; Fung 178K; Felber 623K; Haver "not willpower, it's estrogen"). ALTA.
@@ -25,7 +25,8 @@
 9. **Cortisol é a palavra, não o coquetel:** "cortisol belly" domina os lançamentos de 7 dias; "cortisol cocktail recipe for weight loss" +80% (7d) / +300% rising; produtos prontos há 1–8 dias; ciência fraca. Usar como linguagem/relógio do dia, sem alegação. MÉDIA-ALTA.
 10. **GLP-1: a conversa é custo, reganho e "depois"**: 11% dos adultos usam; mulheres 50–64 são o maior grupo; Wegovy pill $149; Medicare bridge $50 (prazo 7/dez); FEHB +400–500% em 2027; reganho 4x mais rápido; "the food noise came back"; 35% dos ex-usuários usam suplementos. Categoria segura: **companion/support**, nunca "alternative" (3 litígios + ASA + FDA). ALTA.
 11. **Objeção nº1 é deepfake de celebridade/médico; nº2 é assinatura escondida; nº3 é "a receita nunca é revelada".** Compliance vira narrativa: "sem celebridade, sem receita secreta, sem assinatura" (formato "it's boring, but it works", 455K+350K). ALTA.
-12. **Sub-avatares com calendário próprio:** 60–75 "renda fixa" (Growing Again 529K; "63 is too old?" 3,88M; zero VSL) e pós-GLP-1 (janela de reganho; dez/jan). MÉDIA-ALTA.
+12. **Google Trends (coleta própria) confirma e ajusta:** gelatin trick −92% no ano; baking soda migrou para homens; cortisol cocktail com pico em 18/11 e busca dominada pela marca Harmonia (ad-driven); creatina para mulheres em patamar alto e estável (≈11x o gelatin trick), com aceleração só em vídeo/varejo; e a conversa de menopausa/HRT acelerando na busca ("perimenopause weight gain" 9 → 26 no trimestre; "how to get rid of belly fat after menopause" +189.900%; "how to speed up metabolism after 40" +665.500%; "what happens when you stop taking ozempic and wegovy" +100.050%). ALTA.
+13. **Sub-avatares com calendário próprio:** 60–75 "renda fixa" (Growing Again 529K; "63 is too old?" 3,88M; zero VSL) e pós-GLP-1 (janela de reganho; dez/jan). MÉDIA-ALTA.
 
 ---
 
@@ -51,7 +52,7 @@
 | Ingredientes/tendências | 41 fichas | 20 ✔ |
 | Hosts/experts | 61 fichas | 20 ✔ |
 | Concorrentes documentados | 40 | 15–30 ✔ |
-| Google Trends (coleta própria, US) | 30 termos × 3m/12m + related queries (lotes 2–3 em andamento) | — |
+| Google Trends (coleta própria, US) | 74 termos × 3m/12m + related queries (3 lotes concluídos; `data/GOOGLE_TRENDS.csv`) | — |
 | Nível 4 (resultado comercial) | nenhum caso | — |
 
 **Consequência:** a "voz crua" do Reddit e dos comentários está sub-representada; a linguagem veio de fóruns com idade declarada, reviews de medicamentos/suplementos, BBB, imprensa e títulos/snippets de criadores (marcados como proxy). Contagens de anúncios e descrição de apresentadores das 20 VSLs são dado do usuário (Nível 3). Views medem atenção, não conversão. Para fechar a lacuna do Reddit: conectar o navegador do usuário (Remote Control) ou permitir leitura headless de reddit.com.

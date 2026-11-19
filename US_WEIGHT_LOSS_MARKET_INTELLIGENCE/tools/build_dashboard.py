@@ -8,7 +8,7 @@ def load(name):
     with open(p,newline='',encoding='utf-8') as f: return list(csv.DictReader(f))
 data={
  'sources':load('SOURCES_DATABASE.csv'),'language':load('CUSTOMER_LANGUAGE.csv'),'videos':load('VIDEO_FORMATS.csv'),
- 'ingredients':load('INGREDIENT_TRENDS.csv'),'hosts':load('HOSTS_EXPERTS.csv'),'competitors':load('COMPETITORS.csv'),'ranking':load('OPPORTUNITY_RANKING.csv')}
+ 'ingredients':load('INGREDIENT_TRENDS.csv'),'hosts':load('HOSTS_EXPERTS.csv'),'competitors':load('COMPETITORS.csv'),'ranking':load('OPPORTUNITY_RANKING.csv'),'trends':load('GOOGLE_TRENDS.csv')}
 counts={k:len(v) for k,v in data.items()}
 page=f"""<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Weight Loss Intel Dashboard</title>
@@ -32,7 +32,7 @@ td{{max-width:420px;overflow-wrap:anywhere}}a{{color:var(--acc2)}}.kpi{{display:
 <div class="wrap"><table id="t"><thead></thead><tbody></tbody></table></div>
 <script>
 const DATA={json.dumps(data,ensure_ascii=False)};
-const TABS=[['ranking','Ranking de oportunidades',['type','status']],['ingredients','Ingredientes',['trend_status','saturation']],['videos','Vídeos & formatos',['format_type','platform']],['hosts','Hosts & experts',['category','archetype']],['competitors','Concorrência',['format','validation_level']],['language','Customer language',['category','platform']],['sources','Fontes',['frente','platform']]];
+const TABS=[['ranking','Ranking de oportunidades',['type','status']],['ingredients','Ingredientes',['trend_status','saturation']],['videos','Vídeos & formatos',['format_type','platform']],['hosts','Hosts & experts',['category','archetype']],['competitors','Concorrência',['format','validation_level']],['language','Customer language',['category','platform']],['trends','Google Trends',['batch','status_search']],['sources','Fontes',['frente','platform']]];
 let cur='ranking',sortK=null,sortD=1;
 const $=s=>document.querySelector(s);
 function fill(sel,rows,key,label){{const vals=[...new Set(rows.map(r=>r[key]||'').filter(Boolean))].sort();sel.innerHTML=`<option value="">${{label}}: todos</option>`+vals.map(v=>`<option>${{v}}</option>`).join('');sel.dataset.key=key}}
