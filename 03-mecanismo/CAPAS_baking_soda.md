@@ -129,3 +129,52 @@ Critério: tem que ser um objeto/ritual que a mulher americana 45+ já tem em ca
 
 **Lead:**
 > "If you tried the baking soda shot — the spoonful, the lemon, the ice — and all you got was bloating, it's because that was the 25-year-old version. After 45, your gut lost its shield, and acid on top of acid is the last thing it needs. The over-45 version takes one glass of water, one spoon of chia, one pinch of baking soda — and ten minutes. By the time the glass thickens, it's ready to do what the shot never could."
+
+---
+
+# PARTE 5 — NOME CHICLETE ORIGINAL (base: "Chia Soda Ritual")
+
+Regras usadas: 2–4 palavras; soa como receita de cozinha, não como produto; carrega uma das dimensões (ritual, $1, 10 min, pitada, manhã, 45+); fácil de dizer em voz alta por uma apresentadora de 55 anos; não usa "trick/hack/loophole" (marcadores de golpe) nem "shot" (degrau saturado). "Soda" aqui lê como baking soda e também como "bebida", o que ajuda a memória.
+
+## A) Núcleo "Chia Soda ___"
+| Nome | Leitura | Força | Observação |
+|---|---|---|---|
+| **The Chia Soda Ritual** | ritual matinal de 2 ingredientes | base sólida, neutra | "ritual" dá rotina e repetição (bom para o pote de 6 meses) |
+| **The Chia Soda Morning Ritual** | hora do dia embutida | +rotina | mais longo; bom para a página, não para a fala |
+| **The 10-Minute Chia Soda Ritual** | a espera que o TikTok pulou | +mecanismo | o "10" vira prova (o copo engrossa) |
+| **The Chia Soda Glass** | o objeto (copo) | simples, visual | menos "método" que ritual |
+| **The Chia Soda Pinch** | a pitada (dose/segurança) | +diferença da colherada | "pinch" é o gesto da avó |
+| **Chia Soda Water** | "água de chia soda" | o mais "cozinha" de todos | parece nome de bebida de prateleira — bom para o varejo, fraco para VSL |
+
+## B) Com o ângulo "$1" (a receita barata vs. a injeção de $1.000)
+| Nome | Leitura | Força | Observação |
+|---|---|---|---|
+| **The $1 Chia Soda Ritual** | custa um dólar por dia | ancora preço antes da oferta | encaixa com "10 Foods Under $1 That Trigger Your GLP-1" (1,1M views) e "Forget $1,000 GLP-1 Shots" |
+| **The One-Dollar Chia Soda** | mesmo, por extenso | melhor em voz alta | "one-dollar" soa mais americano falado do que "$1" |
+| **The $1 Morning Ritual** | esconde os ingredientes (loop) | curiosidade máxima | abre loop: "what's in it?"; a VSL revela chia + soda |
+| **The $1 Glass** | copo de um dólar | ultra-curto | pode parecer genérico demais |
+| **The 50-Cent Chia Soda** | mais barato ainda | choque de preço | só se o custo real por dose fechar em ~$0,50 (chia 1 tbsp + pitada: fecha) |
+
+## C) Com o código 45+/menopausa
+| Nome | Leitura | Força | Observação |
+|---|---|---|---|
+| **The Over-45 Chia Soda Ritual** | a versão da década certa | segmenta e absolve | une a correção ("25-year-old version") ao nome |
+| **The Menopause Chia Soda** | nomeia a causa | máxima permissão para assistir (menopausa = guarda-chuva aceito) | compliance: "menopause" no nome exige cuidado com claims de sintomas |
+| **Grandma's Chia Soda** | a pitada da avó | 1945/nostalgia | une a lead histórica; evitar se a apresentadora for 45–50 |
+| **The After-45 Glass** | o copo depois dos 45 | curto, sem ingrediente (loop) | bom para criativo de 15 s |
+
+## D) Com cor/sensação (se entrar romã, pepino ou morno)
+| Nome | Observação |
+|---|---|
+| **The Pink Chia Soda** | com romã; repete o código rosa que escalou (pink salt, pink gelatin) sem ser nenhum dos dois |
+| **The Cooling Chia Soda** | com pepino/hortelã; fala com o fogacho |
+| **The Warm Chia Soda** | água morna; "chá" da mulher madura |
+
+## RECOMENDAÇÃO (3 para teste de criativo)
+1. **The $1 Chia Soda Ritual** — leva ingredientes, custo e rotina no nome; ancora contra a injeção antes de a oferta chegar.
+2. **The Over-45 Chia Soda Ritual** — leva a correção pela década; melhor para a lead "25-year-old version".
+3. **The 10-Minute Chia Soda Ritual** — leva o mecanismo e a prova visual; melhor para a demonstração de bancada.
+
+Forma de uso na copy: nome completo na lead e no título; na fala corrente, encurtar para **"the Chia Soda"** ("after the Chia Soda, I stopped thinking about food by 10 a.m.").
+
+Nome do produto que "substitui a pitada": seguir a família sem copiar "-tide/-melt": **ChiaSoda Drops**, **SodaChia**, **Chia Buffer**, **PinchPro**. Verificar marca registrada e domínio antes de gravar (não verificado nesta sessão).
