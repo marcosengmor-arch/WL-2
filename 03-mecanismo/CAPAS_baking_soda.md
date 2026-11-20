@@ -71,3 +71,35 @@ Cada degrau novo adiciona UMA dimensão: ingrediente, cor, temperatura, horário
 **Degrau 3 (prova visual):** "The Gel Shot" (chia) quando a VSL precisar de uma demonstração de saciedade em 30 s.
 
 Sequência de lead com a nova receita (mesma mecânica AlkaMelt): "The baking soda shot you saw was the 25-year-old version — baking soda and lemon. After 45 your gut lost its shield, and lemon only makes the acid worse. The over-45 version is pink: baking soda, pomegranate, and one thing your grandmother already had in her kitchen."
+
+---
+
+# PARTE 3 — Baking soda + chia: em que FORMA (algo do dia a dia dela)
+
+Critério: tem que ser um objeto/ritual que a mulher americana 45+ já tem em casa e já faz, sem explicar. Nada de "gel" como nome (soa laboratório) nem "gelatina" (mecanismo exposto).
+
+| Forma | O objeto do dia a dia | Como o bicarbonato entra | Visual/demonstração | Encaixe na escada e no mecanismo | Nota |
+|---|---|---|---|---|---|
+| **1. The Overnight Jar** (pote de chia feito à noite, tomado de manhã) | o **mason jar na geladeira** — "overnight oats" e "chia pudding" são rotina de meal-prep/Pinterest da mulher 40+ ("overnight oats recipe for weight loss" +30%; "chia seed pudding recipe" Grande aumento no print) | **"a pinch"** — a pitada que a avó punha no molho de tomate para cortar o ácido (gesto de cozinha que todo americano reconhece) | time-lapse do pote virando gel durante a noite; de manhã a colher fica em pé | adiciona a dimensão **horário (noite → manhã)**, casa com "cortisol noturno/queimar dormindo"; a pitada limita a dose (segurança) e dá o ritual de 30 s à noite | **9,5** |
+| **2. The Chia Water Shot** (copo de água + chia, 10 min, bebe) | o **copo de água** (e o "copo de Metamucil" que a mãe dela tomava antes do jantar) | pitada no copo | copo que engrossa em 10 min | continua a escada do "shot" (saturada) mas troca o limão pela chia; demo rápida de 30 s na bancada | 8 |
+| **3. The Bedtime Pudding Cup** (copinho tipo Jell-O/pudding cup) | o **pudding cup** de supermercado, sobremesa de rotina 50+ | pitada na mistura | copinho, colher, "sobremesa que emagrece" | ótimo código 50+/60+; risco de parecer "gelatin trick" | 7,5 |
+| **4. The Morning Coffee Pinch** (pitada de bicarbonato no café + chia ao lado) | o **café da manhã** — ritual nº 1; "pitada de bicarbonato no café para cortar a acidez" já é hack conhecido de quem tem refluxo | pitada no café | caneca, pó, sem espuma | bicarbonato fica natural; chia fica deslocada | 7 |
+| **5. Chia Jam on Toast** | geleia na torrada | não cabe | pote de geleia | sai do mecanismo | 4 |
+
+## Recomendação: **The Overnight Jar** ("the over-45 overnight jar")
+
+**Receita-gancho (o que a VSL "revela"):** 1 colher de sopa de chia + 1 xícara de água (ou leite de amêndoa) + **uma pitada** de bicarbonato puro + (opcional, para gosto) um pouco de canela de Ceilão ou romã. Mexer, tampar, geladeira. De manhã, em jejum, comer/beber antes do café da manhã. **Sem limão** (o limão é "a versão de 25 anos": ácido em cima de ácido).
+
+**Por que esta forma e não "shot":**
+- É o único formato em que ela **já faz o gesto**: pote na geladeira à noite (overnight oats). A VSL não ensina um hábito novo, muda o que vai dentro do pote.
+- Adiciona a dimensão que faltava na escada: **o horário** ("while you sleep"), que é a onda expert dos últimos 30 dias (nighttime cortisol, "take this before bed").
+- **"A pinch"** resolve três coisas de uma vez: é linguagem de cozinha (molho de tomate da avó), é dose pequena (segurança do sódio) e dá a razão da correção: "the TikTok shot used a spoonful in the wrong place; the over-45 version is a pinch, overnight, inside the gel".
+- A demonstração é a mais forte do nicho: time-lapse do pote gelificando + colher em pé de manhã = saciedade que dá para ver.
+- Afasta de "gelatin trick" (não é gelatina, é chia) e de "baking soda shot" (não é copo, é pote), mantendo o DNA dos dois.
+
+**Como o mecanismo V2 entra no pote:** a chia vira o gel que forra e "alimenta" as células L (fibra → saciedade → seu próprio GLP-1); a pitada de bicarbonato tampona o ácido para que o gel trabalhe no intestino, não no estômago (por isso a versão com limão dava inchaço); feito à noite, trabalha "enquanto o escudo está mais baixo" (noite = cortisol/sono, linguagem). Camadas 2 e 3 (proteger/queimar) ficam no produto (gotas/pó que "substituem a pitada pela dose tamponada e medida").
+
+**Nomes para testar:** The Overnight Jar · The Bedtime Jar · The 45+ Overnight Jar · The Pink Overnight Jar (com romã) · "Grandma's Pinch".
+
+**Lead com a forma final (mecânica AlkaMelt):**
+> "If you tried the baking soda shot — the spoonful, the lemon, the fizz — and all you got was bloating, it's because that was the 25-year-old version. After 45, your gut lost its shield. The over-45 version isn't a shot. It's a jar you make before bed: chia, water, and one pinch of what your grandmother kept next to the stove. By morning it's done the work while you slept."
