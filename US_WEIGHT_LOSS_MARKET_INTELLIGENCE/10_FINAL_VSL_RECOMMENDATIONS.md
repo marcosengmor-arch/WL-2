@@ -153,4 +153,6 @@ Tudo abaixo é **hipótese priorizada por evidência**, não campanha validada. 
 
 **O que ainda precisa ser validado (não é vencedora até ter métrica real):** hold rate 3 s/15 s/60 s dos 3 hooks (condicional, 1945, anti-golpe); CPL por faixa (50–64 vs 65+); conversão com porta-voz real vs atriz com disclaimer; aceitação de produto proteína/creatina/fibra (ticket) vs gummies; sensibilidade ao "cortisol" na lead.
 
+**Referência obrigatória de leitura antes de escrever:** `/02-dissecacoes/ALKAMELT_dissecacao.md` (a VSL que escala hoje, segundo o usuário). Copiar a estrutura (lead de absolvição para quem já tentou; mecanismo em 3 camadas com metáfora por camada; linha do tempo dia 1/semana 1/dia 30/3 meses/6 meses; oferta com serviço e 6 pelo preço de 3; garantia via pergunta de espectadora; fechamento em cenas concretas: jeans, foto, espelho). Não copiar os elementos de risco (avatares de pessoas reais, bicarbonato, "better than Ozempic", "1 lb a day", 300 kits).
+
 **Nunca, em nenhuma variação:** likeness de Oprah/Jillian/Oz/Ashton/Jenna & Sheinelle; "trick/hack/loophole"; "natural Ozempic/alternative"; receita "secreta"; assinatura escondida; "sem dieta e sem exercício"; "creatina emagrece"; "baixa cortisol".

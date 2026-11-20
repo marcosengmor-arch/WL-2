@@ -59,6 +59,9 @@
 
 ---
 
+## Adendo 20/11/2026 — VSL de referência enviada pelo usuário (AlkaMelt)
+O usuário enviou a transcrição completa da VSL "AlkaMelt" (51:36) como "a última que escalou e ainda escala". Dissecação integral em `/02-dissecacoes/` e adendo no relatório 06 §11. Em uma linha: é o template "Today with Jenna & Sheinelle + Oprah + Jastreboff (avatares de IA) + baking soda → GLP-1/GIP em 3 camadas (bicarbonato, gingerol, berberina) + NAD+ + quiz de personalização + app/comunidade + 6 pelo preço de 3 a $49 + 60 dias + 300 kits", com uma novidade estrutural: a lead abre **corrigindo o próprio truque viral** ("a versão que você viu está errada") e invalida nominalmente gelatina, pink salt e ACV. Confirma a tese de saturação-por-template e as lacunas (nenhum médico real, nenhuma demonstração honesta, escassez fabricada) que a nossa aposta explora.
+
 ## Próximos passos recomendados
 1. Validar hooks (condicional / 1945 / anti-golpe) em criativos de 15 s antes de escrever a VSL completa.
 2. Recrutar porta-voz real (enfermeira/nutricionista/médica 50–60) com credencial verificável.
