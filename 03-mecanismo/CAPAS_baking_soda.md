@@ -41,3 +41,33 @@ Nomes de produto que seguem a capa (para testar): **BufferMelt**, **AlkaBuffer**
 - Geográfico (japonês, coreano, filipino): em declínio e sem orgânico.
 - "Oprah's / Jenna & Sheinelle's shot": marcadores de golpe já expostos.
 - "Horse soda trick"/"blue salt": mutações masculinas já em curso no Trends; não são da avatar.
+
+---
+
+# PARTE 2 — A ESCADA DA RECEITA: qual é o próximo "baking soda + ___"
+
+Escada observada no mercado: **baking soda (cru) → baking soda + lemon (ácido) → baking soda shot (formato) → baking soda + ice (temperatura)** → AlkaMelt: "the real recipe" (+ gengibre + berberina, correção). Mutações em curso no Trends (nov/2026): "honey + baking soda for men", "horse soda trick", "blue salt trick for men" — todas masculinas, nenhuma para 45+ feminino. **O degrau feminino/menopausa está vazio.**
+
+Cada degrau novo adiciona UMA dimensão: ingrediente, cor, temperatura, horário, sequência ou recipiente. Para a avatar 45+, o ingrediente precisa carregar um código de menopausa/feminilidade, ter visual e, de preferência, já estar subindo nos dados.
+
+| # | Versão da receita | Dimensão nova | Código 45+/menopausa | Visual | Dado da pesquisa | Segurança | Nota |
+|---|---|---|---|---|---|---|---|
+| 1 | **Baking soda + pomegranate** — "The Pink Shot" / "Menopause Pink Shot" | ingrediente + **cor** (rosa/vermelho, como pink salt e pink gelatin que escalaram) | romã = "fruta da mulher"; associação cultural com hormônios femininos (evidência fraca, usar como narrativa) | suco escuro que efervesce ao receber o bicarbonato; copo rosa | cor rosa já provou duas vezes no nicho; romã sem VSL | OK (açúcar do suco) | **9** |
+| 2 | **Baking soda + chia** — "The Gel Shot" / "Internal Shower Shot" | ingrediente + **textura** (gel visível) | fibra → saciedade → GLP-1 do próprio corpo (encaixa nas células L) | copo que vira gel em 10 min; 5/5 | chia water consolidada; "chia seed pudding" em ascensão no print; LipoFit já usou "chia + gelatin" (atenção) | OK (beber com bastante água) | **8,5** |
+| 3 | **Baking soda + cucumber + mint** — "The Cooling Shot" | ingrediente + **sensação** (frio para o fogacho) | fogacho é o sintoma nº 1 da menopausa; "cooling" fala direto com ela | copo verde-claro, gelo, hortelã; bonito e "spa" | "Pepino" Grande aumento no print do usuário; hortelã = digestão | OK | **8** |
+| 4 | **Baking soda + pineapple** — "The Pineapple Shot" | ingrediente + **sabor** (doce, não azedo) | "enzima da digestão" (bromelina), barriga inchada | amarelo vivo, espuma | "Abacaxi" +300% (7d) no print do usuário, sem criador | OK | **7,5** |
+| 5 | **Baking soda + flaxseed** — "The Lignan Shot" | ingrediente com história hormonal | linhaça é o alimento mais ligado à menopausa (lignanas; evidência modesta para fogachos) | gel bege, menos bonito | linhaça sem VSL | OK | **7** |
+| 6 | **Baking soda before bed** — "The Nighttime Shot" | **horário** (noite) | "cortisol noturno/queimar dormindo" é o mecanismo expert que mais cresceu em 30d (Pelz 300K) | mesa de cabeceira, copo, luz baixa | tendência forte | **CUIDADO**: bicarbonato à noite + refluxo | **6,5** |
+| 7 | **Warm baking soda + ginger** — "The Warm Shot" | **temperatura** (morno, oposto do gelo) | chá morno = ritual de mulher madura | caneca, vapor | gengibre já é a camada 2 da AlkaMelt | OK | **6** |
+| 8 | **Baking soda + orange juice + sea salt** — "The Cortisol Shot" | **fusão com o cortisol cocktail** | cortisol é a palavra da semana | laranja efervescente | +80% 7d / +300% rising, mas já tem marca dominando a busca (Harmonia) | **CUIDADO**: sódio + potássio | **6** |
+| 9 | **Baking soda + Ceylon cinnamon** — "The Blood Sugar Shot" | ingrediente + cor (canela) | resistência à insulina (metformina/berberina em alta na busca) | marrom, menos apetitoso | canela estável | cumarina (usar Ceilão) | **5,5** |
+| 10 | **Baking soda + clove** — "The Clove Shot" | ingrediente | público 60+ (clove water em alta entre 60+) | escuro | clove em aceleração, mas Berg já ocupou | eugenol | **5** |
+
+**Regra da escada (para repetir nas próximas gerações):** `[horário ou temperatura] + baking soda + [ingrediente com código feminino/menopausa] + [formato]`. Ex.: "the warm pink shot before breakfast"; "the cooling shot at 3 PM".
+
+## Recomendação
+**Degrau 1: "The Pink Shot" (baking soda + pomegranate).** É o único que repete o padrão que já escalou duas vezes (cor rosa = pink salt, pink gelatin) com um ingrediente que ninguém usou, codificado para mulher, bonito na tela e sem risco novo. Encaixe no mecanismo V2: a romã entra como "a fruta que a avó usava" / "o antioxidante do escudo", e o bicarbonato continua sendo o tampão.
+**Degrau 2 (variação para teste):** "The Cooling Shot" (pepino + hortelã) — o único que fala do fogacho, o sintoma que ela mais reconhece.
+**Degrau 3 (prova visual):** "The Gel Shot" (chia) quando a VSL precisar de uma demonstração de saciedade em 30 s.
+
+Sequência de lead com a nova receita (mesma mecânica AlkaMelt): "The baking soda shot you saw was the 25-year-old version — baking soda and lemon. After 45 your gut lost its shield, and lemon only makes the acid worse. The over-45 version is pink: baking soda, pomegranate, and one thing your grandmother already had in her kitchen."
