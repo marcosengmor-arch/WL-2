@@ -103,3 +103,29 @@ Critério: tem que ser um objeto/ritual que a mulher americana 45+ já tem em ca
 
 **Lead com a forma final (mecânica AlkaMelt):**
 > "If you tried the baking soda shot — the spoonful, the lemon, the fizz — and all you got was bloating, it's because that was the 25-year-old version. After 45, your gut lost its shield. The over-45 version isn't a shot. It's a jar you make before bed: chia, water, and one pinch of what your grandmother kept next to the stove. By morning it's done the work while you slept."
+
+---
+
+# PARTE 4 — DECISÃO FINAL (20/11/2026): copo de água + baking soda + chia
+
+**Nome-gancho (segue o padrão de mercado "[ingrediente] water shot"):** **"The Chia Water Shot"** — versão 45+: **"The Over-45 Chia Water Shot"**. Alternativas: "The Morning Chia Glass", "The 10-Minute Glass", "The Chia Pinch".
+
+**Receita-gancho (o que a VSL revela):**
+1. 1 copo de água morna ou em temperatura ambiente (8 oz / 240 ml).
+2. 1 colher de sopa de chia.
+3. **Uma pitada** de bicarbonato de sódio puro (não a colherada).
+4. Mexer, esperar **10 minutos** até engrossar, beber em jejum, 20–30 min antes do café da manhã.
+5. **Sem limão, sem gelo** (as versões "de 25 anos").
+
+**Por que o copo funciona para ela:** é o copo de água da manhã e o "copo de Metamucil antes da refeição" que a mãe dela tomava (Metamucil 70K+/mês na Amazon, rotulado "GLP-1 friendly"). "Chia water" já existe como hábito ("internal shower"), então a chia é a dimensão nova em cima do baking soda, sem precisar ensinar nada.
+
+**A correção (mecânica AlkaMelt):** o shot viral era colherada + limão + gelo: ácido em cima de ácido, explodindo no estômago (inchaço, refluxo). A versão 45+ é pitada + chia + 10 minutos: o bicarbonato tampona, a chia vira gel e leva o tampão até onde ficam as células L.
+
+**Demonstração (30 s, bancada):** dois copos. Esquerda: colherada de bicarbonato + limão, espuma e transborda ("isso foi no seu estômago"). Direita: pitada + chia, mexe, cronômetro de 10 min, o copo engrossa e a colher desliza devagar ("isso é o que chega ao intestino"). Fecha com a fita métrica.
+
+**Encaixe no mecanismo V2:** chia = gel que forra e "alimenta" as células L (fibra → saciedade → seu próprio GLP-1/GIP); pitada = tampão que neutraliza o solo ácido que a queda do escudo (estrogênio) deixou; 10 minutos = "a espera que o TikTok pulou". Camadas "proteger" e "queimar" ficam no produto (gotas/pó que substituem a pitada pela dose tamponada e medida, + gengibre/magnésio + ativador).
+
+**Guardrails:** sempre "pinch" (nunca colherada); muita água; aviso de sódio/pressão/rim; chia hidratada antes de beber (disfagia); nunca "queima gordura", nunca "alcaliniza o sangue".
+
+**Lead:**
+> "If you tried the baking soda shot — the spoonful, the lemon, the ice — and all you got was bloating, it's because that was the 25-year-old version. After 45, your gut lost its shield, and acid on top of acid is the last thing it needs. The over-45 version takes one glass of water, one spoon of chia, one pinch of baking soda — and ten minutes. By the time the glass thickens, it's ready to do what the shot never could."
