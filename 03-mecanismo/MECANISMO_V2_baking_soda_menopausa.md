@@ -13,8 +13,8 @@ Legenda de evidência: **FORTE** / **MODERADA** / **FRACA** (= ângulo publicit�
 Ideia-mãe: durante 30 anos o estrogênio foi um **escudo** do seu sistema digestivo. Ele mantinha o ambiente do intestino equilibrado, protegia o revestimento e mantinha as células L (as que produzem GLP-1 e GIP) acordadas. Na perimenopausa o escudo cai, e três coisas acontecem ao mesmo tempo — por isso a mulher sente que "tudo mudou de uma vez" por volta dos 45.
 
 Nomes chiclete do problema (para teste):
-1. **"The Acid Shift"** (a virada ácida da menopausa)
-2. **"Menopause Acid Belly"** (a barriga que o ácido guarda)
+1. **"Menopause Acid Belly"** (a barriga que o ácido da menopausa guarda) — ESCOLHIDO (20/11)
+2. ~~"Menopause Acid Belly"~~ (descartado)
 3. **"The Estrogen Blackout"** (três luzes apagam de uma vez)
 
 Nome da solução: **"The Menopause Baking Soda Shot"** / **"the over-45 version"** (a versão que falta nas receitas virais).
@@ -72,7 +72,7 @@ Formato: mantém gotas/shot matinal (ritual de 30 segundos). Sequência de uso =
 > "If you've tried the baking soda shot you saw online and got nothing — or got bloated — it's not because baking soda doesn't work. It's because that recipe was made for a 25-year-old gut. After 45, your gut changed. And nobody gave you the over-45 version."
 
 **Absolvição ("not the same fat" + "eating less made it worse"):**
-> "You ate 1,200 calories, walked every morning, drank your water — and your waist grew while the scale didn't move. That's not willpower. That's the Acid Shift: the shield that kept your gut calm came down at 45, and every skipped meal made the soil more acidic."
+> "You ate 1,200 calories, walked every morning, drank your water — and your waist grew while the scale didn't move. That's not willpower. That's Menopause Acid Belly: the shield that kept your gut calm came down at 45, and every skipped meal made the soil more acidic."
 
 **Variante 1945 (bioquímica/nutricionista de 60):**
 > "In 1945 there was no 'menopause belly'. Your grandmother went through menopause with a box of baking soda in her kitchen — and a waist that didn't move. What changed wasn't her. It was what we did to her gut."

@@ -140,7 +140,7 @@ add(T[14].rows[0].cells[0],[
 
 # ---------- Mecanismo 1 (único)
 add(T[16].rows[0].cells[0],[
-('p','**"The Acid Shift"** (a virada ácida da menopausa) — vilão único com três consequências. Nome alternativo: "The Estrogen Shield" (o escudo que cai aos 45). Nome da solução: **The Chia Soda Ritual / "the over-45 version"**.'),
+('p','**"Menopause Acid Belly"** (a barriga que o ácido da menopausa guarda) — vilão único com três consequências. Nome alternativo/metáfora de causa: "The Estrogen Shield" (o escudo que cai aos 45). Nome da solução: **The Chia Soda Ritual / "the over-45 version"**.'),
 ('i','Decisão de 20/11/2026: este é o único mecanismo para os três ângulos/formatos; os campos "Mecanismo 2" e "Mecanismo 3" ficam reservados (não se aplicam).'),
 ])
 add(T[17].rows[0].cells[0],[
@@ -178,7 +178,7 @@ add(T[19].rows[0].cells[0],[
 ('h','O que NÃO alegar:'),
 ('b','"alcaliniza o sangue", "queima gordura", "baixa cortisol", "trata menopausa", "93%/3x/5x harder/10x faster" (números da AlkaMelt sem fonte), "1 lb por dia".'),
 ])
-NA=[('i','Não se aplica — decisão de 20/11/2026: mecanismo único ("The Acid Shift" / The Chia Soda Ritual) para os três ângulos e formatos. Ver Mecanismo 1.')]
+NA=[('i','Não se aplica — decisão de 20/11/2026: mecanismo único ("Menopause Acid Belly" / The Chia Soda Ritual) para os três ângulos e formatos. Ver Mecanismo 1.')]
 for i in (20,21,22,23,24,25,26,27): add(T[i].rows[0].cells[0],NA)
 
 # ---------- Nomes chiclete
@@ -302,7 +302,7 @@ add(T[38].rows[0].cells[0],[
 add(T[40].rows[0].cells[0],[
 ('p','**A)** Entre 40 e 55 o estrogênio cai — e ele era o escudo do seu intestino: mantinha o ambiente equilibrado, protegia o revestimento e mantinha acordadas as células L, que produzem GLP-1 e GIP (o "já chega, pode queimar").'),
 ('p','**B)** Sem o escudo, anos de café, açúcar, ultraprocessado, remédio e estresse azedam o solo; as células L dormem; o sinal some. O cérebro acha que a comida é escassa e manda guardar tudo — na barriga, porque o estrogênio também era quem mandava guardar no quadril.'),
-('p','**Logo:** a cintura cresce com o peso igual (não é a mesma gordura), o food noise aparece, e cada tentativa de "comer menos" deixa o intestino vazio e ácido por mais horas — piorando o que tentava resolver. Não é disciplina: é o ácido da menopausa, e o manual dos 30 (e a receita de 25 anos do TikTok, ácido em cima de ácido) não serve para o corpo dos 50.'),
+('p','**Logo:** a cintura cresce com o peso igual (não é a mesma gordura), o food noise aparece, e cada tentativa de "comer menos" deixa o intestino vazio e ácido por mais horas — piorando o que tentava resolver. Não é disciplina: é a Menopause Acid Belly, e o manual dos 30 (e a receita de 25 anos do TikTok, ácido em cima de ácido) não serve para o corpo dos 50.'),
 ('p','**Por que a injeção não resolveu:** ela substitui o sinal enquanto está no corpo, mas não devolve o escudo nem acorda as células L; ao parar, o solo continua ácido e o sinal some de novo — "the food noise came back", e o peso volta com juros.'),
 ])
 add(T[41].rows[0].cells[0],[
