@@ -1,0 +1,140 @@
+Revisão
+
+3 Níveis :
+1- 9 Vendas ( Macro)
+
+2- CUB review - Confuso, inacreditável e chato.
+
+3- Encurtamento, Nível de leitura e Impacto ( Micro)
+
+Prompt Encurtamento :
+
+SUGESTÃO Nº 1:
+
+Olá, bate papo.
+
+Hoje, você é um especialista em redação de resposta direta com ênfase em persuasão, impacto emocional e conversões. Vamos fazer um exercício de “chefe de redação”. O objetivo deste exercício é pegar a copy existente e torná-la mais persuasiva, emocional e poderosa para aumentar as conversões.
+
+Neste exercício, gostaria que você avaliasse o texto a seguir para que possamos encurtá-lo significativamente.
+
+Para fazer isso, você identificará todas as seções do texto (2 a 3 frases) que podem ser eliminadas sem afetar o significado do texto.
+
+No entanto, não desejo alterar nenhum conteúdo, estilo ou tom da copy.
+
+Em vez disso, quero que você se concentre no nível estrutural/de várias frases da cópia. Procure oportunidades para remover pedaços inteiros que são redundantes, etc.
+
+Forneça uma lista numerada com as edições sugeridas que cortariam uma parte significativa da cópia.
+
+Depois de processar isso, fornecerei o texto.
+
+>>>
+
+Aqui está o texto:
+
+COLE O SEU TEXTO E DEPOIS USE O PRÓXIMO PROMPT
+
+SUGESTÃO Nº 2:
+
+Agora, quero encurtar o texto no nível da frase. Isso significa que eu gostaria que você fosse linha por linha e (1) eliminasse quaisquer redundâncias removendo sentenças ou seções repetidas duas vezes, (2) apertando sentenças excessivamente longas para que possamos comunicar a mesma coisa com menos palavras.
+
+Isso levará nossa cópia de algo forte e nítido para algo longo, prolongado e lento. Queremos cortar todos os elementos desnecessários.
+
+Aqui está o que devemos focar:
+
+-   Estruture as frases para serem contundentes e diretas, especialmente usando a voz ativa em vez da voz passiva.
+
+-   EVITE a repetição como uma praga. Cada linha e seção da copy deve ser absolutamente necessária.
+
+Aqui estão alguns exemplos de repetições desnecessárias:
+
+“Nesse exato momento, seus dentes e gengiva estão sendo corroídos por sua própria saliva.
+
+Isso mesmo, pela sua própria saliva.
+
+Veja bem, a maioria das pessoas não sabe disso...
+
+Mas uma das maiores causas de dentes manchados, gengivas retraídas e mau hálito…
+
+É a sua saliva 'infestada de bactérias'.”
+
+Veja como isso repete o mesmo ponto sobre a saliva quase três vezes seguidas? Isso é muito redundante.
+
+Aqui está um exemplo onde duas frases podem ser recolhidas em uma frase:
+
+“Quando suas bactérias intestinais estão muito desequilibradas, elas criam um ambiente em seu corpo que é incrivelmente prejudicial à sua saúde geral.
+
+O desequilíbrio das bactérias afeta o revestimento do intestino, fazendo com que vaze e fique mais fraco com o tempo.”
+
+O que poderia simplesmente se tornar…
+
+“Mas quando suas bactérias intestinais estão desequilibradas, isso afeta o revestimento do intestino, fazendo com que vaze e fique mais fraco com o tempo.”
+
+Isso comunica a mesma mensagem, mas em 50% das palavras.
+
+Aqui está um exemplo de alguns detalhes irrelevantes.
+
+O exemplo abaixo é de um produto para queda de cabelo.
+
+Alguém pode dizer…
+
+“Então, uma revisão de pesquisa publicada em 2020 revelou que as propriedades de modulação de TGF da cúrcuma têm benefícios que vão muito além do cabelo saudável…
+
+E estão associados ao suporte para tudo, desde a melhora de distúrbios neurológicos até doenças hepáticas, diabetes, asma e muito mais.”
+
+Mas, neste caso, realmente não nos importamos com a forma como esses compostos afetam o fígado, diabetes ou asma – então podemos cortar essa segunda linha.
+
+Novamente, forneça uma lista numerada com a citação original e a edição sugerida, bem como uma breve explicação.
+
+Suas sugestões devem usar uma linguagem casual e coloquial que ainda pinte quadros descritivos. Deve ser como um amigo conversando com outro amigo. Deve usar uma linguagem curta e rítmica. Geralmente deve ter um nível de leitura mais baixo (significando menos consoantes nas palavras) e NÃO deve ser excessivamente poético.
+
+Depois de processar tudo isso, eu lhe darei o texto.
+
+>>>
+
+Aqui está o texto:
+
+>>>
+
+Prompt Linguagem vaga ou confusa :
+
+Olá, bate papo.
+
+Hoje, você é um especialista em texto de resposta direta com ênfase em persuasão, impacto emocional e conversões.
+
+Vamos fazer um exercício de “chefe de redação”. O objetivo deste exercício é pegar a copy existente e torná-la mais persuasiva, emocional e poderosa para aumentar as conversões.
+
+Neste exercício, você ajudará a esclarecer a copy removendo linguagem pouco clara ou confusa. Aqui estão alguns dos diferentes elementos para procurar:
+
+1.  Linguagem ambígua: usar palavras ou frases com múltiplos significados, o que pode levar à confusão.
+
+2.  Frases longas e complexas: Frases muito longas ou com várias cláusulas podem ser difíceis de seguir.
+
+3.  Voz passiva: o uso da voz passiva às vezes pode tornar as frases menos claras e difíceis de entender.
+
+4.  Redundância: Repetir as mesmas informações ou usar palavras desnecessárias pode tornar a escrita pouco clara e difícil de ler.
+
+5.  Falta de contexto: Deixar de fornecer informações básicas ou contexto suficientes para que o leitor entenda o tópico.
+
+6.  Uso excessivo de pronomes: usar muitos pronomes, especialmente quando não está claro a qual substantivo eles se referem, pode tornar a escrita vaga e confusa.
+
+7.  Jargão desnecessário ou linguagem complicada: Usar linguagem complicada quando palavras ou frases mais simples seriam mais apropriadas.
+
+8.  Falta de transições: Deixar de usar transições apropriadas entre ideias, parágrafos ou seções pode tornar a escrita desconexa e difícil de seguir.
+
+9.  Suposições inexplicadas: Fazer suposições de que o leitor tem certo conhecimento sem fornecer explicações pode levar à confusão.
+
+10. Falta de exemplos ou evidências: Deixar de fornecer exemplos concretos ou evidências para apoiar as reivindicações pode tornar a redação menos clara e persuasiva.
+
+11. Terminologia inconsistente: Usar termos diferentes para se referir ao mesmo conceito ao longo de um texto pode confundir o leitor.
+
+Agora, usando essa estrutura, avalie o texto a seguir para que possamos identificar qualquer coisa que o torne vago, pouco claro ou confuso. Faça uma lista numerada de todas as correções que devem ser feitas enquanto explica seu raciocínio (e faz referência à lista acima).
+
+Nossos exemplos aprimorados devem usar linguagem casual e coloquial que ainda pinte quadros descritivos. Deve ser como um amigo conversando com outro amigo. Deve usar uma linguagem curta e rítmica. Geralmente deve ter um nível de leitura mais baixo (significando menos consoantes nas palavras) e NÃO deve ser excessivamente poético.
+
+Por favor, processe esta instrução e, em seguida, fornecerei o texto.
+
+Processe isso, então eu lhe darei o texto.
+
+>>>
+
+Aqui está o texto:

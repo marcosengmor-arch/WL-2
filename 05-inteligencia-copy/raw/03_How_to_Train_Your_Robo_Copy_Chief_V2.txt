@@ -1,0 +1,789 @@
+How to Train Your Robo-Copy Chief
+
+(9x Prompts to Turn “C-Level Copy” Into an A+)
+
+[]
+
+Preface: If This Entire Experiment FAILS – I’ll Show You How To Blending “Sparse Priming + Swipe File + GPT-4” Can Generate World-Class Copy In a Couple of Clicks (See Output Here)
+
+1.  “Behind the Scenes of the CA Labs 7-Figure Agency – The EXACT Checklist We Use Internally”
+
+2.  Meta-Awareness and Constructing Prompts
+
+3.  Show the “A-List” Copy Prompts
+
+4.  3x “Halbert-Bot” Bonus Prompts
+
+5.  “Sparse Priming + Swipe File + GPT-4” Copy Method
+
+My Preface (From Bond Halbert)
+
+“You need to know two things first.
+
+First the bad news...
+
+This magic formula only helps make your message more readable, engaging and exciting.
+
+This formula can NOT make Eskimos want more ice.
+
+All the power in your sales copy comes from what you are saying and knowing your audience... not how you say it. In other words... market research is much more important than any creative writing ability.
+
+It takes marketing talent/experience to develop highly effective hooks, offers, and solutions from your research. The editing process which I’m going to thoroughly explain... is where all the professionalism comes into play.
+
+Just remember... no amount of clarity will make a bad offer better. Selling the wrong products to the wrong people at the wrong time will result in more wasted energy and resources than poorly worded copy.”
+
+Behind the Scenes of Our 7-Figure Agency – The EXACT Checklist We Use Internally:
+
+See Checklist Here
+
+Meta-Awareness & Constructing Prompts:
+
+Quality and adjectives aren’t always enough.
+
+-   Write in a punchy way…
+
+-   Write in a direct response style…
+
+-   Write in a conversational format…
+
+Because the “adjective” doesn’t contain ALL of the information you want the prompt to actually have.
+
+So we use clear instructions, identity statements, examples, constraints, etc.
+
+But MOST importantly, conceptualize it as an agent. Give the same assets you would give to anyone who was performing this role. This includes “negative examples,” etc.
+
+[]
+
+Let’s try it (don’t hate me).
+
+Your A-List Copy Prompts:
+
+Dimensionalize Pain Points & Benefits:
+
+PROMPT #1:
+
+Hello, chat.
+
+Today, you’re an expert in direct-response copy who optimizes for maximum persuasion, curiosity, emotional impact and conversions. We’re going to go through a “copy-chief” exercise, the purpose of which is to take a piece of existing copy and make it more persuasive, emotional and powerful to ultimately increase conversions.
+
+Here are some principles to make this happen.
+
+1.  Paint concrete, visual scenarios of both the pain and benefits so that the reader can connect to it emotionally. (This is by FAR the most important point to focus on).
+
+2.  Show how these pain and benefits will impact how others perceive the reader in social situations and increase their social standing or desirability.
+
+3.  Use powerful, visceral language that contains strong active verbs. (Typically, this language should be conversational, not overly-poetic and rooted in Anglo-Saxon words as opposed to their Latin-based equivalents).
+
+Here’s an example of how to paint concrete, visual scenarios of both the pain and benefits so that the reader can connect to it emotionally.
+
+The following:
+
+“Transforming me from a woman who was HORRIFIED by her disappearing hair…”
+
+Would become:
+
+“Transforming me from a woman who used to spend hours everyday combing and styling her hair to cover up her visible scalp…”
+
+And this:
+
+“Then his libido took a hit, and he began experiencing weak erections.”
+
+Would become this:
+
+“Then his libido took a hit, so he started having to make excuses to his wife after date night.”
+
+See, how each of these creates more SPECIFIC scenarios that illustrate the pain or benefit the target audience might be experiencing versus describing those in a more generic way?
+
+Here’s an example of how to include specific pain and benefit points that involve “social situations.”
+
+For example, in a dental offer you might say…
+
+“People at work keep saying I must have gotten veneers or that I have fake teeth.
+
+Even my dentist who I haven’t visited in YEARS couldn’t believe how white my teeth had become.”
+
+In this exercise you’re going to make two separate and numbered lists. One will contain ALL “benefit claims” in the copy. And the other will be for all “pain claims.” Then DIRECTLY BELOW each numbered pain and benefit point I want you to provide an example of a way to make these benefits stronger by making them more concrete, specific, visual, and emotional as possible using the principles above.
+
+Remember, that your enhanced examples should use casual, conversational language that still paints descriptive pictures. It should feel like a friend talking to another friend. It should use short, rhythmic language. It should generally have a lower reading level (meaning fewer consonants in the words) and should NOT be overly poetic.
+
+Please process this information, then I’ll provide you with the text:
+
+>>>
+
+Please remember to list the benefits/pain points and enhanced benefit/pain points together.
+
+And PLEASE use casual, conversational language that still paints descriptive pictures. It should feel like a friend talking to another friend. It should use short, rhythmic language. It should generally have a lower reading level (meaning fewer consonants in the words) and should NOT be overly poetic.
+
+Here’s the text:
+
+REVISION PROMPT #:
+
+Please take the original text and replace ONLY the revisions for (Benefit and Pain) #. Don't change anything else besides those sentences. Here's the original text for reference:
+
+ADDITIONAL PROMPT #1:
+
+Please modify these benefit and pain points to show how they’ll impact how others perceive the reader in social situations and increase their social standing or desirability.
+
+Here’s a reminder of what I mean by that:
+
+For example, in a dental offer you might say…
+
+“People at work keep saying I must have gotten veneers or that I have fake teeth.
+
+Even my dentist who I haven’t visited in YEARS couldn’t believe how white my teeth had become.”
+
+In this exercise you’re going to make two separate and numbered lists. One will contain ALL “benefit claims” in the copy. And the other will be for all “pain claims.” Then DIRECTLY BELOW each numbered pain and benefit point I want you to provide an example of a way to make these benefits stronger by making them more concrete, specific, visual, and emotional as possible using the principles above.
+
+An example of a benefit claim is something like "you'll lose fat effortlessly." And an example of a "pain claim" is something like "you feel embarrassed when you look in the mirror."
+
+Remember, that your enhanced examples should use casual, conversational language that still paints descriptive pictures. It should feel like a friend talking to another friend. It should use short, rhythmic language. It should generally have a lower reading level (meaning fewer consonants in the words) and should NOT be overly poetic.
+
+ADDITIONAL PROMPT #2
+
+Please take the information above to create a BRAND NEW sequence of pains and benefits in a single structure that’s called a “block.”
+
+A “block” of pains or benefits typically has the following structure:
+
+1.  Overarching statement of pain or benefit.
+
+2.  3x powerful, vivid descriptions of the benefit.
+
+3.  1-2x concrete, dimensional and "lived in experience" that creates a mind movie of what will happen.
+
+4.  A deep, emotional recap of how that will make them feel.
+
+Here’s an example.
+
+Overarching Statement.
+
+You’ll lose 48lbs effortlessly. [Overarching Benefit]
+
+Specific Descriptions.
+
+The fat will melt from your love handles, thighs, arms and more.
+
+You’ll feel flooded with energy.
+
+And love the way you look.
+
+Concrete “Dimensional” Language
+
+When you look at yourself in the mirror, you’ll crack a little smile and think to yourself, “I’ve never looked this good before.”
+
+Or you’ll see your husband watch you as you walk to the bathroom in your tight black dress.
+
+Emotional Appeal
+
+You’ll feel fully in love with yourself… who you are… knowing that you’re everything you were always meant to be.”
+
+Here are some other examples that loosely follow this structure:
+
+“You’ll walk down the stairs to your kitchen with ease.
+
+And as you sip your morning coffee and plan your day, suddenly every possibility is opened back up to you.
+
+Maybe you get back to digging around in your backyard garden…
+
+Or spending the day playing with your grandkids at the park…
+
+Or cooking a large meal for family and friends…
+
+Or finally planning that vacation with your spouse because you know that this time you’ll actually be able to ENJOY it.
+
+Think about how good it would feel to be independent… self-sufficient… and FREE to move in your own body again.”
+
+And…
+
+“So while others are kicking back…
+
+Enjoying the coveted 4-hour workweek while they sip Mai Thais on a beach in Cabo…
+
+Or catch a weekday baseball game with their kids…
+
+Or relax pool-side in the backyard of their brand new home…”
+
+See how we follow this structure of a more general, overarching statement. Then we move to a few examples (in this case four of them) of specific, concrete benefits people can expect to achieve. Finally, you finish with an overall emotional benefit claim.
+
+Remember, that your enhanced examples should use casual, conversational language that still paints descriptive pictures. It should feel like a friend talking to another friend. It should use short, rhythmic language. It should generally have a lower reading level (meaning fewer consonants in the words) and should NOT be overly poetic.
+
+When you’re ready, I want you to create 2x NEW pain and benefit blocks each in a single line.
+
+Specific Proof:
+
+Hello, chat. Today, you’re an expert in direct-response copy with an emphasis on persuasion, emotional impact and conversions. We’re going to go through a “copy-chief” exercise. The purpose of this exercise is to take existing copy and make it more persuasive, emotional and powerful to ultimately increase conversions.
+
+The way we’re going to do this is by adding more “proof” to our copy to make the language more specific, believable and concrete. In order to accomplish this, I’d like to introduce you to two concepts.
+
+1.  Combine every claim with some kind of proof either immediately after or inside the same sentence.
+
+2.  Make your proof stronger by using different “proof modalities.”
+
+Here’s an example of what I mean by combining your claims and proof together.
+
+You start with a claim like "you can skyrocket your metabolism.”
+
+Then you turn it into "According to Harvard scientists, you can skyrocket your metabolism by 400%.”
+
+In this example, the credibility of Harvard and the specificity of 400% makes the claim more believable.
+
+You could also say, “This molecule completely restores your gums and brightens your teeth.”
+
+But saying, “Harvard scientists say this self-healing molecule can regenerate weak gums and make teeth 3 shades brighter in just weeks.”
+
+By credibility (names), specifics (3 shades brighter) and numbers (400%) you can make the copy a lot stronger.
+
+Here’s what I mean by “proof modalities.”
+
+This is a concept that refers to the fact that there are multiple kinds of proof. In order to make your copy as strong as possible, it’s important to add these different “proof modalities.”
+
+Here are some examples of different proof modalities;
+
+Specificity: Using the specificity of certain names (Harvard, Nobel Prize Winning Scientists), numbers (boosted by 110%, skyrocketed fourfold) and other kinds of specifics to convey proof and believability. Think about names and numbers.
+
+Acknowledging Skepticism: Pointing out that it's clear something sounds unbelievable, but here's why it's true. And being candid.
+
+Credible Source: Citing a very specific, credible source (like a Harvard-trained scientist).
+
+Candor: Being candid about what's true and not true so you can disarm people.
+
+The Reason Why: Adding in the word "because" to offer an explanation for each fact.
+
+Technical Jargon: Using a brief flurry of highly technical language that presents you as an expert even if the reader doesn't understand quite what you mean.
+
+"Fake" Celebrity Endorsements: Creating a logical link between something that celebrities do and your specific claim, i.e. if a celebrity has been seen drinking a probiotic, then you can say that they must understand the importance of digestive health which further provides proof for what you do.
+
+Metaphors: Using metaphors to explain how a concept works, so it’s easier to understand and feels more persuasive. I.e. “Your joints dry out, which turns them into a cracked wasteland. No wonder they burn and feel stiff.” In this scenario, the metaphor helps the reader instantly connect the idea of dry joints to their own pain.
+
+Testable Proof: Make an argument or statement that the reader can instantly check for themselves. (I.e. if you’re explaining that people don’t have great willpower, you could say “That’s why gyms are busy in January and empty in July”). Since most readers can instantly verify that, it carries a lot of weight.
+
+Please process these three concepts, then prepare yourself for the following task.
+
+We’re going to blend those concepts above to add more “proof” to our copy to make the language more specific, believable and concrete.
+
+Make a numbered list of every claim you see. Then directly below each number, add in a way you can make it stronger by using different proof modalities. (Please indicate which proof modality you’re using).
+
+Use as many examples of proof modalities as possible. But use the ones you think are strongest at the moment. Don’t try to use all of them if they’re not appropriate.
+
+Remember, that your suggestions should use casual, conversational language that still paints descriptive pictures. It should feel like a friend talking to another friend. It should use short, rhythmic language. It should generally have a lower reading level (meaning fewer consonants in the words) and should NOT be overly poetic.
+
+Once you’ve processed all this, I’ll provide you with the text.
+
+>>>
+
+Remember, you’re going to add more “proof” to our copy to make the language more specific, believable and concrete. In order to accomplish this, I’d like to introduce you to three concepts.
+
+1.  Combine every claim with some kind of proof either immediately after or inside the same sentence.
+
+2.  Make your proof stronger by using different “proof modalities.”
+
+Please use a variety of different “proof modalities.” You don’t need multiple for each claim, just use a variety throughout.
+
+Your suggestions should use casual, conversational language that still paints descriptive pictures. It should feel like a friend talking to another friend. It should use short, rhythmic language. It should generally have a lower reading level (meaning fewer consonants in the words) and should NOT be overly poetic.
+
+Here’s the text:
+
+Eliminate Fluff / Concision:
+
+PROMPT #1:
+
+Hello, chat.
+
+Today, you’re an expert in direct-response copy with an emphasis on persuasion, emotional impact and conversions.We’re going to go through a “copy-chief” exercise. The purpose of this exercise is to take existing copy and make it more persuasive, emotional and powerful to ultimately increase conversions.
+
+In this exercise, I'd like you to evaluate the following text so we can shorten it significantly.
+
+To do this you’re going to identify any sections of copy (2-3 sentences long) that can be eliminated without affecting the meaning of the copy.
+
+However, I do not want to change any of the content, style or tone of the copy.
+
+Instead, I want you to focus on the structural / multi-sentence level of the copy. Look for opportunities to remove whole chunks that are redundant, etc.
+
+Please provide a numbered list with the suggested edits that would cut a significant part of the copy out.
+
+Once you’ve processed this, I’ll provide you with the text.
+
+>>>
+
+Here’s the text:
+
+PROMPT #2:
+
+Now, I want to shorten the text on the sentence level. This means that I'd like you to go line by line and (1) eliminate any redundancies by removing sentences or sections that are repeated twice, (2) tightening up overly long sentences so we communicate the same thing with fewer words.
+
+This will take our copy from something that’s punchy and crisp, to something that’s long, drawn out and slow. We want to cut out all unnecessary elements.
+
+Here’s what we should focus on:
+
+-   Structure sentences to be punchy and direct, especially by using active voice instead of passive voice.
+
+-   AVOID repetition like the plague. Every line and section of the copy should be absolutely necessary.
+
+Here are some examples of unnecessary repetitions:
+
+“Right at this very moment, your teeth and gum are being eroded by your own saliva.
+
+That’s right, by your own saliva.
+
+You see, most people don’t know this…
+
+But one of the biggest causes of stained teeth, receding gums and bad breath…
+
+Is your ‘bacteria-infested’ saliva.”
+
+See how this repeats the same point about saliva almost three times in a row? This is too redundant.
+
+Here’s an example where two sentences could be collapsed into one sentence:
+
+“When your gut bacteria is very imbalanced, it creates an environment in your body that is incredibly harmful to your overall health.
+
+The imbalance of bacteria affects your gut lining, causing it to leak and become weaker over time.”
+
+Which could simply become…
+
+“But when your gut bacteria is imbalanced, it affects your gut lining, causing it to leak and become weaker over time.”
+
+This communicates the same message but in 50% of the words.
+
+Here’s an example of some irrelevant details.
+
+The below example is from a hair loss product.
+
+Someone might say…
+
+“Then a research review published in 2020 revealed the TGF modulation properties of Turmeric have benefits reaching well beyond healthy hair…
+
+And are associated with support for everything from improving neurological disorders to liver disease, diabetes, asthma and more.”
+
+But in this case, we don’t really care about how these compounds affect the liver, diabetes or asthma – so we can cut out that second line.
+
+Again, provide a numbered list with the original quote and the suggested edit, as well as a brief explanation.
+
+Your suggestions should use casual, conversational language that still paints descriptive pictures. It should feel like a friend talking to another friend. It should use short, rhythmic language. It should generally have a lower reading level (meaning fewer consonants in the words) and should NOT be overly poetic.
+
+Once you’ve processed all this, I’ll provide you with the text.
+
+>>>
+
+Here’s the text:
+
+>>>
+
+Reading Level:
+
+Hello, chat. Today, you’re an expert in direct-response copy with an emphasis on persuasion, emotional impact and conversions. We’re going to go through a “copy-chief” exercise. The purpose of this exercise is to take existing copy and make it more persuasive, emotional and powerful to ultimately increase conversions.
+
+To do this, we’re going to focus on the reading level. In general, when a text has a lower reading level, it improves conversions.
+
+So we’re going to take an existing text and identify all of the ways to lower the reading level. I’d like to get it as close to a 7th grade reading level as possible without changing too much of the original meaning, style and tone.
+
+To make these changes, I want you to go line by line and replace any large, multisyllabic words with shorter, punchier words that typically have an Anglo-Saxon origin versus a Latin one. We can also break longer sentences into shorter ones so that they’re between 18-22 words.
+
+But we don’t want to make changes that affect the conversational style or rhythm of the text.
+
+Then you’ll make a numbered list of all of these edits that include (1) the original quoted sentence and (2) the suggested edits.
+
+Here are some ways we can do this:
+
+-   We can eliminate redundant words.
+
+-   We can replace complicated words with simpler ones.
+
+-   We can simplify the sentence structure by eliminating words entirely.
+
+-   We can break up longer, complicated sentences into shorter ones.
+
+In general, the MAIN thing we want to do is minimize the number of syllables in each word without affecting the emotional impact or persuasive value of the copy.
+
+But our enhanced examples should use casual, conversational language that still paints descriptive pictures. It should feel like a friend talking to another friend. It should use short, rhythmic language. It should generally have a lower reading level (meaning fewer consonants in the words) and should NOT be overly poetic.
+
+Please process this instruction and then I’ll provide you with the text.
+
+>>>
+
+Here’s the text:
+
+Vague or Unclear Language:
+
+Hello, chat.
+
+Today, you’re an expert in direct-response copy with an emphasis on persuasion, emotional impact and conversions.
+
+We’re going to go through a “copy-chief” exercise. The purpose of this exercise is to take existing copy and make it more persuasive, emotional and powerful to ultimately increase conversions.
+
+In this exercise you’re going to help to clarify copy by removing unclear or confusing language. Here are some of the different elements to look for:
+
+1.  Ambiguous language: Using words or phrases with multiple meanings, which can lead to confusion.
+
+2.  Long and complex sentences: Sentences that are too long or have multiple clauses can be difficult to follow.
+
+3.  Passive voice: Using passive voice can sometimes make sentences less clear and harder to understand.
+
+4.  Redundancy: Repeating the same information or using unnecessary words can make writing unclear and harder to read.
+
+5.  Lack of context: Failing to provide enough background information or context for the reader to understand the topic.
+
+6.  Overuse of pronouns: Using too many pronouns, especially when it's unclear which noun they refer to, can make writing vague and confusing.
+
+7.  Unnecessary jargon or complicated language: Using complicated language when simpler words or phrases would be more appropriate.
+
+8.  Lack of transitions: Failing to use appropriate transitions between ideas, paragraphs, or sections can make writing disjointed and hard to follow.
+
+9.  Unexplained assumptions: Making assumptions that the reader has certain knowledge without providing explanations can lead to confusion.
+
+10. Lack of examples or evidence: Failing to provide concrete examples or evidence to support claims can make writing less clear and persuasive.
+
+11. Inconsistent terminology: Using different terms to refer to the same concept throughout a piece of writing can be confusing for the reader.
+
+Now, using this framework, please evaluate the following text so we can identify anything that makes it vague, unclear or confusing. Make a numbered list of all corrections that should be made while explaining your reasoning (and referencing the above list).
+
+Our enhanced examples should use casual, conversational language that still paints descriptive pictures. It should feel like a friend talking to another friend. It should use short, rhythmic language. It should generally have a lower reading level (meaning fewer consonants in the words) and should NOT be overly poetic.
+
+Please process this instruction and then I’ll provide you with the text.
+
+Process this, then I’ll provide you with the text.
+
+>>>
+
+Here’s the text:
+
+Conversational Style & Flow:
+
+Hello, chat. Today, you’re an expert in direct-response copy with an emphasis on persuasion, emotional impact and conversions. We’re going to go through a “copy-chief” exercise. The purpose of this exercise is to take existing copy and make it more conversational, so that it engages the reader more and becomes more persuasive.
+
+To do this, we’re going to do the following:
+
+1.  Focus on adding “rhythm” to the copy. This means that we use a mixture of short and long sentences that vary.
+
+2.  In addition, you can use triplets. These are series of 3 sentences in order that create a sense of building momentum.
+
+3.  Finally, you’ll add in more “conversational inflections” like the ones I’ve provided below.
+
+Here’s a list of those “conversational inflections”:
+
+Okay, But check this out, You know what?, Guess what, I mean, Seriously, Listen, Well, here's the thing, Actually, To be honest, In fact, Let me tell you, So, here's the deal, And the best part?, Can you believe it?, Now, imagine this, Trust me, Think about it, What's even crazier is, Anyway, I kid you not, Just picture this, On top of that, Here's what's interesting, But here's the kicker, You won't believe this, No kidding, I've got to say, So, get this, That's not all, You might be wondering, Hold on a second, It's like this, Look, let me explain, Now, this is where it gets good, Just think for a moment, And you know what's even better?, Not only that, The craziest part is.
+
+You’ll also include relevant transitions like:
+
+Anyway, Also, Plus, Moving On, etc.
+
+We don’t need to include these transitions and “conversational inflections” in every sentence. Just sprinkle them in here and there to keep things moving forward.
+
+Our enhanced examples should should use casual, conversational language that still paints descriptive pictures. It should feel like a friend talking to another friend. It should use short, rhythmic language. It should generally have a lower reading level (meaning fewer consonants in the words) and should NOT be overly poetic.
+
+Don’t go over the top with this conversational language.
+
+Once you’ve processed this, I’ll provide you with the text. Please organize all suggestions in a numbered list (there should be a MINIMUM of 20).
+
+>>>
+
+Here’s the text:
+
+3x “Halbert-Bot” Bonus Prompts:
+
+In the voice of “Bond Halbert…”
+
+“Not only do I feed my family with the words I write but... I also teach other professional copywriters to take their game to the next level.
+
+Highly paid wordsmiths in all niches come to me when they need a unique hook or solution but...
+
+It’s the editing phase where I show them how to inject a lot of hidden yet effective psychological patterns the legends (including my father) used but never shared because they themselves never dove that deep into their own natural ability.
+
+I've heard every copywriting lesson known to man over and over again for a couple decades and I have never heard some of these formulas and patterns I saw in good copy explained by any copywriting guru and again this includes my legendary father.
+
+The formulas I have created for research or writing post scripts, headlines and bullets all work like a charm and in this book you will see that same thought process applied to editing with the single goal of keeping the right prospects reading.
+
+Once I started to share these advanced level concepts with other professional copywriters they were blown away because... they didn’t think there was anything new to learn.
+
+[...].”
+
+Copy Needs To Be Edited
+
+Over and Over Again But...
+
+Using This Formula Gets
+
+Faster and Faster
+
+“Nobody, including the great Gary C. Halbert has been able to write great copy with only one edit.
+
+There are always too many errors, rough spots or opportunities to punch up the copy to catch in one single pass but...
+
+As you get more familiar with this editing formula, you will start fixing more errors each time you sit down to edit and... you will also slowly start to change the way you write to reflect what you discover in this book but no matter what…”
+
+ADDING IN POWER WORDS:
+
+In the voice of “Bond Halbert…”
+
+“Most of the top copywriting courses provide a list of power words including my father’s but I think this is a mistake.
+
+Using words like “crisis” instead of “problem” really goes a long way to punch up your copy and excite prospects which keeps them reading but... there is a serious flaw in using someone “else’s” list of power words.
+
+Personally I’m sick of the word “Amazing…”
+
+Sorry dad but after 30+ years it gets a little stale and that isn’t my main objection to using a power word list from other copywriters. You see, every wordsmith eventually settles into their own writing style and certain words just don’t fit naturally.
+
+Every time I see someone try to mimic John Carlton's dark Steven King-like way of writing it feels forced.
+
+Here is a better way... Go to The National Enquirer every day for a week or two and read a bunch of their headlines. Pay attention to which words really grab you and use them to make two lists.
+
+One list should be made up of positive words like “Miracle” and “Jaw-Dropping” and the other list should contain all of the negative words like “Slime Ball” and “Crisis”.
+
+This idea of using power words also applies to phrases you may like such as “River of income” or “Impossible to find” or “goes together like hookers and blow”.
+
+Okay I let that last one in just to show this also works for copywriters who like to take a more abrasive and attention jarring approach.
+
+[NOTE:] You will find a lot more negative words than positive words but if you begin to keep your eyes and ears open for such power words, you will build both lists over time but here is the best part.
+
+Eventually you will write using your attention gripping power words and refer to the list less and less but… you will always want to keep your list of power words handy when writing and editing because it can help keep the mental juices flowing.
+
+What you want to do is read your list of power words and phrases right before writing your first draft and then refer to the list during the editing phase.
+
+While editing you will swap out words like “upset” with “livid” or maybe change “rare” to “impossible to find”.”
+
+>>>
+
+Hello, chat. Today, you’re an expert in direct-response copy with an emphasis on persuasion, emotional impact and conversions. We’re going to go through a “copy-chief” exercise. The purpose of this exercise is to take existing copy and make it more persuasive, emotional and powerful to ultimately increase conversions.
+
+We’re going to do that by actually adding what are called “power words.” These are words that are emotionally charged and create a visceral action.
+
+What I want you to do is process the following “power words” organized by category below.
+
+Then I’m going to provide you with some text. What I’d like you to do is read through text and identify any places where we can replace existing words with power words.
+
+Then you’ll make a NUMBERED list of quoted text with your suggestion immediately below.
+
+We don’t want to be heavy-handed with this. Sometimes, adding a power word is going to make the text feel unnatural and we want to avoid that.
+
+So we should likely only use these words every 80-100 words. Meaning that we’ll probably end up with around 10 suggestions total.
+
+Below are the words.
+
+GREED POWER WORDS:
+
+At the top: Bank, Bargain, Beautiful, Before, Best, Big, Billion, Bold, Bonanza, Booked Solid, Booming, Bonus, Boss, Cash, Cheap, Cheatsheet, Clever, Costly, Deadline, Discount, Dollar, Don’t miss out, Double, Earn More, Economical, Effective, Elegant, Elite, Exclusive, Exclusivity, Expires, Explode, Extra, Fast, Feast, Final, First, Fortune, Free, Frenzy, Frugal, Genius, Get more, Gift, Giveaway, Golden, Gorgeous, Greatest, Guilt-free, Handsome, Hurry, Inexpensive, Instantly, Jackpot, Kick-ass, Knockout, Last chance, Legendary, Limited, Lowest price, Lucrative, Luxurious, Marked down, Massive, Monetize, Money, Money-draining, Money-making, Money-saving, More, Nest egg, Never again, New, Notable, Now, Pay zero, Premiere, Price break, Prize, Profit, Prosperous, Quadruple, Quick, Reasonable, Reduced, Rich, Running out, Sale, Sale ends soon, Sassy, Save, Save money, Savings, Six-figure, Skyrocket, Slashed, Smart, Soaring, Special, Successful, Surge, Treasure, Triple, Ultimate, Undefeated, Up-sell, Value, Waste, Wealth, Wealthy, While they last, Whopping, You.
+
+FEAR POWER WORDS:
+
+Abuse, Agony, Annihilate, Apocalypse, Armageddon, Assault, Backlash, Beating, Beware, Blinded, Blood, Bloodbath, Bloodcurdling, Bloody, Bomb, Buffoon, Bumbling, Cadaver, Cataclysmic, Catastrophe, Caution, Collapse, Corpse, Coward, Cowardly, Crazy, Cringeworthy, Cripple, Crisis, Danger, Dangerous, Dark, Deadly, Death, Deceived, Deceiving, Destroy, Devastating, Disappointment, Disastrous, Distress, Distressed, Drowning, Dumb, Embarrass, Embarrassing, Epidemic, Fail, Feeble, Fired, Fool, Fooled, Frantic, Frightening, Gambling, Gullible, Hack, Hazardous, Hoax, Horrific, Hurricane, Inferior, Injure, Insidious, Invasion, Jail, Jeopardy, Last Chance, Lawsuit, Looming, Lost opportunity, Lunatic, Lurking, Massacre, Meltdown, Menacing, Mired, Mistake, Miss out, Murder, Nightmare, Painful, Pale, Panic, Peril, Piranha, Pitfall, Plague, Played, Plummet, Plunge, Poison, Poor, Prison, Pummel, Pus, Reckoning, Refugee, Revenge, Risky, Savage, Scary, Scream, Searing, Shame, Shameful, Shatter, Shellacking, Shocked, Silly, Slaughter, Slave, Smash, Strangle, Stupid, Suck, Suffering, Tailspin, Tank, Targeted, Teetering, Terror, Terrorist, Threat, Threatening, Torture, Toxic, Tragedy, Trap, Trauma, Vaporize, Victim, Volatile, Vulnerable, Warning, Worry, Wounded, Wreaking havoc.
+
+ANGER WORDS:
+
+Abuse, Agitate, Agonizing, Annoy, Arrogant, Ass kicking, Backstabbing, Beat down, Boil over, Broke, Brutal, Buffoon, Bullshit (or B.S. if your audience is more of a PG crowd), Bully, Corrupt, Coward, Crooked, Crush, Deplorable, Desperate, Despicable, Diatribe, Diminish, Disgusting, Evil, Exploit, Fear, Force-fed, Foul, Furious, Greedy, Hate, Hatred, Hostile, Jealous, Know it all, Lies, Loathsome, Loser, Lying, Maul, Miff, Money-grubbing, Morally bankrupt, Nazi, No Good, Obnoxious, Payback, Pitiful, Pound, Preposterous, Provoke, Punish, Raise hell, Rant, Rebel, Revolting, Ruthless, Scam, Screw, Sick and Tired, Smug, Sneaky, Sniveling, Snob, Snooty, Snotty, Spiteful, Steal, Stink, Stuck up, Thug, Underhanded, Untrustworthy, Vengeful, Vicious, Victim, Violent, Waste, Weak, Worst, Wounded.
+
+CURIOSITY WORDS:
+
+Astonishing, Backdoor, Banned, Be the first, Become an insider, Behind the scenes, Bizarre, Black market, Blacklisted, Bootleg, Censored, Clandestine, Class full, Classified, Closet, Concealed, Confessions, Confidential, Controversial, Cover-up, Covert, Crazy, Cringeworthy, Dark, Discover, Distinct, Exclusive, Elusive, Extraordinary, Eye-opening, Forbidden, Forgotten, Harness, Hidden, Hilarious, Hush-hush, Illegal, Illusive, Incredibly, Insane, Insider, Interesting, Invitation only, Join, Key, Limited, Little-known, Login required, Lost, Members-only, Myths, Odd, Off the record, Off-limits, On the QT, Outlawed, Priceless, Private, Privy, Psycho, Remote, Restricted, Ridiculous, Secluded, Secret, Secrets, Shh!, Shocking, Smuggled, Sneak peek, Spoiler, Strange, Stunning, Supersecret, Thought-provoking, Top secret, Trade secret, Unauthorized, Unbelievable, Uncharted, Unconventional, Uncover, Under the radar, Under the table, Under wraps, Underground, Undiscovered, Unexplained, Unexplored, Unheard of, Unique, Unlock, Unsung, Untold, Unusual, Unveil, Wacky, Withheld, Zany.
+
+LAZY:
+
+Accelerated, Accessible, All-inclusive, Basic, Building blocks, Cheatsheet, Child’s play, Cinch, Clear, Complete, Components, Comprehensive, Copy, Downloadable, Easy, Easily, Economical, Efficient, Effortless, Elementary, Elements, Factors, Fail-proof, Fast, Fill in the blanks, Formula, Free, Freebie, Gift, Guide, Guilt-Free, Hack, How-to, In less than, In record time, Index, Ingredients, Instant, Instantly, Itemized, Kickstart, Light, List, Manageable, Manifest, Mere, Minutes, Model, Mold, No nonsense, No problem, No sweat, Nothing to it, Now, On demand, Painless, Pattern, Picnic, Piece of cake, Plain, Printable, Quick, Quickly, Rapid, Ready, Reduced, Replicate, Report, Results, Roadmap, Save time, Simple, Simple as ABC, Smooth, Smooth sailing, Snap, Straightforward, Steal, Steps, Swift, Swipe, Template, Tools, Uncomplicated, Without (add a negative, like “time” or “pain”).
+
+LUST:
+
+Ache, Allure, Alluring, Naughty, Arouse, Nude, Bare, Obscene, Begging, Orgasmic, Beguiling, Passionate, Brazen, Pining, Captivating, Charismatic, Pleasure, Charm, Provocative, Cheeky, Racy, Climax, Raunchy, Crave, Craving, Compelling, Covet, Risque, Delight, Rowdy, Delirious, Salacious, Depraved, Satisfy, Desire, Saucy, Dirty, Scandalous, Divine, Seduce, Ecstasy, Seductive, Embrace, Sensual, Enchant, Enchanting, Engaging, Sex, Enthralling, Shameless, Entice, Sinful, Entrance, Sleazy, Excite, Sleeping, Explicit, Spank, Exposed, Spellbinding, Fascinate, Fascinating, Spicy, Forbidden, Steamy, Frisky, Stimulating, Goosebumps, Strip, Hanker, Sweaty, Heavenly, Tantalizing, Hottest, Taste, Hypnotic, Tawdry, Impure, Tease, Indecent, Tempting, Intense, Thrilling, Intoxicating, Tickle, Itching, Tight, Juicy, Tingle, Kinky, Turn on, Kiss, Unabashed, Lascivious, Uncensored, Lewd, Untamed, Lick, Untouched, Lonely, Urge, Longing, Voluptuous, Love, Vulgar, Pleasurable, Riveting, Obsession, Mouthwatering, Magnetic, Lovely, Intriguing, Flirt, Lure, Wanton, Luscious, Wet, Lush, Whip, Lust, Wild, Mischievous, X-rated, Mouth-watering, Yearning, Naked, Sexy, Sinful, Yummy, Sneak peek, Promiscuous.
+
+SAFETY:
+
+Above and beyond, Absolute, According to, Accredited, Anonymous, Approved, Authentic, Authoritative, Authority, Backed, Bankable, Because, Best, Best selling, Bonafide, Cancel anytime, Case study, Cautious, Certified, Clear, Clockwork, Dependable, Don’t worry, Endorsed, Ensured, Expert, Foolproof, Fully refundable, Freedom, Genuine, Guard, Guaranteed, Guilt-free, Haven, Healthy, Improved, Ironclad, Lifetime, Money-back, No fail, No obligation, No questions asked, No risk, No strings attached, Official, Pay zero, Preserve, Privacy, Professional, Protect, Protected, Protection, Proven, Recession-proof, Recognized, Refund, Reliable, Research, Results, Retreat, Risk-free, Rock-solid, Safe, Safety, Scientifically proven, Secure, Smart, Sound, Studies show, Sure thing, Tested, Track record, Trusted, Try before you buy, Unconditional, Verify, Well-respected, Worldwide.
+
+Please ONLY use nouns, verbs and adjectives. Do NOT turn any of these words into adverbs.
+
+Your suggestions should should use casual, conversational language that still paints descriptive pictures. It should feel like a friend talking to another friend. It should use short, rhythmic language. It should generally have a lower reading level (meaning fewer consonants in the words) and should NOT be overly poetic.
+
+Once you’ve processed this, I’ll provide you with the text. Please organize all suggestions in a NUMBERED list of quoted text with your suggestion immediately below.
+
+>>>
+
+Here’s the text:
+
+USING PROGRESSIVE TENSE:
+
+In the voice of “Bond Halbert…”
+
+“Many of the techniques I have explained so far use hidden psychology to get the prospect to decide to read your copy and then keep them reading but this next psychological trick is designed to make your potential customers chase your offer.
+
+There are lots of theories about how our very complicated brains work but we do know the most base level response we humans have is what they call the flight or fight instinct.
+
+Throughout all of human history, those who knew when to run toward food or run away from danger lived and prospered more than those who froze with indecision.
+
+Because of this, almost everyone alive today comes from ancestors with the fight or flight instinct in their DNA.
+
+This is why the first thing every human subconsciously asks themselves when confronted with anything new is “do I want this?” or “should I fear this?”.
+
+A pile of cash immediately causes a gut reaction of desire.
+
+A house on fire causes us to immediately assess the threat to our lives but this doesn’t mean you have to show girls in bikinis or brutal thugs to take advantage of this base level flight or fight instinct we all have.
+
+Yes, an attractive woman can increase results dramatically but that isn’t really the third level of psychology I am about to show you.
+
+To prompt most people to take action we need to be forced to make a decision.
+
+Motivation to act can be sparked in many different ways but it is always a fear of missing out on something good or a fear of the consequences for not acting.
+
+This is why I teach marketers to try and add some sense of urgency to their promotions but we can use this fight or flight instinct to punch up copy by making one simple change.
+
+I’m going to explain how to give your copy a sense of a movement so they get the feeling they may miss out on something good or get into danger if they delay paying attention to the copy or making a buying decision but first... I have to remind you of a basic English lesson.
+
+If you recall all words are categorized as nouns, verbs, pronouns, adjectives, adverbs etc.
+
+The verbs are action words and most writing is written in the past tense.
+
+In this next example I have underlined all the verbs.
+
+Sample:
+
+The Halbert Copywriting Method TM has taken many copywriters to the next level and added an extra digit to their take-home pay.
+
+The word “taken” makes it past tense because it describes something which has already happened.
+
+Now let’s change that to the copywriter’s favorite tense, present progressive which means the verb indicates the action is ongoing.
+
+Basically every word ending in “ING” is progressive and if it indicates it is happening now, it is called present progressive.
+
+With the exception of stories, I like to use the present progressive wherever possible.
+
+For example, here is that line again except we have used the present progressive or version of the words ending with “ing” to create a sense of ongoing movement.
+
+The Halbert Copywriting Method TM is taking many copywriters to the next level and adding an extra digit to their take-home pay.
+
+It may seem like an insignificant little difference but over a paragraph or two you can really change the perception of the prospect in a way which makes them act and here’s why.
+
+When you hear that a product has sold very well your brain starts to get curious why other humans are so interested.
+
+When you hear that a product is selling many copies right now you still feel curious but you also feel a need for enough information to make a quicker decision because you may miss out if demand drives the price up or they run out.
+
+And... ongoing movements are always more exciting and attention getting.”
+
+>>>
+
+Hello, chat. Today, you’re an expert in direct-response copy with an emphasis on persuasion, emotional impact and conversions. We’re going to go through a “copy-chief” exercise. The purpose of this exercise is to take existing copy and make it more persuasive, emotional and powerful to ultimately increase conversions.
+
+The way we’re going to do this is by turning verbs from one tense (like simple past) to a progressive present tense, because it creates the feeling that something is happening in the moment.
+
+For example, we could say:
+
+“The Halbert Copywriting Method has taken many copywriters to the next level and added an extra digit to their take-home pay.”
+
+But the word “taken” makes it past tense because it describes something which has already happened.
+
+Instead, we should say:
+
+“The Halbert Copywriting Method is taking many copywriters to the next level and added an extra digit to their take-home pay.”
+
+This implies that the action is ongoing.
+
+We ESPECIALLY want to include the “progressive tense” when we’re talking about benefits or promises — again, to imply that things are happening NOW.
+
+Once you have the text, please give me all of your suggested changes in a numbered list (there should be about 20 of them). Please provide the full quoted sentence and then below that provide the suggested edit to the sentence.
+
+Your suggestions should should use casual, conversational language that still paints descriptive pictures. It should feel like a friend talking to another friend. It should use short, rhythmic language. It should generally have a lower reading level (meaning fewer consonants in the words) and should NOT be overly poetic.
+
+Please process this and then I’ll provide you with the text.
+
+>>>
+
+Here’s the text:
+
+REMOVE QUALIFIERS & ADVERBS:
+
+In the voice of “Bond Halbert…”
+
+“When I write a first draft, I’m trying to get all of my thoughts down really fast and I end up leaving in a few qualifier words.
+
+Qualifiers are the words that limit the power of other words, phrases, and claims.
+
+Here are some examples of words that are qualifiers:
+
+-   Like
+
+-   Some
+
+-   Mostly
+
+-   Partially
+
+-   Could
+
+-   May
+
+-   Possibly
+
+Look out for these words and here is what to do when you find them.
+
+First, I ask myself if the word makes the statement more accurate and if it does... I leave it.
+
+You always want to say the best thing you can about offers but...
+
+You want to be able to back up everything you write in a court of law and the court of public opinion.
+
+That being said, qualifier words sneak into your first drafts way too often and qualifiers which really don’t need to be there should be dropped like a bad habit.
+
+For example, I once wrote... “The Gary Halbert Letters All-Star Audio Series contains some of the best copywriters on earth.”
+
+Now I could have legally said this because it is an opinion and “the best” is sort of subjective but...
+
+I felt that there was one guy missing from the top tier of wordsmiths who would make me and a lot of others question if we really had all the very “best” writers.
+
+In other words, I felt like saying we had the best copywriters simply wasn't 100% honest when I believed one of the gentlemen missing was better than one of the other writers in our top 5 list so the statement would not have been true without using the word “some”.
+
+As it turns out... the gentleman I felt was missing did come on board so we ended up with ALL of the top copywriters so I felt it was time to remove the word “some” and tell the world that... The Gary Halbert Letter All-Star Audio Series Has THE Top Copywriters On Earth!
+
+I’m not one of them and I’m not saying everyone in the series is in the top 20 but I can defend my statement both in a court of law and the court of public opinion so I’m now willing to make it because I don't believe anyone can say they are better than all the copywriters in that line up.
+
+Qualifying words sound subtle when you write and read them but there is a big difference between “This may work” and “This WILL work!”
+
+Adverb Hunt:
+
+This is one of those tips you don't want to follow so strictly you never use an adverb (words that modifies a verb or adjective such as very or absolutely).
+
+Qualifiers are usually adverbs that attempt to limit the following statement like using the word “mostly” to basically say “not all” in this case we are looking for the words that are trying to emphasize the next word by saying things like “extremely” and just to make this clear, here is an example.
+
+Let's suppose I am talking about this editing formula and I write...
+
+“The steps outlined in this book are extremely effective in keeping your reader engaged.”
+
+This statement is more emphatic if I eliminate the adverb “extremely”
+
+In fact many of the adverbs you should be looking out for end with the letters “LY”.
+
+Anyway, many copywriters feel such words show laziness to find an even more powerful description so instead of saying “the room is very messy” or “this technique is extremely effective” you might eliminate the adverbs and go with “the room looked like a hurricane came through” or “this is a powerful technique” but don't go too far with this.
+
+Sometimes an adverb does help add punch so here is what you want to do in this step of the editing process.
+
+When you find an adverb in your copy jot down a few alternative ways to say the same thing and then go with your gut as to which makes a stronger statement.
+
+Sometimes the way you phrased something with an adverb is the best choice of words and sometimes you will find an even more powerful way to put something.
+
+At first this may seem like over analyzing but the best of the best copywriters do just that. They fret about each and every word and this is how a rough draft becomes a masterpiece.”
+
+>>>
+
+Hello, chat. Today, you’re an expert in direct-response copy with an emphasis on persuasion, emotional impact and conversions. We’re going to go through a “copy-chief” exercise. The purpose of this exercise is to take existing copy and make it more persuasive, emotional and powerful to ultimately increase conversions.
+
+To do this, we’re going to be identifying any qualifiers or adverbs that make the writing sound more hesitant or unclear.
+
+For example, we could have a statement like…
+
+“The steps outlined in this book are extremely effective in keeping your reader engaged.”
+
+This statement is more emphatic if I eliminate the adverb “extremely”
+
+So we should be looking for adverbs that end in “-ly” like extremely to get rid of, as well as other qualifiers (i.e. probably, maybe, kind of, almost).
+
+Here’s a bigger (but not exhaustive) list: Extremely, probably, maybe, kind of, almost, clearly, accurately, deliberately, briskly, eagerly, fortunately, happily, quietly, rapidly, easily, seriously, gently, carefully, suddenly, honestly, playfully, truly, wisely, frequently, rarely.
+
+Please make a numbered list of any “quoted sentences” from the original text that contains “qualifier words” that can make the writing come across as doubtful or not confident and BOLD each qualifier word you see. You should ONLY list sentences that contain these qualifiers.
+
+Just process this, then when you’re ready, I’ll provide you with the text.
+
+>>>
+
+Here’s the text:
+
+“Sparse Priming + Swipe File + GPT-4 Copy Method”
+
+Check It Out Here
+
+Fun “Genesis Generated” Prompts to Play With:
+
+Check It Out Here

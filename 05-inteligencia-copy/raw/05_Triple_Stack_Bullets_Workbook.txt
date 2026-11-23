@@ -1,0 +1,525 @@
+TRIPLE STACK BULLETS
+
+O Guia Definitivo para Escrever Bullets que Vendem
+
+Workbook de Treinamento para IAs 
+
+📑 ÍNDICE
+
+1.  O Que São Triple Stack Bullets
+
+2.  A Estrutura e Fórmula
+
+3.  Comparação: Single vs Triple Stack
+
+4.  Exemplos por Nicho de Saúde
+
+5.  Prompts para Treinar IAs
+
+6.  Swipe File Completo
+
+7.  Checklist de Revisão
+
+1. O QUE SÃO TRIPLE STACK BULLETS?
+
+Bullets são aquelas linhas de texto que resumem os benefícios, mecanismos, resultados e características de um produto. Elas são projetadas para "furar" a mente do leitor e fazê-lo desejar o que você está vendendo.
+
+O problema? A maioria das pessoas escreve bullets simples, sem graça, que não têm força suficiente para prender a atenção e gerar desejo real.
+
+💡 A PRINCIPAL DIFERENÇA:
+
+Uma copy BOA faz você pensar sobre ela enquanto lê a página.
+
+Agora, uma copy EXCELENTE faz você pensar, sentir e ficar “bitolado” com ela… mesmo depois de sair da página!
+
+Então, o Triple Stack Bullets são bullets que empilham três camadas de informação, criando profundidade, curiosidade e desejo irresistível. Cada camada reforça a outra, tornando o bullet completo e magnético.
+
+Por que funcionam?
+
+Porque elas não apenas dizem O QUE o leitor vai descobrir, mas também COMO isso funciona, POR QUE é importante, e QUAL o resultado específico. Isso remove objeções, aumenta a credibilidade e cria uma imagem mental vívida do benefício.
+
+2. A ESTRUTURA E FÓRMULA
+
+❌ Estrutura de Single Stack Bullet (fraca)
+
+Formato: [Afirmação de benefício/resultado/intriga]
+
+Exemplos fracos:
+
+-   "Os segredos para emagrecer"
+
+-   "Como equilibrar seus hormônios"
+
+-   "O maior erro que as pessoas cometem na menopausa"
+
+✅ Estrutura de Triple Stack Bullet (poderosa)
+
+🎯 A FÓRMULA:
+
+[Benefício/Mecanismo/Feature] + (e como/por que funciona) — [resultado específico] — [prova/hint/curiosidade extra].
+
+Quebrando a fórmula:
+
+CAMADA 1: O benefício ou descoberta principal + (como/por que funciona)
+
+CAMADA 2: O resultado específico que isso gera — usando "permitindo que", "fazendo com que", "para que você"
+
+CAMADA 3: Prova, hint, curiosidade adicional ou mecanismo secreto — usando "dica:", "e funciona porque", "aviso:"
+
+ÂNCORA: Referência ao produto: "Veja na página X" ou "Explicado no módulo Y"
+
+⚡ DICA IMPORTANTE: As Reticências (...)
+
+Sempre termine seus bullets com reticências (...). Isso cria uma sensação de continuidade que faz o cérebro do leitor "deslizar" para o próximo bullet, criando conexão e fluidez.
+
+3. COMPARAÇÃO: SINGLE VS TRIPLE STACK
+
+Veja a transformação de bullets fracos em bullets poderosos:
+
+EXEMPLO 1:
+
+❌ ANTES (Single Stack):
+
+-   "Como emagrecer de forma saudável"
+
+✅ DEPOIS (Triple Stack):
+
+-   Como ativar o "interruptor metabólico" do seu corpo (e por que dietas restritivas na verdade desligam esse interruptor) — permitindo que você queime gordura 24 horas por dia, mesmo dormindo — dica: não tem nada a ver com cortar calorias, e sim com um aminoácido específico que 93% das pessoas têm deficiência...
+
+EXEMPLO 2:
+
+❌ ANTES (Single Stack):
+
+-   "Como aliviar os sintomas da menopausa"
+
+✅ DEPOIS (Triple Stack):
+
+-   O protocolo de 3 passos para "resetar" seu eixo hormonal durante a menopausa (sem reposição hormonal sintética) — eliminando ondas de calor, insônia e irritabilidade em até 14 dias — e funciona porque atua diretamente nas glândulas adrenais, que assumem a produção hormonal quando os ovários desaceleram...
+
+EXEMPLO 3:
+
+❌ ANTES (Single Stack):
+
+-   "Melhore sua memória naturalmente"
+
+✅ DEPOIS (Triple Stack):
+
+-   A "vitamina esquecida" que cientistas de Harvard descobriram ser essencial para a formação de novas memórias (e por que 87% dos adultos acima de 50 anos são deficientes nela) — permitindo que você se lembre de nomes, datas e onde deixou as chaves com clareza cristalina — aviso: não é B12, ômega-3 ou ginkgo biloba...
+
+4. EXEMPLOS POR NICHO DE SAÚDE
+
+Abaixo você encontra exemplos prontos de Triple Stack Bullets para os principais nichos de saúde e suplementos. Use como referência e adapte para seu produto específico.
+
+🌸 MENOPAUSA
+
+Exemplo 1:
+
+-   Por que as ondas de calor NÃO são causadas pela falta de estrogênio (e sim por um desequilíbrio no hipotálamo) — e como "recalibrar" esse termostato interno do seu corpo em apenas 21 dias — usando um extrato de planta que mulheres japonesas usam há séculos e explica por que elas quase não sofrem com a menopausa...
+      Revelado na página 34
+
+Exemplo 2:
+
+-   O erro fatal que 9 em cada 10 mulheres cometem ao tentar "sobreviver" à menopausa (e por que isso na verdade acelera o envelhecimento) — descobra o protocolo de 5 nutrientes que transforma essa fase numa segunda juventude — dica: uma dessas substâncias é produzida pelo seu próprio corpo, mas a produção despenca depois dos 45...
+      Veja o protocolo completo na página 47
+
+Exemplo 3:
+
+-   Como eliminar a insônia da menopausa sem remédios para dormir (que na verdade pioram o problema hormonal) — restaurando o ciclo natural de sono profundo que você tinha aos 30 anos — e funciona porque atua no receptor GABA-A, o mesmo alvo dos medicamentos, mas sem os efeitos colaterais ou dependência...
+      O método está na página 52
+
+⚖️ EMAGRECIMENTO
+
+Exemplo 1:
+
+-   Por que contar calorias é o maior sabotador da perda de peso (e como seu corpo se adapta e passa a queimar MENOS quanto mais você restringe) — descubra o método de "ciclo metabólico" que engana seu corpo a queimar gordura como se você tivesse 20 anos — funciona porque reseta a leptina, o hormônio que controla se seu corpo armazena ou queima gordura...
+
+Exemplo 2:
+
+-   O "interruptor de gordura" que fica escondido no seu intestino (e por que 73% das pessoas que não conseguem emagrecer têm esse interruptor desligado) — aprenda a reativar esse mecanismo em 7 dias — dica: não tem nada a ver com probióticos comuns, e sim com uma cepa específica que 99% dos suplementos não contêm… (explicado em detalhes na página 41)
+
+Exemplo 3:
+
+-   A razão científica pela qual você sente fome incontrolável à noite (e não é falta de força de vontade) — e como "desligar" esse gatilho de compulsão alimentar permanentemente — aviso: isso acontece porque seu cérebro está faminto de um nutriente específico, e enquanto você não suprir, ele vai continuar mandando sinais de fome… (a solução está na página 56).
+
+💪 DISFUNÇÃO ERÉTIL / SAÚDE MASCULINA
+
+Exemplo 1:
+
+-   Por que a disfunção erétil NÃO é causada pela idade ou baixa testosterona (e sim por um problema nos vasos sanguíneos que alimentam o órgão) — e como reverter isso naturalmente em 30 dias — funciona porque aumenta a produção de óxido nítrico, a mesma molécula que o Viagra estimula, mas sem os efeitos colaterais ou necessidade de receita… (o protocolo está na página 23)
+
+Exemplo 2:
+
+-   O mineral "esquecido" que homens acima de 40 anos eliminam na urina todos os dias (e por que essa perda silenciosa está destruindo sua libido e energia) — descubra como repor esse mineral e sentir o vigor que você tinha aos 25 — dica: não é zinco, magnésio e selênio, é algo que a maioria dos médicos nem sequer testa… (Revelado na página 38)
+
+Exemplo 3:
+
+-   A conexão chocante entre a saúde da sua gengiva e sua performance na cama (e por que homens com problemas de ereção têm 3x mais chances de ter inflamação na boca) — e como eliminar essa inflamação sistêmica que está sabotando seu fluxo sanguíneo — aviso: isso explica porque pílulas não funcionam para muitos homens… (A explicação completa na página 45)
+
+⚡ NEUROPATIA / DOR NOS NERVOS
+
+Exemplo 1:
+
+-   Por que a dormência e formigamento nos pés NÃO significa que seus nervos estão "morrendo" (e sim que estão inflamados e podem ser regenerados) — descubra o protocolo de 4 nutrientes que "acorda" nervos adormecidos em até 60 dias — e funciona porque reconstrói a bainha de mielina, a capa protetora que envolve cada nervo...
+
+Exemplo 2:
+
+-   O erro que diabéticos cometem que acelera a destruição dos nervos em 300% (e não tem nada a ver com açúcar no sangue) — aprenda a neutralizar essa causa oculta e parar a progressão da neuropatia — dica: é um tipo de gordura tóxica que se acumula nas células nervosas e bloqueia os sinais elétricos...
+
+Exemplo 3:
+
+-   Como uma vitamina comum está sendo prescrita na dose ERRADA por 90% dos médicos (e por que isso pode estar piorando sua neuropatia) — a dose correta e a forma específica que realmente atravessa a barreira e chega nos nervos — aviso: a forma vendida em farmácias é praticamente inútil para regeneração neural…
+
+🧠 DECLÍNIO COGNITIVO / MEMÓRIA
+
+Exemplo 1:
+
+-   Por que "brancos" de memória depois dos 50 NÃO são sinais de demência (e sim de um problema reversível de comunicação entre neurônios) — descubra como restaurar as sinapses e recuperar sua clareza mental em 90 dias — funciona porque aumenta os níveis de acetilcolina, o neurotransmissor da memória que despenca com a idade...
+
+Exemplo 2:
+
+-   O alimento que 83% dos brasileiros comem todo dia no café da manhã que está causando "inflamação cerebral silenciosa" (e por que isso acelera o envelhecimento do cérebro em até 10 anos) — e a simples substituição que protege seus neurônios — dica: não é açúcar, glúten ou café… (Revelado na página 47)
+
+Exemplo 3:
+
+-   A descoberta de Stanford que mostrou como o cérebro pode criar NOVOS neurônios em qualquer idade (contrariando o que se acreditava por décadas) — e os 3 nutrientes específicos que ativam essa "neurogênese" naturalmente — aviso: um deles é tão raro que só existe em quantidades significativas em uma única fonte natural...
+
+👁️ SAÚDE DA VISÃO
+
+Exemplo 1:
+
+-   Por que sua visão está piorando mais rápido do que deveria (e não tem nada a ver com idade ou genética) — descubra o "veneno invisível" que está destruindo sua mácula todos os dias — e o antídoto natural que filtra essa ameaça e pode recuperar até 2 graus de visão em 6 meses...
+
+Exemplo 2:
+
+-   O pigmento que seus olhos precisam desesperadamente mas que seu corpo não consegue produzir (e por que quase todo mundo acima de 50 tem deficiência severa) — aprenda a repor esse pigmento protetor e blindar sua visão contra degeneração macular — dica: cenoura não resolve, você precisaria comer 3kg por dia… (A dose correta na página 34)
+
+Exemplo 3:
+
+-   Como a luz azul do seu celular está "fritando" suas células da retina 16 horas por dia (e por que óculos com filtro azul não protegem de verdade) — descubra o nutriente que age como "protetor solar interno" para os olhos — aviso: a degeneração pode estar acontecendo agora sem nenhum sintoma, até que seja tarde demais...
+
+❤️ COLESTEROL / SAÚDE CARDÍACA
+
+Exemplo 1:
+
+-   Por que focar em baixar o colesterol pode estar te colocando em MAIS risco cardíaco (e o marcador que os cardiologistas mais avançados estão olhando agora) — descubra como atacar a verdadeira causa de artérias entupidas — dica: não é a quantidade de colesterol, é o tamanho e tipo das partículas...
+      A explicação completa na página 31
+
+Exemplo 2:
+
+-   O mineral que "limpa" as artérias removendo cálcio das placas (e por que a deficiência desse mineral é epidêmica em quem toma remédio para pressão) — aprenda a repor corretamente e prevenir o endurecimento arterial — funciona porque redireciona o cálcio das artérias para os ossos, onde deveria estar...
+
+Exemplo 3:
+
+-   A estatina natural que reduz colesterol LDL em até 30% sem os efeitos colaterais devastadores dos medicamentos (dores musculares, perda de memória, fadiga) — e por que cardiologistas na Europa já prescrevem isso há décadas — aviso: as estatinas destroem a CoQ10, a molécula que seu coração mais precisa...
+
+😴 SONO / ENERGIA / FADIGA
+
+Exemplo 1:
+
+-   Por que você acorda cansado mesmo dormindo 8 horas (e não tem nada a ver com a quantidade de sono) — descubra o estágio específico do sono que você não está alcançando — e como "forçar" seu cérebro a entrar nessa fase regenerativa — dica: é quando o corpo libera hormônio do crescimento e repara tecidos...
+      O método completo na página 27
+
+Exemplo 2:
+
+-   O destruidor de energia que está escondido em 78% dos alimentos "saudáveis" do supermercado (e por que quanto mais você come "direito", mais exausto você fica) — aprenda a identificar e eliminar esse sabotador — funciona porque desintoxica as mitocôndrias, as usinas de energia das suas células...
+      A lista completa na página 39
+
+Exemplo 3:
+
+-   A "bateria interna" do seu corpo que precisa ser recarregada todo dia (e por que 90% das pessoas estão operando com apenas 40% de carga) — descubra como recarregar essa bateria celular e ter energia de sobra até às 10 da noite — aviso: café e energéticos na verdade DRENAM essa bateria ainda mais...
+
+🦴 ARTICULAÇÕES / ARTRITE / DORES
+
+Exemplo 1:
+
+Por que anti-inflamatórios estão ACELERANDO a destruição das suas articulações (mesmo enquanto aliviam a dor temporariamente) — descubra o mecanismo de auto-reparo que esses medicamentos bloqueiam — e como ativá-lo naturalmente para reconstruir cartilagem — dica: estudos mostram que quem toma anti-inflamatório por anos tem artrite PIOR...
+
+Exemplo 2:
+
+A proteína que compõe 70% da sua cartilagem (e por que seu corpo para de produzi-la depois dos 40) — aprenda a "reativar" essa produção e dar ao corpo a matéria-prima para reconstruir suas articulações — funciona porque estimula os condrócitos, as células que fabricam cartilagem nova...
+
+Exemplo 3:
+
+O alimento que você come todo dia achando que é saudável mas que está causando inflamação nas suas articulações (e por que cortar isso reduz a dor em até 60% em 3 semanas) — descubra o que é e a substituição que elimina a inflamação — aviso: não é glúten, açúcar ou carne vermelha...
+
+ 
+
+5. PROMPTS PARA TREINAR IAs
+
+Use estes prompts para treinar IAs a escrever Triple Stack Bullets no estilo correto. Copie e cole diretamente no ChatGPT, Claude, ou outra IA.
+
+🤖 PROMPT 1: Treinamento Base
+
+Você é um copywriter especialista em escrever Triple Stack Bullets para produtos de saúde e suplementos.
+
+Triple Stack Bullets são bullets que empilham 3 camadas de informação:
+
+-   CAMADA 1: Benefício ou descoberta principal + (como/por que funciona)
+
+-   CAMADA 2: Resultado específico — usando "permitindo que", "fazendo com que", "para que você"
+
+-   CAMADA 3: Prova, dica, curiosidade ou aviso — usando "dica:", "funciona porque", "aviso:"
+
+-   ÂNCORA: Referência ao produto: "Veja na página X"
+
+REGRAS:
+
+- Sempre termine com reticências (...)
+
+- Use linguagem que gera curiosidade e desejo
+
+- Inclua números e estatísticas quando possível
+
+- Cada bullet deve poder "carregar a venda" sozinho
+
+- Nunca seja genérico, seja específico
+
+FORMATO:
+
+[Bullet completo]...
+
+[Âncora: Veja na página X]
+
+🤖 PROMPT 2: Gerar Bullets para Nicho Específico
+
+Escreva 5 Triple Stack Bullets para um suplemento de [NICHO].
+
+O público-alvo são [DESCREVA: idade, gênero, principais dores].
+
+O produto promete [PRINCIPAIS BENEFÍCIOS].
+
+Os mecanismos/ingredientes principais são [LISTE].
+
+Use a estrutura:
+
+[Benefício + (como funciona)] — [resultado específico] — [dica/aviso/curiosidade]...
+
+[Referência à página]
+
+Seja específico, use números quando possível, e crie curiosidade irresistível. Cada bullet deve fazer o leitor pensar "eu PRECISO saber isso".
+
+🤖 PROMPT 3: Transformar Bullets Fracos em Triple Stack
+
+Transforme estes Single Stack Bullets em Triple Stack Bullets poderosos:
+
+[COLE AQUI SEUS BULLETS FRACOS]
+
+Para cada bullet:
+
+1. Adicione a camada de "como/por que funciona"
+
+2. Adicione o resultado específico e tangível
+
+3. Adicione uma dica, aviso ou curiosidade que aumenta o desejo
+
+4. Termine com reticências (...)
+
+5. Adicione referência à página
+
+Mantenha o tom para [DESCREVA O PÚBLICO-ALVO].
+
+🤖 PROMPT 4: Adaptar para Público Específico
+
+Reescreva estes Triple Stack Bullets como se você estivesse falando com [PÚBLICO ESPECÍFICO - ex: mulheres de 55 anos passando pela menopausa]:
+
+[COLE OS BULLETS AQUI]
+
+Ajuste:
+
+- O tom e linguagem para ressoar com esse público
+
+- Os exemplos e metáforas que esse público entenderia
+
+- As dores e desejos específicos desse público
+
+- Mantenha a estrutura de 3 camadas + âncora
+
+🤖 PROMPT 5: Criar Bullets a Partir de VSL / Criativo / Artigo 
+
+Com base neste conteúdo/pesquisa/artigo, crie 10 Triple Stack Bullets:
+
+[COLE O CONTEÚDO AQUI]
+
+Extraia:
+
+- Fatos surpreendentes ou contraintuitivos
+
+- Estatísticas e números impactantes
+
+- Mecanismos e explicações do "por que funciona"
+
+- Erros comuns que as pessoas cometem
+
+- Soluções ou descobertas específicas
+
+Transforme cada insight em um Triple Stack Bullet usando:
+
+[Descoberta + (como/por que)] — [resultado para o leitor] — [dica/aviso extra]...
+
+Veja na página X
+
+🤖 PROMPT 6: Bullet Focado em Objeção
+
+Crie Triple Stack Bullets que respondem a estas objeções do público:
+
+Objeções:
+
+1. [OBJEÇÃO 1 - ex: "Já tentei de tudo e nada funciona"]
+
+2. [OBJEÇÃO 2 - ex: "Isso parece bom demais pra ser verdade"]
+
+3. [OBJEÇÃO 3 - ex: "Não tenho tempo/dinheiro"]
+
+Para cada objeção, crie um bullet que:
+
+- Reconheça a objeção implicitamente
+
+- Explique por que isso é diferente
+
+- Mostre o resultado específico possível
+
+- Use prova ou lógica irrefutável
+
+Estrutura: [Reconhecimento + solução + (por que funciona)] — [resultado] — [prova/dica]...
+
+🤖 PROMPT 7: Mega Prompt Completo
+
+Você vai escrever Triple Stack Bullets para uma carta de vendas.
+
+## SOBRE O PRODUTO:
+
+- Nome: [NOME]
+
+- Nicho: [NICHO - ex: menopausa, emagrecimento, memória]
+
+- Formato: [ebook, suplemento, curso, etc]
+
+- Preço: [PREÇO]
+
+## SOBRE O PÚBLICO:
+
+- Idade: [FAIXA ETÁRIA]
+
+- Gênero: [M/F/AMBOS]
+
+- Principais dores: [LISTE 3-5 DORES]
+
+- O que já tentaram: [O QUE NÃO FUNCIONOU]
+
+- Sonho/desejo final: [O QUE QUEREM ALCANÇAR]
+
+## SOBRE O MECANISMO:
+
+- Como funciona: [EXPLIQUE O MECANISMO PRINCIPAL]
+
+- Por que é diferente: [DIFERENCIAL]
+
+- Ingredientes/módulos principais: [LISTE]
+
+## ESTRUTURA OBRIGATÓRIA:
+
+Cada bullet deve ter:
+
+1. GANCHO: Afirmação surpreendente ou contraintuitiva
+
+2. MECANISMO: (e por que/como isso funciona)
+
+3. RESULTADO: — permitindo que você [resultado específico]
+
+4. PROVA/CURIOSIDADE: — dica:/aviso:/funciona porque:
+
+5. RETICÊNCIAS: ...
+
+6. ÂNCORA: Veja na página X
+
+## ESCREVA:
+
+15 Triple Stack Bullets variados incluindo:
+
+- 3 bullets sobre o mecanismo principal
+
+- 3 bullets sobre erros comuns
+
+- 3 bullets sobre resultados específicos
+
+- 3 bullets que geram curiosidade extrema
+
+- 3 bullets que removem objeções
+
+ 
+
+6. SWIPE FILE — BULLETS PRONTOS PARA ADAPTAR
+
+Copie, adapte e use estes bullets nos seus projetos. Troque [NICHO], [BENEFÍCIO] e [MECANISMO] pelas informações do seu produto.
+
+Template 1:
+
+Por que [ABORDAGEM COMUM] está na verdade [PIORANDO O PROBLEMA] (e o que [AUTORIDADE/ESPECIALISTAS] estão fazendo diferente) — descubra o [MÉTODO/PROTOCOLO] que [RESULTADO ESPECÍFICO] — dica: não é [COISA ÓBVIA], é [COISA SURPREENDENTE]...
+
+Template 2:
+
+O [NUTRIENTE/ELEMENTO] que [PORCENTAGEM]% das pessoas com [PROBLEMA] têm deficiência severa (e por que seu médico provavelmente nunca testou) — aprenda a repor corretamente e [RESULTADO] em [PRAZO] — aviso: a forma vendida em farmácias é [PROBLEMA COM FORMA COMUM]...
+
+Template 3:
+
+A descoberta de [UNIVERSIDADE/INSTITUIÇÃO] que provou que [FATO CONTRAINTUITIVO] (contrariando tudo que você já ouviu sobre [ASSUNTO]) — e como usar isso para [RESULTADO DESEJADO] — funciona porque [MECANISMO CIENTÍFICO]...
+
+Template 4:
+
+O erro fatal que [NÚMERO] em cada 10 pessoas cometem quando tentam [OBJETIVO] (e por que isso na verdade [CONSEQUÊNCIA NEGATIVA]) — descubra a abordagem que [RESULTADO POSITIVO] — dica: [ELEMENTO CHAVE] é [INSIGHT SURPREENDENTE]...
+
+Template 5:
+
+Como [MECANISMO DO CORPO] foi projetado para [FUNÇÃO], mas [FATOR MODERNO] está sabotando esse processo 24 horas por dia — e a solução simples de [PRAZO] que [RESULTADO] — aviso: [SOLUÇÃO COMUM] não funciona porque [RAZÃO]...
+
+Template 6:
+
+Por que [SINTOMA] NÃO é causado por [CAUSA ÓBVIA] (e sim por [CAUSA REAL SURPREENDENTE]) — e como [AÇÃO] reverte isso em até [PRAZO] — e funciona porque [MECANISMO], o [EXPLICAÇÃO DO MECANISMO]...
+
+Template 7:
+
+O "[NOME CRIATIVO]" que controla [FUNÇÃO DO CORPO] e que [PORCENTAGEM]% das pessoas têm [PROBLEMA COM ELE] — descubra como [AÇÃO] e [RESULTADO ESPECÍFICO] — dica: não é [OPÇÃO ÓBVIA 1], [OPÇÃO ÓBVIA 2] ou [OPÇÃO ÓBVIA 3]...
+
+Template 8:
+
+A razão científica pela qual [PROBLEMA FRUSTRANTE] acontece (e não é [EXPLICAÇÃO COMUM]) — e como "[AÇÃO COM NOME CRIATIVO]" elimina isso em [PRAZO] — aviso: isso acontece porque [MECANISMO], e enquanto você não [SOLUÇÃO], [CONSEQUÊNCIA]...
+
+Template 9:
+
+Como [GRUPO DE PESSOAS - ex: japonesas, mediterrâneos] praticamente não sofrem com [PROBLEMA] (e o [ELEMENTO] na [DIETA/ESTILO DE VIDA] deles que explica isso) — e como adaptar isso para [PÚBLICO] com [SOLUÇÃO] — funciona porque [MECANISMO]...
+
+Template 10:
+
+[SOLUÇÃO/MEDICAMENTO COMUM] pode estar [CONSEQUÊNCIA NEGATIVA ESCONDIDA] enquanto você acha que está [SE AJUDANDO] — descubra a alternativa de [ORIGEM - natural/etc] que [RESULTADO] sem [EFEITO COLATERAL] — dica: [INSIGHT SOBRE POR QUE ISSO ACONTECE]...
+
+7. CHECKLIST DE REVISÃO
+
+Antes de finalizar seus bullets, passe por este checklist para garantir que estão no padrão Triple Stack:
+
+☐ Tem 3 camadas? — Benefício + Mecanismo + Prova/Curiosidade
+
+☐ Termina com reticências (...)? — Para criar fluidez entre bullets
+
+☐ Tem âncora/referência? — "Veja na página X" ou similar
+
+☐ É específico? — Números, prazos, porcentagens, nomes
+
+☐ Gera curiosidade irresistível? — O leitor PRECISA saber o que é
+
+☐ Poderia carregar a venda sozinho? — Cada bullet deve ser forte o suficiente
+
+☐ Tem elemento contraintuitivo? — Desafia o que o leitor pensa que sabe
+
+☐ Remove ou responde uma objeção? — Mesmo que implicitamente
+
+☐ Usa conectores corretos? — "permitindo que", "fazendo com que", "dica:", "aviso:"
+
+☐ Está adaptado para o público? — Tom, linguagem e dores específicas
+
+💡 LEMBRE-SE:
+
+Bullets mal feitos barateiam a copy. É melhor ter 5 Triple Stack Bullets excelentes do que 15 bullets fracos. Qualidade > Quantidade.
+
+📌 PRÓXIMO PASSO
+
+Pegue um produto que você está escrevendo copy agora e reescreva 5 bullets usando a estrutura Triple Stack. Compare com os originais e sinta a diferença no impacto.
