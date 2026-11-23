@@ -139,3 +139,13 @@ Legenda: **[AM]** o que a AlkaMelt faz · **[CS]** nossa versão · _esboço_ = 
 - [x] Mecanismo com A-B-C e provas reais (MECANISMO_V2; briefing T017–T019)
 - [ ] Decisões do usuário em aberto (não bloqueiam a espinha): formato de partida (premissa: Mesa da Cozinha); autorização Valerie ou personagem; nome final do produto; escada de preço e bônus reais; escassez real ou nenhuma
 - [ ] Rascunho bloco a bloco em inglês → edição em camadas na ordem do CORE §7 → revisão Macro/CUB/Micro → leitura em voz alta
+
+## 5. Ajustes na espinha após o lote 1 de VSLs escaladas (23/11)
+Fonte: `06-vsls-escaladas/analises/_FAMILIA_template_Collins_Oz_Ashton.md` e as 5 análises. O controle continua sendo a AlkaMelt; estes são acréscimos que o mercado já validou e que cabem na nossa espinha sem quebrar o CORE.
+1. **Lead:** acrescentar a pergunta-isca de cozinha ("Do you have baking soda and chia in your pantry?") e o aviso de dose honesto ("one pinch, not a spoon; once a day"), que no mercado funciona como prova de potência e, para nós, é compliance.
+2. **História (Valerie):** contar a litania em **diário com cartelas de tempo** (Day 1 / Week 6 / Month 3) e incluir a **cena do jantar em família** durante a dieta de 1.200 kcal ("a ghost at your own table"), que liga direto ao nosso mecanismo (estômago vazio = ácido).
+3. **MUP:** usar o **gráfico de queda hormonal por década** como ponte para nomear a causa (os concorrentes dizem "idade"; nós dizemos "o escudo caiu entre 40 e 55"). A pergunta "why did my body stop making it?" é a nossa pergunta paradoxal; a resposta é a década, não os aditivos.
+4. **MUS/produto:** responder a **objeção de sabor/textura do bicarbonato** dentro da receita (pitada + chia em água ambiente, não colherada) e na demonstração; o GutFit prova que sabor é objeção real e diferencial de produto.
+5. **Depoentes:** três depoentes reais em **série temporal com dúvida** (dia 3 "a balança não mexeu"; dia 21; dia 90), com cartelas.
+6. **Close:** manter a ordem da AlkaMelt; acrescentar a abertura sensorial pós-compra ("you open the box… one glass, one spoon, one pinch, ten minutes") e a chamada honesta "take your waist measurement and your blood pressure to your doctor at week 6". **Não** usar sorteio de viagem nem vale-presente (já atacados nominalmente pelo mercado); bônus coerentes com a cozinha e, se real, consulta/aula com a ginecologista em vagas verdadeiras. Frase de garantia própria, não "não um sim, apenas um talvez" (já é assinatura da família).
+7. **Posicionamento de oferta:** "simples e real" por desenho (sem celebridade falsa, sem receita escondida, sem assinatura, reembolso visível) é lacuna aberta e responde às 3 objeções nº 1 da pesquisa.
