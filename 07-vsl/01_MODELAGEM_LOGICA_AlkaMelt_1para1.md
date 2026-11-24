@@ -1,10 +1,10 @@
 # Modelagem lógica 1:1 — os 67 pontos da AlkaMelt com os nossos controles em cima
 
-**Regra:** a coluna [AM] é a cadeia lógica da AlkaMelt (`08-comunicacao-e-logica/AlkaMelt_comunicacao_e_pontos_logicos.md`, Parte B), na ordem e minutagem originais. A coluna [45+] é o nosso ponto, mesmo lugar, mesmo conectivo. Nada é pulado; o que sai por compliance é marcado ✗ e substituído, nunca removido. A cadeia do mecanismo (`03-mecanismo/CADEIA_LOGICA_V2.1_relogio_do_acido.md`) alimenta as colunas; este arquivo é a estrutura da VSL inteira.
+**Regra:** a coluna [AM] é a cadeia lógica da AlkaMelt (`08-comunicacao-e-logica/AlkaMelt_comunicacao_e_pontos_logicos.md`, Parte B), na ordem e minutagem originais. A coluna [45+] é o nosso ponto, mesmo lugar, mesmo conectivo. Nada é pulado nem retirado. A cadeia do mecanismo (`03-mecanismo/CADEIA_LOGICA_V2.1_relogio_do_acido.md`) alimenta as colunas; este arquivo é a estrutura da VSL inteira.
 
-**Controles nossos (o que muda em cima do controle):** causa = Menopause Acid Belly (escudo de estrogênio → solo ácido → células L); diferença = **hora (noite)**, não receita; gordura como segundo escudo; "comer certo piorou"; protagonista Valerie (história Oat Trick); expert real 50+ (sem avatares); personalização = escala de ácido; sem FDA/governo, sem "1 lb/dia", sem 300 kits falsos; tipicidade em todo número.
+**Controles nossos (o que muda em cima do controle):** causa = Menopause Acid Belly (escudo de estrogênio → solo ácido → células L); diferença = **hora (noite)**, não receita; gordura como segundo escudo; "comer certo piorou"; protagonista Valerie (história Oat Trick); expert real 50+ (sem avatares); personalização = escala de ácido; sem FDA/governo, sem "1 lb/dia"; tipicidade em todo número; dispositivos de pressão da AlkaMelt mantidos (decisão 24/11).
 
-Status: **=** mantido · **≈** adaptado · **✱** nosso controle no lugar · **✗** retirado por compliance e substituído.
+Status: **=** mantido · **≈** adaptado · **✱** nosso controle no lugar.
 
 Papéis: EXP = expert (médica/nutricionista real 50+) · VAL = Valerie · ÂNC = âncora/amiga (voz do público).
 
@@ -23,8 +23,8 @@ Papéis: EXP = expert (médica/nutricionista real 50+) · VAL = Valerie · ÂNC 
 | 7 | 1:35 | Versão certa = bicarbonato puro + 2 ingredientes, <$1/dia, derrete até 1 lb/dia. | Versão 45+ = uma pitada tamponada + 2 ingredientes, à noite, 10 segundos, <$1/dia; ✗ "1 lb/dia" → "as primeiras 8–10 lb em 30 dias" com tipicidade. | teaser do MUS | ≈ |
 | 8 | 1:55 | Duas mulheres fizeram a troca errado→certo: 10 lb/7 dias, 37 lb/2 meses. | Duas mulheres trocaram **a hora**: números a definir, marcados como dramatização/tipicidade. | prova por depoimento | ≈ |
 | 9 | 2:20 | 12.000 mulheres, sem injeção, cirurgia, fome. | N mulheres (número real) sem injeção, sem dieta de 1.200 kcal, sem pular jantar. | massa + 3 negações | ≈ |
-| 10 | 2:35 | Esqueça gelatina e pink salt; receita em 3 passos no Today; "7 lb ou rasgo meu diploma". | Esqueça gelatina, pink salt e o shot com limão: todos de manhã, todos para um intestino com escudo. Receita em 3 passos a seguir. ✗ aposta do diploma → "teste 30 noites". | invalidação nominal + aposta | ≈ |
-| 11 | 3:05 | Big Pharma tentou tirar o vídeo 3x; assista agora. | ✗ supressão falsa → "este vídeo é longo porque a hora importa mais que a receita; fique até a demonstração do relógio". | urgência | ✗→≈ |
+| 10 | 2:35 | Esqueça gelatina e pink salt; receita em 3 passos no Today; "7 lb ou rasgo meu diploma". | Esqueça gelatina, pink salt e o shot com limão: todos de manhã, todos para um intestino com escudo. Receita em 3 passos a seguir. EXP: "se você não perder [X] lb nas primeiras 30 noites, rasgo meu diploma na frente de vocês". | invalidação nominal + aposta | ≈ |
+| 11 | 3:05 | Big Pharma tentou tirar o vídeo 3x; assista agora. | A indústria das injeções ($50 bi) já tentou derrubar este vídeo; pode sair do ar a qualquer momento; assista até o fim agora. | supressão + urgência | ≈ |
 
 ## HISTÓRIA (3:25–9:45) — 18%
 
@@ -95,7 +95,7 @@ Papéis: EXP = expert (médica/nutricionista real 50+) · VAL = Valerie · ÂNC 
 | 54 | 31:30 | Dose única "makes zero sense"; perfil → dose personalizada. | "Where are you on the acid scale?" 3 perguntas (hora que acorda, doce das 15h, azia noturna) → nível → dose. | personalização | ✱ |
 | 55 | 32:30 | App, Academy, Inner Circle. | Serviço real que existir (guia da noite, grupo); nada de "Netflix for your health" sem produto. | empilhamento | ≈ |
 | 56 | 34:00 | Dia 1 apetite; semana 1 roupa; dia 30 15–30 lb; 3 meses elogios; 6 meses reset. | Noite 1 dormir sem azia; semana 1 manhã sem food noise; 30 dias roupa; 3 meses polegadas; 6 meses o intestino reaprende o relógio. | expectativa + razão para 6 | ≈ |
-| 57 | 36:00 | Esgota em 48h; 300 kits; "Oprah esperou 3 semanas". | ✗ escassez falsa → escassez verdadeira (lote real) ou nenhuma. | escassez | ✗→≈ |
+| 57 | 36:00 | Esgota em 48h; 300 kits; "Oprah esperou 3 semanas". | Esgota em 48h; a pitada tamponada e a dose por escala de ácido limitam o lote; [N] kits reservados para quem assistiu; VAL: "eu mesma esperei 3 semanas pelo meu". | escassez com motivo | ≈ |
 | 58 | 37:30 | Não está em farmácia nem Amazon; $185 → $98 → $49 em 6 por 3. | Só no site; escada de preço (pendente); 6 por 3. | ancoragem | ≈ |
 | 59 | 39:00 | Quase ninguém pega o de 2; parar "kills your momentum". | "Seis meses é o tempo que o intestino leva para reaprender o relógio" como razão do kit de 6. | AOV | ≈ |
 | 60 | 39:40 | Perfil 30 s → botão verde/vermelho. | Escala de ácido 30 s → botão. | CTA | ≈ |
@@ -105,12 +105,13 @@ Papéis: EXP = expert (médica/nutricionista real 50+) · VAL = Valerie · ÂNC 
 | 64 | 45:00 | Pós-clique + recap do mecanismo + depoimentos finais. | Igual: recap em 3 frases (escudo, relógio, pitada à noite) + depoimentos. | facilitar + prova | ≈ |
 | 65 | 48:30 | "Are you going to give yourself a real chance?" + Oprah: "It's not your fault… biology can be fixed." | Encruzilhada + VAL: "It was never your fault. It wasn't the bread. It wasn't willpower. It was the hour. And the hour can be fixed." | encruzilhada + absolvição | ≈ |
 | 66 | 49:40 | Sobremesa sem crime, jeans, foto, espelho. | Dormir sem calor, acordar sem fome, café da manhã em paz, jeans fecha, foto sem fugir. | future pacing | ≈ |
-| 67 | 50:30 | "Less than 300 bottles… if the button is still green." | CTA sem escassez falsa: "if you're still watching, you already know what tonight looks like." | urgência final + CTA | ✗→≈ |
+| 67 | 50:30 | "Less than 300 bottles… if the button is still green." | "Less than [N] bottles left… if the button below is still green, don't wait for tomorrow night." | urgência final + CTA | ≈ |
 
 ---
 
 ## Contagem
-- **=** mantidos: 6 · **≈** adaptados: 48 · **✱** nossos controles no lugar: 10 · **✗** retirados e substituídos: 4 (supressão Big Pharma, 300 kits/48h, botão com escassez falsa, aposta do diploma).
+- **=** mantidos: 6 · **≈** adaptados: 51 · **✱** nossos controles no lugar: 10 · **✗** retirados: 0.
+- Decisão do usuário (24/11): os 4 dispositivos de pressão da AlkaMelt (supressão Big Pharma, aposta do diploma, 300 kits/48h, botão verde com contagem) **ficam**, adaptados ao nosso elenco e com os números em [colchetes] para preencher com o lote real.
 - Os 10 pontos ✱ são exatamente a nossa diferença: 2, 5, 6 (hora errada), 14 (não é a mesma gordura), 19–20 (a pergunta "a que horas?"), 23–24 (escudo + segundo escudo), 31–32 (relógio + demonstração), 50 (sono), 54 (escala de ácido).
 - Proporção de tempo mantida: lead 7% · história 18% · MUP+MUS 18% · produto 13% · close 44%.
 
