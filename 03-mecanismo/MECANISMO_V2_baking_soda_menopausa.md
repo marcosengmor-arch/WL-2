@@ -139,3 +139,5 @@ Fonte: maglove Rodale "High-Acid Foods Can Make You VERY Fat" (`REF_maglove_60_S
 Substituições na cadeia lógica (§6): C passa a "o escudo cai: o intestino fica ácido, **e o corpo levanta um segundo escudo de gordura ao redor dele**"; F passa a "estresse, estômago vazio **e as rotinas 'saudáveis' ácidas** azedam ainda mais"; novo H2 (relógio). Resto mantido.
 
 Decisões: chia fora; baking soda herói; diferença = horário; gimmick name pendente.
+
+**Ajuste 24/11 (nomes e causalidade):** o MUP chama-se **The Estrogen Blackout** e é contado como cadeia de consequência: estresse, ultraprocessados, açúcar e remédios vão desligando o estrogênio; depois dos 40 agrava; o escudo cai; três luzes apagam. **Menopause Acid Belly** fica na parte do ácido/pH do MUS e é definido pela barriga que ela vê: **inchada** (gás e irritação do intestino ácido), **grande** (gordura guardada como segundo escudo ao redor do intestino) e **flácida** (tecido sem estrogênio perde firmeza; ângulo, ligar ao estrogênio e não ao ácido). Regra: "depois dos 40", nunca 45.
