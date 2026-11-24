@@ -95,13 +95,19 @@ Papéis: EXP = **Dra. Kathleen Jordan** (Midi Health; decisão do usuário 24/11
 | 41 | 21:57 | ÂNC: "Posso comprar os três no mercado?" | Igual: "So can I just go buy the three at the store and make it tonight?" | pergunta que mataria a venda | = |
 | 42 | 22:20 | Não: "purity problem" (prateleira diluída) + "mixing ratio" (ao miligrama). | Igual, os dois nomes mantidos: "purity problem" (o da prateleira é diluído) + "mixing ratio" (ao miligrama) + o nosso detalhe no segundo: a pitada precisa ser **tamponada** para não espumar no estômago (a colherada da internet) e medida ao miligrama. | dois obstáculos | ≈ |
 | 43 | 23:00 | VAL: "How is a regular person supposed to do this?" | Igual: "How is a regular person supposed to do this?" | protagonista pede | = |
-| 44 | 23:20 | BioActive Naturals, 25 anos, FDA registered; em 2 semanas, fórmula. | Igual na função: a Midi levou a receita a um fabricante real ([nome], [anos], instalação FDA registered **só se verdadeiro**); em 2 semanas, a fórmula. | viabilidade | ≈ |
+| 44 | 23:20 | BioActive Naturals, 25 anos, FDA registered; em 2 semanas, fórmula. | Igual, com laboratório de nome novo no estilo da AlkaMelt: "[LAB]", 25 anos, FDA registered; em 2 semanas, a fórmula. (Nome do lab a definir; opções na nota abaixo.) | viabilidade | ≈ |
 | 45 | 24:13 | Gotas: 10x mais rápido, 6x mais composto; "no pills, no mixing, no weird taste". | Igual na forma (gotas/shot) e na tripla negação: "no pills, no mixing, no weird taste" + "no fizz"; números de absorção só com fonte própria; em frase curta (a da AlkaMelt é a mais longa do roteiro). "Ten seconds, right before bed." | forma | ≈ |
 | 46 | 25:00 | "We call it AlkaMelt." / Oprah: "that exact formula". | Igual: "We call it [PRODUTO]." / VAL: "That exact formula. Every night." | nome + uso | ≈ |
-| 47 | 25:30 | Primeira e única fórmula que religa GLP-1/GIP; injeções $1–2k/mês e rebote; "works with your body, not against it". | Igual: a primeira e única fórmula que religa GLP-1/GIP **na hora em que o Estrogen Blackout apaga as luzes**; injeções $1–2k/mês e rebote; "works with your body's clock, not against it". Sem "better than injections". | diferenciação | ≈ |
+| 47 | 25:30 | Primeira e única fórmula que religa GLP-1/GIP; injeções $1–2k/mês e rebote; "works with your body, not against it". | Igual: a primeira e única fórmula que religa GLP-1/GIP; injeções $1–2k/mês e rebote; "works with your body, not against it". | diferenciação | = |
 | 48 | 26:20 | Tudo o mais depende de willpower; um deslize e 5–10 lb de punição. | Igual: tudo o mais depende de willpower; um deslize e 5–10 lb de punição "for daring to be human" + "and every one of them asks you to win the night on your own: the 10 PM fridge". | invalidação de dietas | ≈ |
 | 49 | 27:00 | Ataca a causa: saciedade, queima, proteção; 15–40 lb nas primeiras semanas. | Igual: ataca a causa nas três luzes (saciedade, queima, proteção); número com tipicidade: ["as primeiras 8–10 lb em 30 dias" ou faixa a definir]. | promessa numérica | ≈ |
 | 50 | 27:50 | NAD+: a pele acompanha a perda; "you actually look younger". | Igual na função (4º ingrediente de pele/firmeza, a decidir: NAD+ como na AM ou colágeno tipo 1): a pele acompanha a perda e **a barriga não fica flácida** (fecha a terceira palavra do Menopause Acid Belly); "and night is when skin repairs" [ângulo]; "you actually look younger". | benefício extra | ≈ |
+
+
+**Nomes a definir (24/11):**
+- **Laboratório (44), estilo "BioActive Naturals":** PureForm Naturals · ClearPath Naturals · VitalCore Naturals · NaturaBio Labs · Evergreen BioLabs. Recomendação: **PureForm Naturals** (ecoa o "purity problem" do ponto 42).
+- **Produto (46), estilo "AlkaMelt" = [mecanismo] + Melt, sem "-tide" e sem "Alka-":** NightMelt · LunaMelt · ShieldMelt · ClockMelt · PM Melt. Recomendação: **NightMelt** (carrega a hora, que é a nossa diferença, e cabe na boca da âncora: "a drop of NightMelt before bed").
+- Gimmick name (lead, pontos 7 e 10) continua pendente.
 
 ## CLOSE (28:34–51:03) — 44%
 
