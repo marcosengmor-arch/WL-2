@@ -97,7 +97,7 @@ Papéis: EXP = **Dra. Kathleen Jordan** (Midi Health; decisão do usuário 24/11
 | 43 | 23:00 | VAL: "How is a regular person supposed to do this?" | Igual: "How is a regular person supposed to do this?" | protagonista pede | = |
 | 44 | 23:20 | BioActive Naturals, 25 anos, FDA registered; em 2 semanas, fórmula. | Igual, com laboratório de nome novo no estilo da AlkaMelt: **VitalCore Naturals**, 25 anos, FDA registered; em 2 semanas, a fórmula. (Decidido 24/11: VitalCore Naturals.) | viabilidade | ≈ |
 | 45 | 24:13 | Gotas: 10x mais rápido, 6x mais composto; "no pills, no mixing, no weird taste". | Igual na forma (gotas/shot) e na tripla negação: "no pills, no mixing, no weird taste" + "no fizz"; números de absorção só com fonte própria; em frase curta (a da AlkaMelt é a mais longa do roteiro). "Ten seconds, right before bed." | forma | ≈ |
-| 46 | 25:00 | "We call it AlkaMelt." / Oprah: "that exact formula". | Igual: "We call it [PRODUTO]." / VAL: "That exact formula. Every night." | nome + uso | ≈ |
+| 46 | 25:00 | "We call it AlkaMelt." / Oprah: "that exact formula". | Igual: "We call it **BalanceMelt**. It balances the acid, and the belly melts." / VAL: "That exact formula. Every night." | nome + uso | ≈ |
 | 47 | 25:30 | Primeira e única fórmula que religa GLP-1/GIP; injeções $1–2k/mês e rebote; "works with your body, not against it". | Igual: a primeira e única fórmula que religa GLP-1/GIP; injeções $1–2k/mês e rebote; "works with your body, not against it". | diferenciação | = |
 | 48 | 26:20 | Tudo o mais depende de willpower; um deslize e 5–10 lb de punição. | Igual: tudo o mais depende de willpower; um deslize e 5–10 lb de punição "for daring to be human" + "and every one of them asks you to win the night on your own: the 10 PM fridge". | invalidação de dietas | ≈ |
 | 49 | 27:00 | Ataca a causa: saciedade, queima, proteção; 15–40 lb nas primeiras semanas. | Igual: ataca a causa nas três luzes (saciedade, queima, proteção); número com tipicidade: ["as primeiras 8–10 lb em 30 dias" ou faixa a definir]. | promessa numérica | ≈ |
@@ -106,42 +106,35 @@ Papéis: EXP = **Dra. Kathleen Jordan** (Midi Health; decisão do usuário 24/11
 
 **Nomes a definir (24/11):**
 - **Laboratório (44): VitalCore Naturals** (decidido 24/11).
-- **Produto (46), ligado ao baking soda, nos padrões das ofertas validadas:**
-  - padrão AlkaMelt / DropsMelt ([raiz]+Melt): **SodaMelt** · **BicarbMelt** · AlkaMelt (tomado) · SodaDrops
-  - padrão GutFit ([raiz]+Fit): **SodaFit** · BicarbFit · AlkaFit · pHFit
-  - padrão LipoLess ([problema]+Less): **AcidLess** · BloatLess
-  - padrão Gelatin Burn ([ingrediente] Burn): **Soda Burn** · Bicarb Burn · Alka Burn
-  - padrão -tide (SodaTide, Gumitide, Leaftide, Gelatide): BicarbTide · AlkaTide (família mais exposta; evitar)
-  - padrão GastroShield (nome da tecnologia da forma, não do produto): **NightShield** drops · SodaShield · AlkaShield
-  - Recomendação: SodaMelt (mais fiel ao controle) · SodaFit (padrão validado e ainda livre no bicarbonato) · AcidLess (nomeia o problema, padrão LipoLess). A decidir.
+- **Produto (46): BalanceMelt** (decidido 24/11; checar .com e marca). Descartados por já terem escalado: Alka-, Soda-; descartado por risco: Neutra-.
 - Gimmick name (lead, pontos 7 e 10) continua pendente.
 
 ## CLOSE (28:34–51:03) — 44%
 
 | # | AM | [AM] | [40+] | Conectivo | St |
 |---|---|---|---|---|---|
-| 51 | 28:34 | Mãe 28 lb; mulher de 50, 34 lb, biquíni. | Dois depoimentos reais ou dramatização marcada; um deles 60+. | prova pós-produto | ≈ |
-| 52 | 30:00 | 5 gotas em jejum, 10 segundos; sem dieta, sem exercício. | À noite, longe do jantar, 10 segundos; "sem pular jantar, sem 1.200 kcal". | modo de uso | ≈ |
-| 53 | 30:40 | Sem efeitos colaterais; tireoide, pré-diabetes, colesterol; médicas confirmam. | Aviso de sódio/pressão/rim; "fale com seu médico"; EXP confirma para quem toma remédio. | segurança | ≈ compliance |
-| 54 | 31:30 | Dose única "makes zero sense"; perfil → dose personalizada. | "Where are you on the acid scale?" 3 perguntas (hora que acorda, doce das 15h, azia noturna) → nível → dose. | personalização | ✱ |
-| 55 | 32:30 | App, Academy, Inner Circle. | Serviço real que existir (guia da noite, grupo); nada de "Netflix for your health" sem produto. | empilhamento | ≈ |
-| 56 | 34:00 | Dia 1 apetite; semana 1 roupa; dia 30 15–30 lb; 3 meses elogios; 6 meses reset. | Noite 1 dormir sem azia; semana 1 manhã sem food noise; 30 dias roupa; 3 meses polegadas; 6 meses o intestino reaprende o relógio. | expectativa + razão para 6 | ≈ |
-| 57 | 36:00 | Esgota em 48h; 300 kits; "Oprah esperou 3 semanas". | Esgota em 48h; a pitada tamponada e a dose por escala de ácido limitam o lote; [N] kits reservados para quem assistiu; VAL: "eu mesma esperei 3 semanas pelo meu". | escassez com motivo | ≈ |
-| 58 | 37:30 | Não está em farmácia nem Amazon; $185 → $98 → $49 em 6 por 3. | Só no site; escada de preço (pendente); 6 por 3. | ancoragem | ≈ |
-| 59 | 39:00 | Quase ninguém pega o de 2; parar "kills your momentum". | "Seis meses é o tempo que o intestino leva para reaprender o relógio" como razão do kit de 6. | AOV | ≈ |
-| 60 | 39:40 | Perfil 30 s → botão verde/vermelho. | Escala de ácido 30 s → botão. | CTA | ≈ |
-| 61 | 40:20 | 3 presentes com professor nomeado e preço dito por terceiro. | Bônus reais (ex.: "a noite 40+": jantar, sono, calor); preço dito pela ÂNC. | value stack | ≈ |
+| 51 | 28:34 | Depoimentos: mãe (28 lb pós-parto) e mulher de 50 (34 lb, biquíni, "turned back the clock 20 years"). | Igual na função e no par: uma mãe mais nova ([lb] pós-parto, para mostrar que não é só 60+) e uma mulher de 50+ ([lb], roupa guardada, "turned back the clock 20 years"); reais ou dramatização marcada; tipicidade. | prova pós-produto | ≈ |
+| 52 | 30:00 | 5 gotas em jejum, 10 segundos; sem dieta, sem exercício. | Igual, com a hora: 5 gotas **antes de dormir**, 10 segundos; sem dieta, sem exercício, "and no getting up for a glass of water". | modo de uso | ≈ |
+| 53 | 30:40 | Sem efeitos colaterais; recomendado para tireoide, pré-diabetes, colesterol; médicas confirmam. | Igual na função (EXP: seguro para quem tem tireoide, pré-diabetes, colesterol; outras médicas da Midi confirmam) + a frase de compliance do bicarbonato em uma linha (pressão/rim: "talk to your doctor"). | segurança + autoridade | ≈ |
+| 54 | 31:30 | Dose única "makes zero sense"; perfil de saúde → dose personalizada. | Igual, com o nosso nome: dose única "makes zero sense"; **"Where are you on the acid scale?"** 3 perguntas (a que horas você acorda com fome, o doce das 15h, a barriga de manhã) → nível → dose. | personalização | ≈ |
+| 55 | 32:30 | App com consultas, Academy, Inner Circle ("I'm in there, Gayle's in there"). | Igual na função: app da Midi com consultas, [Academy], [Inner Circle]; VAL: "I'm in there. Dr. Jordan's in there." Só o que existir de verdade. | empilhamento de serviço | ≈ |
+| 56 | 34:00 | Dia 1 apetite; semana 1 roupa; dia 30 "15, 20, sometimes 30 lb"; 3 meses elogios; 6 meses reset. | Igual, começando pela noite: **noite 1** dorme a noite inteira e acorda sem a fome das 7h; semana 1 roupa; dia 30 [lb com tipicidade]; 3 meses elogios; 6 meses reset ("the gut relearns its clock"). | expectativa + razão para 6 | ≈ |
+| 57 | 36:00 | Esgota em 48h; personalização limita produção; 300 kits; "I'm Oprah Winfrey, and I still had to wait 3 weeks." | Igual: esgota em 48h; a dose por escala de ácido e a pitada tamponada limitam a produção; [300] kits; VAL: "I'm Valerie Bertinelli, and I still had to wait 3 weeks." | escassez com motivo | ≈ |
+| 58 | 37:30 | Não está em farmácia nem Amazon (falsos); $185 → $98 → $49 em 6 pelo preço de 3. | Igual: não está em farmácia nem Amazon (falsificações); escada de preço [$185 → $98 → $49] em 6 pelo preço de 3 (valores a definir). | ancoragem | ≈ |
+| 59 | 39:00 | Quase ninguém pega o kit de 2; parar "kills your momentum". | Igual: quase ninguém pega o kit de 2; parar "kills your momentum", e o intestino leva 6 meses para reaprender o relógio. | AOV | ≈ |
+| 60 | 39:40 | Perfil 30 segundos → botão verde/vermelho. | Igual: escala de ácido em 30 segundos → botão verde/vermelho. | CTA | ≈ |
+| 61 | 40:20 | 3 presentes com professor nomeado e preço dito por terceiro (Runway Waist $247; Youth Glow $150/"$7.000"; consulta $10.000 para 50). | Igual na estrutura: 3 presentes, cada um com professor nomeado e preço dito pela ÂNC ou pela VAL: (1) cintura em 4 semanas [nome], [$]; (2) pele e firmeza depois dos 40 [dermatologista], [$]; (3) consulta com a Dra. Jordan / Midi para as primeiras [50], [$]. Nomes e valores a definir. | value stack | ≈ |
 | 62 | 43:00 | Recap da oferta. | Igual. | resumo | = |
-| 63 | 43:40 | "I've been burned so many times" → 60 dias; "test it". | Pergunta de espectadora → garantia longa nomeada (60 × 180 pendente); "I'm asking you to test it, tonight." | reversão de risco | ≈ |
-| 64 | 45:00 | Pós-clique + recap do mecanismo + depoimentos finais. | Igual: recap em 3 frases (escudo, relógio, pitada à noite) + depoimentos. | facilitar + prova | ≈ |
-| 65 | 48:30 | "Are you going to give yourself a real chance?" + Oprah: "It's not your fault… biology can be fixed." | Encruzilhada + VAL: "It was never your fault. It wasn't the bread. It wasn't willpower. It was the hour. And the hour can be fixed." | encruzilhada + absolvição | ≈ |
-| 66 | 49:40 | Sobremesa sem crime, jeans, foto, espelho. | Dormir sem calor, acordar sem fome, café da manhã em paz, jeans fecha, foto sem fugir. | future pacing | ≈ |
-| 67 | 50:30 | "Less than 300 bottles… if the button is still green." | "Less than [N] bottles left… if the button below is still green, don't wait for tomorrow night." | urgência final + CTA | ≈ |
+| 63 | 43:40 | Pergunta de espectadora: "I've been burned so many times" → 60 dias; "I'm not asking anyone to believe me, I'm asking them to test it." | Igual: pergunta de espectadora → garantia [60 ou 180 dias, a definir]; EXP: "I'm not asking anyone to believe me. I'm asking them to test it. Tonight." | reversão de risco | ≈ |
+| 64 | 45:00 | Pós-clique (60 segundos, 3–5 dias) + recap do mecanismo + depoimentos finais (ex-Mounjaro, 40+, 50). | Igual: pós-clique (60 segundos, 3–5 dias) + recap do mecanismo em 3 frases (Blackout, Acid Belly, relógio; refrão "we're good, stop eating, start burning") + depoimentos finais (ex-Mounjaro, 40+, 50+). | facilitar + prova | ≈ |
+| 65 | 48:30 | "Are you going to give yourself a real chance?" + Oprah: "It's not your fault. It never was. It's not about willpower. It's not about discipline. It's biology. And biology can be fixed." | Igual, na boca da VAL, com a escada completa: "It's not your fault. It never was. It's not about willpower. It's not about discipline. It's biology. It's the hour. And both can be fixed." | encruzilhada + absolvição | ≈ |
+| 66 | 49:40 | Sobremesa sem crime, jeans que fecham, foto sem fugir, sorriso no espelho. | Igual, com a noite na frente: dormir a noite inteira, acordar sem fome, sobremesa sem crime, jeans que fecham, foto sem fugir, sorriso no espelho. | future pacing | ≈ |
+| 67 | 50:30 | "Less than 300 bottles… if the button is still green, don't wait." | Igual: "Less than [300] bottles… if the button below is still green, don't wait for tomorrow night." | urgência final + CTA | ≈ |
 
 ---
 
 ## Contagem
-- **=** mantidos: 16 · **≈** adaptados: 48 · **✱** nossos controles no lugar: 3 · **✗** retirados: 0.
+- **=** mantidos: 13 · **≈** adaptados: 53 · **✱** nossos controles no lugar: 1 · **✗** retirados: 0.
 - Decisão do usuário (24/11): os 4 dispositivos de pressão da AlkaMelt (supressão Big Pharma, aposta do diploma, 300 kits/48h, botão verde com contagem) **ficam**, adaptados ao nosso elenco e com os números em [colchetes] para preencher com o lote real.
 - Regra do usuário (24/11): sempre "depois dos 40", nunca 45.
 - História revisada pelo usuário (24/11): 12 segue a função da Oprah com os fatos da Valerie (parada do Ozempic marcada como dramatização a decidir); 14 junta os dois; 15, 18, 19, 20 iguais; 17 combina tentativas tradicionais → injeções; 21 introduz "um shot dele, na hora certa".
