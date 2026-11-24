@@ -106,7 +106,14 @@ Papéis: EXP = **Dra. Kathleen Jordan** (Midi Health; decisão do usuário 24/11
 
 **Nomes a definir (24/11):**
 - **Laboratório (44): VitalCore Naturals** (decidido 24/11).
-- **Produto (46), ligado ao baking soda, estilo [ingrediente/mecanismo] + Melt:** SodaMelt · BicarbMelt · NightSoda · SodaNight · BufferMelt · pH Melt · SodaShield · BicarbNight. Ver avaliação na conversa de 24/11; a decidir.
+- **Produto (46), ligado ao baking soda, nos padrões das ofertas validadas:**
+  - padrão AlkaMelt / DropsMelt ([raiz]+Melt): **SodaMelt** · **BicarbMelt** · AlkaMelt (tomado) · SodaDrops
+  - padrão GutFit ([raiz]+Fit): **SodaFit** · BicarbFit · AlkaFit · pHFit
+  - padrão LipoLess ([problema]+Less): **AcidLess** · BloatLess
+  - padrão Gelatin Burn ([ingrediente] Burn): **Soda Burn** · Bicarb Burn · Alka Burn
+  - padrão -tide (SodaTide, Gumitide, Leaftide, Gelatide): BicarbTide · AlkaTide (família mais exposta; evitar)
+  - padrão GastroShield (nome da tecnologia da forma, não do produto): **NightShield** drops · SodaShield · AlkaShield
+  - Recomendação: SodaMelt (mais fiel ao controle) · SodaFit (padrão validado e ainda livre no bicarbonato) · AcidLess (nomeia o problema, padrão LipoLess). A decidir.
 - Gimmick name (lead, pontos 7 e 10) continua pendente.
 
 ## CLOSE (28:34–51:03) — 44%
