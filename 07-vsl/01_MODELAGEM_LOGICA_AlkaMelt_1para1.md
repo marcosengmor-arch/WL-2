@@ -2,11 +2,11 @@
 
 **Regra:** a coluna [AM] é a cadeia lógica da AlkaMelt (`08-comunicacao-e-logica/AlkaMelt_comunicacao_e_pontos_logicos.md`, Parte B), na ordem e minutagem originais. A coluna [45+] é o nosso ponto, mesmo lugar, mesmo conectivo. Nada é pulado nem retirado. A cadeia do mecanismo (`03-mecanismo/CADEIA_LOGICA_V2.1_relogio_do_acido.md`) alimenta as colunas; este arquivo é a estrutura da VSL inteira.
 
-**Controles nossos (o que muda em cima do controle):** causa = Menopause Acid Belly (escudo de estrogênio → solo ácido → células L); diferença = **hora (noite)**, não receita; gordura como segundo escudo; "comer certo piorou"; protagonista Valerie (história Oat Trick); expert real 50+ (sem avatares); personalização = escala de ácido; sem FDA/governo, sem "1 lb/dia"; tipicidade em todo número; dispositivos de pressão da AlkaMelt mantidos (decisão 24/11).
+**Controles nossos (o que muda em cima do controle):** causa = Menopause Acid Belly (escudo de estrogênio → solo ácido → células L); diferença = **hora (noite)**, não receita; gordura como segundo escudo; "comer certo piorou"; protagonista Valerie (história Oat Trick); expert Dra. Kathleen Jordan / Midi Health como "quem vem a público expor os golpes"; personalização = escala de ácido; sem FDA/governo, sem "1 lb/dia"; tipicidade em todo número; dispositivos de pressão da AlkaMelt mantidos (decisão 24/11).
 
 Status: **=** mantido · **≈** adaptado · **✱** nosso controle no lugar.
 
-Papéis: EXP = expert (médica/nutricionista real 50+) · VAL = Valerie · ÂNC = âncora/amiga (voz do público).
+Papéis: EXP = **Dra. Kathleen Jordan** (Midi Health; decisão do usuário 24/11; pessoa real, exige autorização/contrato) · VAL = Valerie · ÂNC = âncora/amiga (voz do público).
 
 ---
 
@@ -15,16 +15,16 @@ Papéis: EXP = expert (médica/nutricionista real 50+) · VAL = Valerie · ÂNC 
 | # | AM | [AM] AlkaMelt | [45+] Nosso ponto | Conectivo | St |
 |---|---|---|---|---|---|
 | 1 | 0:00 | Você já viu o "baking soda shot" nas redes. | Você já viu o baking soda shot. Tomou de manhã, em jejum, como mandaram. | reconhecimento | ≈ |
-| 2 | 0:10 | A maioria das versões está errada e **engorda**. | A maioria toma na **hora errada**: ou não dá nada, ou incha. | inversão | ✱ |
-| 3 | 0:25 | EXP é especialista em mulheres 40+ e deu a receita certa à Oprah (56 lb/45 dias). | EXP trata mulheres 45+ há 20 anos e deu a **versão da noite** à VAL (número com tipicidade). | autoridade + prova de elite | ≈ (sem Oprah) |
-| 4 | 0:45 | Oprah confirma: trocou injeções pelo shot; as falsas fazem mal. | VAL confirma: "eu tomava de manhã; nunca tinha tomado de verdade". | protagonista valida | ≈ |
-| 5 | 1:05 | A versão errada bagunça o pH, incha e desliga as células que produzem GLP-1/GIP. | De manhã o ácido está baixo; o shot espuma no estômago, incha, e às 22h, quando o ácido sobe, as células L ficam a noite inteira no ácido. | mecanismo em miniatura | ✱ |
-| 6 | 1:25 | Logo não é culpa de quem tentou: foi a receita. | Logo não é culpa sua: foi a **hora**, numa receita feita para um intestino de 25 anos. | absolvição | ✱ |
-| 7 | 1:35 | Versão certa = bicarbonato puro + 2 ingredientes, <$1/dia, derrete até 1 lb/dia. | Versão 45+ = uma pitada tamponada + 2 ingredientes, à noite, 10 segundos, <$1/dia; ✗ "1 lb/dia" → "as primeiras 8–10 lb em 30 dias" com tipicidade. | teaser do MUS | ≈ |
-| 8 | 1:55 | Duas mulheres fizeram a troca errado→certo: 10 lb/7 dias, 37 lb/2 meses. | Duas mulheres trocaram **a hora**: números a definir, marcados como dramatização/tipicidade. | prova por depoimento | ≈ |
-| 9 | 2:20 | 12.000 mulheres, sem injeção, cirurgia, fome. | N mulheres (número real) sem injeção, sem dieta de 1.200 kcal, sem pular jantar. | massa + 3 negações | ≈ |
-| 10 | 2:35 | Esqueça gelatina e pink salt; receita em 3 passos no Today; "7 lb ou rasgo meu diploma". | Esqueça gelatina, pink salt e o shot com limão: todos de manhã, todos para um intestino com escudo. Receita em 3 passos a seguir. EXP: "se você não perder [X] lb nas primeiras 30 noites, rasgo meu diploma na frente de vocês". | invalidação nominal + aposta | ≈ |
-| 11 | 3:05 | Big Pharma tentou tirar o vídeo 3x; assista agora. | A indústria das injeções ($50 bi) já tentou derrubar este vídeo; pode sair do ar a qualquer momento; assista até o fim agora. | supressão + urgência | ≈ |
+| 2 | 0:10 | A maioria das versões está errada e **engorda**. | Igual: a maioria das versões que circulam está errada e **engorda**. | inversão | = |
+| 3 | 0:25 | EXP é especialista em mulheres 40+ e deu a receita certa à Oprah (56 lb/45 dias). | EXP = **Dra. Kathleen Jordan**: médica internista, formada pela UCLA School of Medicine e Stanford, certificada pela Menopause Society (NCMP), ex-diretora médica de hospital (Saint Francis Memorial, Dignity Health) e da clínica Tia, hoje diretora médica e cofundadora da **Midi Health**, a clínica de menopausa para mulheres 40+. Deu a receita certa à VAL ([lb/dias] com tipicidade). | autoridade + prova de elite | ≈ |
+| 4 | 0:45 | Oprah confirma: trocou injeções pelo shot; as falsas fazem mal. | Igual: VAL confirma que trocou as injeções pelo shot e que as versões falsas fazem mal. | protagonista valida | = |
+| 5 | 1:05 | A versão errada bagunça o pH, incha e desliga as células que produzem GLP-1/GIP. | Igual + o reason why: a versão errada bagunça o pH, incha e desliga as células que produzem GLP-1/GIP **porque** de manhã o ácido está no ponto mais baixo do dia; a colherada espuma no estômago vazio, incha, e não chega onde precisa; à noite, quando o ácido sobe de verdade, as células L ficam sem proteção. | mecanismo em miniatura + reason why | ≈ |
+| 6 | 1:25 | Logo não é culpa de quem tentou: foi a receita. | Igual: não é culpa de quem tentou, foi a receita, **e a hora**, que ninguém mandou olhar. | absolvição | ≈ |
+| 7 | 1:35 | Versão certa = bicarbonato puro + 2 ingredientes, <$1/dia, derrete até 1 lb/dia. | Esta é a versão **verdadeira**: a que a Midi Health usa com celebridades de Hollywood 40+. A Midi está vindo a público para expor os golpes que se espalharam na internet, os aproveitadores que pegaram a receita e venderam a versão errada; por isso a Dra. Jordan está aqui revelando a versão correta: um shot, **uma pitada de baking soda + 2 ingredientes, no horário certo**, <$1/dia, [velocidade a definir com tipicidade]. | teaser do MUS + reason why da revelação | ✱ |
+| 8 | 1:55 | Duas mulheres fizeram a troca errado→certo: 10 lb/7 dias, 37 lb/2 meses. | Igual, incluindo a hora: duas mulheres trocaram a receita **e o horário**: [10 lb/7 dias, 37 lb/2 meses, números a definir com tipicidade]; "menos que antes de engravidar". | prova por depoimento | ≈ |
+| 9 | 2:20 | 12.000 mulheres, sem injeção, cirurgia, fome. | Igual: [12.000] mulheres, sem injeção, sem cirurgia, sem fome. | massa + 3 negações | = |
+| 10 | 2:35 | Esqueça gelatina e pink salt; receita em 3 passos no Today; "7 lb ou rasgo meu diploma". | Igual: esqueça gelatina e pink salt; a receita vem passo a passo, 3 passos, 30 segundos; "7 lb na primeira semana ou rasgo meu diploma **e fecho a Midi Health**". | invalidação nominal + aposta | ≈ |
+| 11 | 3:05 | Big Pharma tentou tirar o vídeo 3x; assista agora. | Combinado: a indústria das injeções ($50 bi) já tentou derrubar este vídeo 3 vezes e está pressionando a Midi a parar de falar; pode sair do ar a qualquer momento; assista até o fim agora. | supressão + urgência | ≈ |
 
 ## HISTÓRIA (3:25–9:45) — 18%
 
@@ -110,9 +110,10 @@ Papéis: EXP = expert (médica/nutricionista real 50+) · VAL = Valerie · ÂNC 
 ---
 
 ## Contagem
-- **=** mantidos: 6 · **≈** adaptados: 51 · **✱** nossos controles no lugar: 10 · **✗** retirados: 0.
+- **=** mantidos: 8 · **≈** adaptados: 47 · **✱** nossos controles no lugar: 10 · **✗** retirados: 0.
 - Decisão do usuário (24/11): os 4 dispositivos de pressão da AlkaMelt (supressão Big Pharma, aposta do diploma, 300 kits/48h, botão verde com contagem) **ficam**, adaptados ao nosso elenco e com os números em [colchetes] para preencher com o lote real.
-- Os 10 pontos ✱ são exatamente a nossa diferença: 2, 5, 6 (hora errada), 14 (não é a mesma gordura), 19–20 (a pergunta "a que horas?"), 23–24 (escudo + segundo escudo), 31–32 (relógio + demonstração), 50 (sono), 54 (escala de ácido).
+- Lead revisada pelo usuário (24/11): pontos 2, 4, 9 iguais à AlkaMelt; 5 com o reason why do ácido baixo pela manhã; 6 com a hora; 7 vira a revelação da Midi Health; 10 com "rasgo meu diploma e fecho a Midi"; 11 combina supressão e pressão.
+- Os pontos ✱ são a nossa diferença: 7, 14, 19, 20, 23, 24, 31, 32, 50, 54.
 - Proporção de tempo mantida: lead 7% · história 18% · MUP+MUS 18% · produto 13% · close 44%.
 
 ## Pendências que travam a escrita
