@@ -1,5 +1,7 @@
 # Modelagem lógica 1:1 — os 67 pontos da AlkaMelt com os nossos controles em cima
 
+**Regra-mãe (usuário, 24/11): estamos modelando.** Cada linha segue a estrutura, a função e o dispositivo já usados pela AlkaMelt, linha a linha; só se adapta o que a nossa big idea (escudo → ácido → relógio da noite → pitada na hora certa) e os nossos personagens (Dra. Jordan/Midi, Valerie, âncora) exigem. Não se inventa movimento novo onde a AlkaMelt já tem um.
+
 **Regra:** a coluna [AM] é a cadeia lógica da AlkaMelt (`08-comunicacao-e-logica/AlkaMelt_comunicacao_e_pontos_logicos.md`, Parte B), na ordem e minutagem originais. A coluna [40+] é o nosso ponto, mesmo lugar, mesmo conectivo. Nada é pulado nem retirado. A cadeia do mecanismo (`03-mecanismo/CADEIA_LOGICA_V2.1_relogio_do_acido.md`) alimenta as colunas; este arquivo é a estrutura da VSL inteira.
 
 **Controles nossos (o que muda em cima do controle):** causa = Menopause Acid Belly (escudo de estrogênio → solo ácido → células L); diferença = **hora (noite)**, não receita; gordura como segundo escudo; "comer certo piorou"; protagonista Valerie (história Oat Trick); expert Dra. Kathleen Jordan / Midi Health como "quem vem a público expor os golpes"; personalização = escala de ácido; sem FDA/governo, sem "1 lb/dia"; tipicidade em todo número; dispositivos de pressão da AlkaMelt mantidos (decisão 24/11).
@@ -49,30 +51,30 @@ Papéis: EXP = **Dra. Kathleen Jordan** (Midi Health; decisão do usuário 24/11
 
 | # | AM | [AM] | [40+] | Conectivo | St |
 |---|---|---|---|---|---|
-| 22 | 9:45 | Ozempic/Mounjaro agem em GLP-1/GIP, o sinal "we're good, stop eating, start burning". | Igual: o sinal "já chega, pode queimar" (refrão fixo, mesmas palavras em 4 pontos). | o que a injeção faz | = |
-| 23 | 10:15 | Estresse, ultraprocessados e "queda hormonal depois dos 40" desligam a produção. | **Uma origem:** por 30 anos o estrogênio foi o escudo do intestino; aos 40 cai; o solo azeda; as células L dormem. | causa | ✱ |
-| 24 | 10:45 | Sem o sinal, o corpo entra em pânico e guarda tudo. | Sem o sinal, o corpo levanta o **segundo escudo**: gordura ao redor do intestino, onde o ácido está. Mudou de endereço. | consequência | ✱ |
-| 25 | 11:10 | Por isso jejum, keto e academia não funcionam; não é disciplina. | Por isso 1.200 kcal, caminhada e keto não funcionam: "until the acid comes down, the belly won't let go". | absolvição com lógica | ≈ |
-| 26 | 11:30 | Sintomas: fome em hora estranha, doce do nada, cansaço, névoa. | Sintomas: doce das 15h, geladeira às 22h, acordar às 3h, calor na barriga, inchaço de manhã. | reconhecimento | ≈ |
-| 27 | 11:55 | A injeção substitui em vez de ativar; ao parar, 5x mais difícil. | A injeção substitui o sinal de dia e não desliga o relógio da noite; ao parar, volta. ✗ "5x". | por que a injeção falha | ≈ |
-| 28 | 12:24 | ÂNC recapitula + "baking soda pode religar o sistema?" | ÂNC recapitula + "e o relógio? Onde entra a hora nisso?" | recapitulação + loop | ≈ |
+| 22 | 9:45 | Ozempic/Mounjaro agem em GLP-1/GIP, o sinal "we're good, stop eating, start burning". | Igual, palavra por palavra no refrão: EXP explica que as injeções funcionam porque agem em GLP-1 e GIP, o sinal "we're good, stop eating, start burning" (repetir com as mesmas palavras nos pontos 31, 35 e 64). | o que a injeção faz | = |
+| 23 | 10:15 | Estresse, ultraprocessados e "queda hormonal depois dos 40" desligam essa produção. | Mesma lista, com a nossa causa no lugar da "queda hormonal": estresse, ultraprocessados **e a queda do estrogênio depois dos 40, o escudo que mantinha o intestino calmo**, desligam essa produção. | causa | ≈ |
+| 24 | 10:45 | Sem o sinal, o corpo entra em pânico e guarda tudo ("a salad, a steak, even a piece of fruit"). | Igual (pânico, guarda tudo, a salada, o bife, a fruta) + uma frase nossa no fim: "e guarda onde o ácido está: na barriga". | consequência | ≈ |
+| 25 | 11:10 | Por isso jejum, keto e academia não funcionam; "não é disciplina". | Igual: "It doesn't matter if you do intermittent fasting… keto… hours at the gym"; não é disciplina. | absolvição com lógica | = |
+| 26 | 11:30 | Sintomas: fome em horário estranho, doce do nada, cansaço, névoa. | Igual, com um sintoma nosso no fim da lista: fome em horário estranho, doce do nada, cansaço, névoa, **e a geladeira às 22h**. | reconhecimento | ≈ |
+| 27 | 11:55 | A injeção substitui em vez de ativar; o corpo para de produzir; ao parar, 5x mais difícil. | Igual (substitui em vez de ativar; o corpo para de produzir; ao parar, volta). "5x harder" só com fonte própria; senão "harder than before". | por que a injeção falha | ≈ |
+| 28 | 12:24 | ÂNC: "The injections replace your hormones, your body shuts down… But you're saying baking soda can restart the whole system? How is that even possible?" | Igual, com o nosso objeto: "…But you're saying a pinch of baking soda, at the right hour, can restart the whole system? How is that even possible?" | recapitulação + loop | ≈ |
 
 ## MUS (12:39–21:57)
 
 | # | AM | [AM] | [40+] | Conectivo | St |
 |---|---|---|---|---|---|
-| 29 | 12:39 | Bicarbonato é antigo (avó, azia) e neutraliza o ácido que desliga a produção. | Igual (avó, caixa na despensa) + **"mas a avó tomava à noite, para a azia da noite"**. | familiar + mecanismo | ≈ |
-| 30 | 13:30 | Células L nascem no intestino; sementes em solo ácido; dormindo, não mortas. | Igual (jardim). | metáfora | = |
-| 31 | 14:20 | O shot sobe o pH e as células acordam; hormônio próprio. | **O ácido tem relógio**: baixo de manhã, alto no fim da noite (Moore 1970/1973, estômago; inferência para o intestino). Na menopausa o pico é mais alto e mais longo. O shot da manhã apagou às 7h um fogo que começa às 22h. | solução lógica → fato novo | ✱ |
-| 32 | 15:18 | fMRI (JCEM 2023) mostra os sinais de fome apagando. | Demonstração do **relógio de 24 h** (curva do ácido; seta 7h vs 21h) + dois copos (colher+limão espumando vs pitada tamponada + fita). ✗ fMRI sem fonte própria. | prova visual | ✱ |
-| 33 | 16:10 | "I just needed to fix my gut, not my character." | VAL: "I didn't need more discipline. I needed the right hour." | absolvição em frase | ≈ |
-| 34 | 16:40 | Pink salt, gelatina e ACV falham porque DPP-4 destrói o hormônio em minutos. | "Comer certo piorou": limão, ACV, café preto, lemon water e o shot viral são ácidos e de manhã; e à noite o ácido do estresse e a DPP-4 destroem o pouco sinal que sobra. | segundo problema + desqualificação | ≈ |
-| 35 | 17:25 | Gingerol inibe DPP-4 em 93%; o hormônio "sticks around". | Gengibre + magnésio protegem o sinal à noite e devolvem o sono (magnésio = apoio, não a diferença). ✗ "93%". | segundo ingrediente | ≈ |
-| 36 | 18:20 | Falta o interruptor queimar/guardar (AMPK), que trava após os 40. | Falta destravar o segundo escudo: enquanto o ácido sobe à noite, o corpo não solta a gordura da barriga. | terceiro problema | ≈ |
-| 37 | 19:00 | Berberina liga o interruptor; Yale 12 semanas 3x. | Ativador do interruptor em dose baixa (alternativa de menor risco à berberina); sem número sem fonte. | terceiro ingrediente | ≈ CUIDADO |
-| 38 | 19:50 | Essa é a combinação exata dada à Oprah. | Essa é a versão da noite dada à VAL. | fechamento do mecanismo | ≈ |
-| 39 | 20:20 | Oprah duvidou ("there has to be a catch"); "your body already knows how to lose weight". | VAL: "Eu já tinha tomado bicarbonato." EXP: "Nunca na hora em que seu corpo precisava." | ceticismo encenado | ≈ |
-| 40 | 21:00 | 3 meses, 56 lb, ficou; jantar com Gayle; "food is not the enemy". | VAL: resultado com tipicidade; a cena: jantar fora, sobremesa, dormir a noite inteira; "the night is not the enemy anymore". | resultado + identidade | ≈ |
+| 29 | 12:39 | Bicarbonato é antigo (a avó usava para azia) e neutraliza o ácido que desliga a produção. | Igual (a avó, a azia, a caixa na despensa; neutraliza o ácido que desliga a produção). | familiar + mecanismo | = |
+| 30 | 13:30 | GLP-1/GIP nascem no intestino; células L = sementes; solo ácido; dormindo, não mortas. | Igual (jardim, sementes, solo ácido, dormindo). | metáfora | = |
+| 31 | 14:20 | O shot sobe o pH e as células acordam; hormônio próprio, não sintético. | Igual + a condição da nossa big idea: o shot sobe o pH e as células acordam, hormônio próprio, não sintético, **desde que chegue na hora em que o solo mais azeda: à noite** (o ácido tem relógio; baixo de manhã, alto no fim da noite). | solução lógica | ≈ |
+| 32 | 15:18 | "Can we pull up that brain scan?" fMRI (JCEM 2023): sinais de fome apagando. | Mesmo dispositivo (comando de produção + imagem científica): "Can we pull up that chart?" curva do ácido em 24 h (Moore 1970/1973) com a seta do shot viral às 7h e a nossa às 21h; fMRI só se houver fonte própria. | prova visual | ≈ |
+| 33 | 16:10 | VAL: "I just needed to fix my gut, not my character." | Igual, na boca da VAL: "I just needed to fix my gut, not my character." | absolvição em frase | = |
+| 34 | 16:40 | Mas pink salt, gelatina e ACV falham porque a enzima DPP-4 destrói o hormônio em minutos. | Igual (pink salt, gelatina, ACV; DPP-4 destrói em minutos) + o shot viral da manhã na mesma lista. | segundo problema + desqualificação | ≈ |
+| 35 | 17:25 | Gingerol inibe DPP-4 em 93% (Journal of Medicinal Food); o hormônio "sticks around". | Igual (gengibre/gingerol protege o sinal; "sticks around"); o número só com a fonte conferida; refrão "we're good, stop eating, start burning". | segundo ingrediente | ≈ |
+| 36 | 18:20 | Falta o interruptor queimar/guardar (AMPK), que trava após os 40. | Igual (o interruptor queimar/guardar que trava depois dos 40). | terceiro problema | = |
+| 37 | 19:00 | Berberina liga o interruptor; Yale, 12 semanas, 3x mais gordura, sem mudar a comida. | Igual na função (um ativador liga o interruptor; estudo nomeado com fonte própria). Ingrediente: berberina em dose baixa ou a alternativa definida no mecanismo §4. | terceiro ingrediente | ≈ CUIDADO |
+| 38 | 19:50 | Essa é a combinação exata dada à Oprah. | Igual: essa é a combinação exata, **na hora exata**, dada à VAL. | fechamento do mecanismo | ≈ |
+| 39 | 20:20 | Oprah: "No way. There has to be a catch." EXP: "your body already knows how to lose weight". | Igual: VAL: "No way. There has to be a catch." EXP: "Your body already knows how to lose weight. It just needed the acid out of the way at the right hour." | ceticismo encenado | ≈ |
+| 40 | 21:00 | 3 meses, 56 lb, ficou; food noise sumiu; jantar com Gayle; "72. For the first time in my life, food is not the enemy." | Igual na função: [prazo, lb com tipicidade], ficou; food noise sumiu; jantar com uma amiga nomeada, pediu o que quis, comeu até ficar satisfeita, não pensou nisso o resto da noite; "66. For the first time in my life, food is not the enemy." | resultado + identidade | ≈ |
 
 ## PRODUTO (21:57–28:33) — 13%
 
@@ -114,12 +116,13 @@ Papéis: EXP = **Dra. Kathleen Jordan** (Midi Health; decisão do usuário 24/11
 ---
 
 ## Contagem
-- **=** mantidos: 12 · **≈** adaptados: 48 · **✱** nossos controles no lugar: 7 · **✗** retirados: 0.
+- **=** mantidos: 16 · **≈** adaptados: 48 · **✱** nossos controles no lugar: 3 · **✗** retirados: 0.
 - Decisão do usuário (24/11): os 4 dispositivos de pressão da AlkaMelt (supressão Big Pharma, aposta do diploma, 300 kits/48h, botão verde com contagem) **ficam**, adaptados ao nosso elenco e com os números em [colchetes] para preencher com o lote real.
 - Regra do usuário (24/11): sempre "depois dos 40", nunca 45.
 - História revisada pelo usuário (24/11): 12 segue a função da Oprah com os fatos da Valerie (parada do Ozempic marcada como dramatização a decidir); 14 junta os dois; 15, 18, 19, 20 iguais; 17 combina tentativas tradicionais → injeções; 21 introduz "um shot dele, na hora certa".
+- MUP+MUS (22–40) passados pela regra-mãe em 24/11: 8 linhas iguais; as demais mantêm o dispositivo da AlkaMelt e acrescentam só a condição da hora/escudo.
 - Lead revisada pelo usuário (24/11): pontos 2, 4, 9 iguais à AlkaMelt; 5 com o reason why do ácido baixo pela manhã; 6 com a hora; 7 vira a revelação da Midi Health; 10 com "rasgo meu diploma e fecho a Midi"; 11 combina supressão e pressão.
-- Os pontos ✱ são a nossa diferença: 7, 23, 24, 31, 32, 50, 54.
+- Os pontos ✱ são a nossa diferença: 7, 50, 54.
 - Proporção de tempo mantida: lead 7% · história 18% · MUP+MUS 18% · produto 13% · close 44%.
 
 ## Pendências que travam a escrita
