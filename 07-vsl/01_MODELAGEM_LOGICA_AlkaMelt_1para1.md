@@ -95,7 +95,7 @@ Papéis: EXP = **Dra. Kathleen Jordan** (Midi Health; decisão do usuário 24/11
 | 41 | 21:57 | ÂNC: "Posso comprar os três no mercado?" | Igual: "So can I just go buy the three at the store and make it tonight?" | pergunta que mataria a venda | = |
 | 42 | 22:20 | Não: "purity problem" (prateleira diluída) + "mixing ratio" (ao miligrama). | Igual, os dois nomes mantidos: "purity problem" (o da prateleira é diluído) + "mixing ratio" (ao miligrama) + o nosso detalhe no segundo: a pitada precisa ser **tamponada** para não espumar no estômago (a colherada da internet) e medida ao miligrama. | dois obstáculos | ≈ |
 | 43 | 23:00 | VAL: "How is a regular person supposed to do this?" | Igual: "How is a regular person supposed to do this?" | protagonista pede | = |
-| 44 | 23:20 | BioActive Naturals, 25 anos, FDA registered; em 2 semanas, fórmula. | Igual, com laboratório de nome novo no estilo da AlkaMelt: "[LAB]", 25 anos, FDA registered; em 2 semanas, a fórmula. (Nome do lab a definir; opções na nota abaixo.) | viabilidade | ≈ |
+| 44 | 23:20 | BioActive Naturals, 25 anos, FDA registered; em 2 semanas, fórmula. | Igual, com laboratório de nome novo no estilo da AlkaMelt: **VitalCore Naturals**, 25 anos, FDA registered; em 2 semanas, a fórmula. (Decidido 24/11: VitalCore Naturals.) | viabilidade | ≈ |
 | 45 | 24:13 | Gotas: 10x mais rápido, 6x mais composto; "no pills, no mixing, no weird taste". | Igual na forma (gotas/shot) e na tripla negação: "no pills, no mixing, no weird taste" + "no fizz"; números de absorção só com fonte própria; em frase curta (a da AlkaMelt é a mais longa do roteiro). "Ten seconds, right before bed." | forma | ≈ |
 | 46 | 25:00 | "We call it AlkaMelt." / Oprah: "that exact formula". | Igual: "We call it [PRODUTO]." / VAL: "That exact formula. Every night." | nome + uso | ≈ |
 | 47 | 25:30 | Primeira e única fórmula que religa GLP-1/GIP; injeções $1–2k/mês e rebote; "works with your body, not against it". | Igual: a primeira e única fórmula que religa GLP-1/GIP; injeções $1–2k/mês e rebote; "works with your body, not against it". | diferenciação | = |
@@ -105,8 +105,8 @@ Papéis: EXP = **Dra. Kathleen Jordan** (Midi Health; decisão do usuário 24/11
 
 
 **Nomes a definir (24/11):**
-- **Laboratório (44), estilo "BioActive Naturals":** PureForm Naturals · ClearPath Naturals · VitalCore Naturals · NaturaBio Labs · Evergreen BioLabs. Recomendação: **PureForm Naturals** (ecoa o "purity problem" do ponto 42).
-- **Produto (46), estilo "AlkaMelt" = [mecanismo] + Melt, sem "-tide" e sem "Alka-":** NightMelt · LunaMelt · ShieldMelt · ClockMelt · PM Melt. Recomendação: **NightMelt** (carrega a hora, que é a nossa diferença, e cabe na boca da âncora: "a drop of NightMelt before bed").
+- **Laboratório (44): VitalCore Naturals** (decidido 24/11).
+- **Produto (46), ligado ao baking soda, estilo [ingrediente/mecanismo] + Melt:** SodaMelt · BicarbMelt · NightSoda · SodaNight · BufferMelt · pH Melt · SodaShield · BicarbNight. Ver avaliação na conversa de 24/11; a decidir.
 - Gimmick name (lead, pontos 7 e 10) continua pendente.
 
 ## CLOSE (28:34–51:03) — 44%
