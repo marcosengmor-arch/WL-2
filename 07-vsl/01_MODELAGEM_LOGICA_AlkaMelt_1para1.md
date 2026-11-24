@@ -109,7 +109,11 @@ Papéis: EXP = **Dra. Kathleen Jordan** (Midi Health; decisão do usuário 24/11
 - **Laboratório (44): VitalCore Naturals** (decidido 24/11).
 - **Produto (46): BalanceMelt** (decidido 24/11; checar .com e marca). Descartados por já terem escalado: Alka-, Soda-; descartado por risco: Neutra-.
 - Gimmick name (lead, pontos 7 e 10) continua pendente.
-- **Nome da promo de festas (58, Q7), a decidir:** "The Silent Night Offer" (o food noise que silencia + a canção de Natal + a nossa hora) · "12 Nights of BalanceMelt" (12 noites, como os 12 dias) · "Holiday Night Reset" · "New Year, New Night" · "Home for the Holidays" · "Light by New Year's" · "Unwrap Your Body". Recomendação: **Silent Night**.
+- **Promo de festas (58, Q7): o que o swipe validou.** SodaTide = campanha **"America Slim Again"**; Gumitide = **"New Body for the Summer"**; Oat Trick/LipoLess = **"Bright Body"**. Mecânica igual nas três: a expert "tirou dinheiro do próprio bolso" e dá 4 frascos de graça para quem leva o kit de 6 (pague 2, leve 6); "só para quem está assistindo"; os bônus repetem o tema da estação (Bikini Ready in 4 Weeks; Smooth and Toned Legs for the Summer); future pacing "o corpo dos sonhos para este verão e para o resto da vida". Sazonalidade também na lead: Pink Gelatin promete "15 a 24 lb antes do Natal"; Matcha Ritual nomeia a dor ("costumavam amar Thanksgiving e Natal, agora passam a ceia se sentindo culpadas"); AlkaMelt cita "planning your Thanksgiving meal a week before".
+  - Nomes no padrão validado, para fim de ano: **"New Body for the New Year"** (herdeiro direto de New Body for the Summer) · "America Slim Again" não (é deles) → **"Slim for the Holidays"** · "Bright Body" → **"Bright Holidays"** · **"Home for the Holidays"** · **"Slim by New Year's Eve"** · **"The Holiday Table Campaign"** (a ceia sem culpa, dor da Matcha).
+  - Nomes nossos: **"The Silent Night Campaign"** (food noise + canção + a hora) · "12 Nights of BalanceMelt".
+  - Recomendação: **"New Body for the New Year"** como nome da campanha (padrão que validou duas vezes) e "Silent Night" como nome do kit de 6 dentro dela, se quiser os dois.
+  - Bônus re-temados para a estação (61): "Little Black Dress in 4 Weeks" (no lugar de Bikini Ready) · "Holiday Glow: skin and firmness after 40" · "Silent Nights: sleep through the holidays" (a noite 40+). Promessa sazonal na lead (7/8), com tipicidade: "[X] lb before Christmas".
 
 ## CLOSE (28:34–51:03) — 44%
 
