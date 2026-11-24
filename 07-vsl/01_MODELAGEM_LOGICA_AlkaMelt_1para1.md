@@ -76,6 +76,18 @@ Papéis: EXP = **Dra. Kathleen Jordan** (Midi Health; decisão do usuário 24/11
 | 39 | 20:20 | Oprah: "No way. There has to be a catch." EXP: "your body already knows how to lose weight". | Igual: VAL: "No way. There has to be a catch." EXP: "Your body already knows how to lose weight. It just needed the acid out of the way, at the right hour." | ceticismo encenado | ≈ |
 | 40 | 21:00 | 3 meses, 56 lb, ficou; food noise sumiu; jantar com Gayle, pediu o que quis, comeu até satisfeita, não pensou mais nisso; "72. For the first time in my life, food is not the enemy." | Igual na função: [prazo, lb com tipicidade], ficou; food noise sumiu; "and I sleep through the night"; jantar com o filho Wolfgang (documentado) ou amiga a definir, pediu o que quis, comeu até ficar satisfeita, não pensou nisso o resto da noite; "66. For the first time in my life, food is not the enemy." | resultado + identidade | ≈ |
 
+
+**Propostas da SodaTide para provar melhor a tese no MUP/MUS (24/11, a revisar uma a uma; nenhuma muda a ordem da AlkaMelt):**
+
+| # | Onde | O que a SodaTide faz | Como entra em cima da nossa linha | Ganho | Risco |
+|---|---|---|---|---|---|
+| P1 | **32** (no lugar do gráfico, ou antes dele) | Cozinha: dois recipientes de "fluido intestinal" amarelo-esverdeado, fitas de pH vermelhas; bicarbonato no copo → clareia → fita verde | **O relógio do ácido em três copos**: "7 AM", "3 PM", "10 PM", fluido simulado cada vez mais escuro, fita amarela → laranja → vermelha. ÂNC: "Wait, so this is the same gut at three hours of the day?" A pitada tamponada entra no copo das 22h → fita verde. Depois a colherada do shot viral entra no copo das 7h → espuma, não muda a fita. Rotular "demonstração". | O relógio deixa de ser gráfico e vira coisa que ela vê; prova a tese e a hora no mesmo minuto | fluido "simulado" tem que estar dito; sem "ácido no sangue" |
+| P2 | **25** | Dá a razão de cada método falhar: jejum desacelera o metabolismo (o magro que come mais); keto quebra a insulina (mãe levando a glicose à escola) | Mantém a lista da AlkaMelt (jejum, keto, academia) e dá a cada um uma razão que **termina no ácido da noite**: jejum = estômago vazio mais horas = mais ácido à noite; keto = sem o "freio" dos carboidratos, jantar menor, mesma coisa; academia = cortisol = ácido do estresse. "Every one of them made the night worse." | A invalidação deixa de ser "não funciona" e vira "funcionou contra você" | manter curto (3 frases cada), senão vira aula |
+| P3 | **27** | Lê o rótulo da injeção (náusea, queda de cabelo, pele flácida, pancreatite) e pergunta "vai ficar nisso para sempre?" | Uma frase a mais no 27: EXP lê 3 itens do rótulo oficial; ÂNC: "And you'd have to stay on it forever?" | fecha a saída "então fico na injeção" | só itens do rótulo real; sem "tumor de tireoide" como susto |
+| P4 | **29** | "O sinal principal não é azia: é inchaço, cansaço e dificuldade de emagrecer" | Ponte para a definição da barriga: "Most women never feel heartburn. They feel it here: swollen by morning, bigger every year, soft to the touch." | liga o ácido à barriga sem ela precisar "sentir ácido" | — |
+| P5 | **32** (fecho) | Gumitide: pergunta socrática à âncora ("which one is easier to burn?") | Fechar a demonstração com a pergunta: "Which cup would you want your L-cells sitting in all night?" ÂNC: "Not the red one." | a âncora conclui a tese sozinha (D01: o espectador fecha o ABT) | — |
+| ✗ | 32 | Gordura que "dissolve" no copo alcalino | **Não pegar**: pseudo-teste fácil de desmentir (pH não dissolve gordura); a pesquisa marcou "fizz test" como alto risco | — | alto |
+
 ## PRODUTO (21:57–28:33) — 13%
 
 | # | AM | [AM] | [40+] | Conectivo | St |
