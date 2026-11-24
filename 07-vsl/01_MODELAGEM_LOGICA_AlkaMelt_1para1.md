@@ -156,6 +156,24 @@ Papéis: EXP = **Dra. Kathleen Jordan** (Midi Health; decisão do usuário 24/11
 | Q9 | **45 / 46** | Gumitide: o produto físico no estúdio, a âncora pega, cheira, prova ("no weird taste") | Frasco na mesa; ÂNC pinga na língua: "that's it? No taste. No fizz." | prova do ponto 45 em cena | — |
 | ✗ | — | "FDA chief" testando no laboratório; "Guaranteed Efficacy Seal"; "the FDA just approved" | **Não pegar**: instituição falsa | — | alto |
 
+**Gimmick names das VSLs do swipe (levantamento 24/11, para decidir o nosso):**
+
+| VSL | Gimmick name | Fórmula do nome | Qualificador | O que o nome faz |
+|---|---|---|---|---|
+| AlkaMelt | "the **real** baking soda shot" | [real] + ingrediente + formato | "real" (vs. a viral errada) | corrige o truque viral e absolve quem tentou |
+| SodaTide | "the **secret** baking soda shot" / "$1 baking soda shot" / "10-second morning ritual" | [secret/$1] + ingrediente + formato | segredo, preço, tempo | promete o que a internet não entregou |
+| GutFit | "Ritual da água com bicarbonato" / "baking soda trick" (com gelo, 10 s de manhã) | ingrediente + formato (ritual) | gelo, 10 segundos | ritual matinal de 10 segundos |
+| Gumitide | "the **pink** gelatin trick" | [cor] + ingrediente + trick | cor | visual novo em cima de truque conhecido |
+| Gelatide (3M Day) | "Truque da Gelatina Rosa" / "gelo de gelatina" | [cor] + ingrediente + trick | cor + gelo | idem |
+| Gelatin Burn | "Gelatina Bariátrica" | [adjetivo médico] + ingrediente | "bariátrica" | empresta autoridade de cirurgia |
+| LipoLess 02 | "gelatina bariátrica" / "truque da gelatina" | idem | idem | idem |
+| LipoLess 07 | "gelatina de chia" / "truque da Dra. Ashton" | ingrediente + ingrediente / expert + trick | expert | o truque tem dona |
+| Oat Trick / LipoLess | "the Oat Trick" / "truque da aveia de 23 centavos" | ingrediente + trick + [preço] | 23 centavos | preço simbólico no nome |
+| Leaftide | "the **$1** Matcha Ritual" | [$1] + ingrediente + ritual | $1 | preço + ritual |
+| Pink Salt / DropsMelt | "Pink Salt Hack" / "ritual caseiro de $3 com sal rosa, 60 segundos" | [cor] + ingrediente + hack + [$3, 60 s] | cor, preço, tempo | idem |
+
+Fórmula que se repete: **[qualificador] + [ingrediente] + [formato: shot / trick / ritual / hack]**, com um ou dois de: preço ($1, $3, 23¢), tempo (10 s, 60 s), cor (pink), correção (real, secret), autoridade (bariátrica, Dra.). Nenhum nome do swipe usa **hora do dia** como qualificador.
+
 ## Contagem
 - **=** mantidos: 13 · **≈** adaptados: 53 · **✱** nossos controles no lugar: 1 · **✗** retirados: 0.
 - Decisão do usuário (24/11): os 4 dispositivos de pressão da AlkaMelt (supressão Big Pharma, aposta do diploma, 300 kits/48h, botão verde com contagem) **ficam**, adaptados ao nosso elenco e com os números em [colchetes] para preencher com o lote real.
