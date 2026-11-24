@@ -92,16 +92,16 @@ Papéis: EXP = **Dra. Kathleen Jordan** (Midi Health; decisão do usuário 24/11
 
 | # | AM | [AM] | [40+] | Conectivo | St |
 |---|---|---|---|---|---|
-| 41 | 21:57 | "Posso comprar os três no mercado?" | Igual. | pergunta que mataria a venda | = |
-| 42 | 22:20 | Não: pureza diluída + proporção ao miligrama. | Não: a pitada precisa ser **tamponada e medida** (a colherada espuma e incha) + os dois de apoio em forma pura. | dois obstáculos | ≈ |
-| 43 | 23:00 | "How is a regular person supposed to do this?" | Igual. | protagonista pede | = |
-| 44 | 23:20 | BioActive Naturals, 25 anos, FDA registered; 2 semanas, fórmula. | Fabricante real, credencial verdadeira; ✗ "FDA registered" como selo. | viabilidade | ≈ |
-| 45 | 24:13 | Gotas: 10x mais rápido, 6x mais composto; sem pílula, sem mistura. | Shot/gotas noturnas: 10 segundos, sem espuma, sem gosto. ✗ "10x/6x". Frase curta (não repetir a frase longa da AM). | forma | ≈ |
-| 46 | 25:00 | "We call it AlkaMelt." / "that exact formula". | "[PRODUTO]" (pendente) / VAL: "that exact formula, every night". | nome + uso | ≈ |
-| 47 | 25:30 | Primeira e única fórmula que religa GLP-1/GIP; injeções $1–2k/mês; "works with your body". | A única versão feita para o relógio da noite e um intestino sem escudo; "works with your body's clock, not against it". ✗ "better than injections". | diferenciação | ≈ |
-| 48 | 26:20 | Tudo o mais depende de willpower; um deslize e 5–10 lb de punição. | Tudo o mais depende de você acordar às 5h para a dieta funcionar; a versão da noite trabalha enquanto você dorme. | invalidação de dietas | ≈ |
-| 49 | 27:00 | Ataca a causa: saciedade, queima, proteção; 15–40 lb nas primeiras semanas. | Ataca a causa nas 3 camadas; "primeiras 8–10 lb em 30 dias" + tipicidade. | promessa numérica | ≈ |
-| 50 | 27:50 | NAD+: pele acompanha; "look younger". | Sono: "você dorme melhor na noite 1, e isso é o primeiro sinal de que o ácido parou de subir" (semente dos 6 meses). | benefício extra | ✱ |
+| 41 | 21:57 | ÂNC: "Posso comprar os três no mercado?" | Igual: "So can I just go buy the three at the store and make it tonight?" | pergunta que mataria a venda | = |
+| 42 | 22:20 | Não: "purity problem" (prateleira diluída) + "mixing ratio" (ao miligrama). | Igual, os dois nomes mantidos: "purity problem" (o da prateleira é diluído) + "mixing ratio" (ao miligrama) + o nosso detalhe no segundo: a pitada precisa ser **tamponada** para não espumar no estômago (a colherada da internet) e medida ao miligrama. | dois obstáculos | ≈ |
+| 43 | 23:00 | VAL: "How is a regular person supposed to do this?" | Igual: "How is a regular person supposed to do this?" | protagonista pede | = |
+| 44 | 23:20 | BioActive Naturals, 25 anos, FDA registered; em 2 semanas, fórmula. | Igual na função: a Midi levou a receita a um fabricante real ([nome], [anos], instalação FDA registered **só se verdadeiro**); em 2 semanas, a fórmula. | viabilidade | ≈ |
+| 45 | 24:13 | Gotas: 10x mais rápido, 6x mais composto; "no pills, no mixing, no weird taste". | Igual na forma (gotas/shot) e na tripla negação: "no pills, no mixing, no weird taste" + "no fizz"; números de absorção só com fonte própria; em frase curta (a da AlkaMelt é a mais longa do roteiro). "Ten seconds, right before bed." | forma | ≈ |
+| 46 | 25:00 | "We call it AlkaMelt." / Oprah: "that exact formula". | Igual: "We call it [PRODUTO]." / VAL: "That exact formula. Every night." | nome + uso | ≈ |
+| 47 | 25:30 | Primeira e única fórmula que religa GLP-1/GIP; injeções $1–2k/mês e rebote; "works with your body, not against it". | Igual: a primeira e única fórmula que religa GLP-1/GIP **na hora em que o Estrogen Blackout apaga as luzes**; injeções $1–2k/mês e rebote; "works with your body's clock, not against it". Sem "better than injections". | diferenciação | ≈ |
+| 48 | 26:20 | Tudo o mais depende de willpower; um deslize e 5–10 lb de punição. | Igual: tudo o mais depende de willpower; um deslize e 5–10 lb de punição "for daring to be human" + "and every one of them asks you to win the night on your own: the 10 PM fridge". | invalidação de dietas | ≈ |
+| 49 | 27:00 | Ataca a causa: saciedade, queima, proteção; 15–40 lb nas primeiras semanas. | Igual: ataca a causa nas três luzes (saciedade, queima, proteção); número com tipicidade: ["as primeiras 8–10 lb em 30 dias" ou faixa a definir]. | promessa numérica | ≈ |
+| 50 | 27:50 | NAD+: a pele acompanha a perda; "you actually look younger". | Igual na função (4º ingrediente de pele/firmeza, a decidir: NAD+ como na AM ou colágeno tipo 1): a pele acompanha a perda e **a barriga não fica flácida** (fecha a terceira palavra do Menopause Acid Belly); "and night is when skin repairs" [ângulo]; "you actually look younger". | benefício extra | ≈ |
 
 ## CLOSE (28:34–51:03) — 44%
 
