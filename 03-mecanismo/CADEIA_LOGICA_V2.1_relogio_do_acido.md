@@ -13,7 +13,7 @@ Legenda: cada ponto é uma crença que ela precisa aceitar antes do próximo. *[
 1. Você viu o baking soda shot. Tomou de manhã, em jejum, como mandaram. Ou não deu nada, ou inchou. *[reconhecimento]* (EN: "If you tried the baking soda shot and got nothing, or got bloated, keep watching.")
 2. Não é porque bicarbonato não funciona. É porque **a hora estava errada**, e a receita foi feita para um intestino de 25 anos. *[inversão]* (EN: "It wasn't the wrong recipe. It was the wrong hour.")
 3. Depois dos 45, o ácido tem um relógio. E ele bate à noite. O shot da manhã chegou 12 horas antes do problema. *[tese em uma frase]*
-4. Logo não foi disciplina. Foi Menopause Acid Belly: o escudo que segurava seu intestino caiu aos 45 e ninguém te deu a versão 45+. *[absolvição]*
+4. Logo não foi disciplina. Foi Menopause Acid Belly: o escudo que segurava seu intestino caiu aos 40 e ninguém te deu a versão 40+. *[absolvição]*
 5. Você não tem gordura demais por fora. Tem ácido demais por dentro, e na hora errada. *[reenquadre do maglove]* (EN: "You don't have too much fat on your body. You have too much acid inside it, at the wrong hour.")
 6. A versão certa: um copo de água, uma pitada, à noite, 10 segundos, menos de $1. Revelo passo a passo. *[teaser do MUS]*
 7. Esqueça a gelatina, o pink salt, o shot com limão: todos de manhã, todos para um intestino com escudo. *[invalidação nominal]*
@@ -21,7 +21,7 @@ Legenda: cada ponto é uma crença que ela precisa aceitar antes do próximo. *[
 
 ## HISTÓRIA (3:30–9:30) — Valerie (base: Oat Trick validado)
 
-9. Até os 45 comia o que queria. Depois a cintura cresceu com o peso igual. "Não é a mesma gordura." *[cena de reconhecimento]*
+9. Até os 40 comia o que queria. Depois a cintura cresceu com o peso igual. "Não é a mesma gordura." *[cena de reconhecimento]*
 10. Tentou tudo: 1.200 calorias, caminhada, keto, o shot viral da manhã (inchou), [GLP-1 conforme briefing]. Cada tentativa, a barriga ficou. *[litania]*
 11. A noite virou o inimigo: suor, acordar às 3h, geladeira, "food noise" que não existia aos 35. *[a pista que ela não leu]*
 12. A pergunta da expert que mudou tudo: "A que horas você tomava o shot?" "De manhã." "Então você nunca tomou." *[virada]* (EN: "What time did you take it?" "In the morning." "Then you never really took it.")
@@ -45,7 +45,7 @@ Legenda: cada ponto é uma crença que ela precisa aceitar antes do próximo. *[
 
 25. O bicarbonato da avó (caixa na despensa, azia) neutraliza o ácido. Mas só faz diferença se chegar **antes do pico**, na janela em que as células L mais precisam. *[familiar + hora certa]*
 26. E só se for **a dose certa**: uma pitada tamponada, não a colherada que espuma no estômago e incha (a versão viral). *[dose = segurança + correção]* CUIDADO sódio
-27. Demonstração 1: relógio de 24 h com a curva do ácido; seta do shot viral às 7h, seta da versão 45+ às 21h. *[prova visual]*
+27. Demonstração 1: relógio de 24 h com a curva do ácido; seta do shot viral às 7h, seta da versão 40+ às 21h. *[prova visual]*
 28. Demonstração 2: dois copos; colher + limão espumando ("isso aconteceu no seu estômago") vs pitada tamponada, água limpa, fita de pH mudando devagar. *[prova visual]*
 29. Com o solo neutro durante a noite, as células L acordam na janela em que estavam sufocadas. De manhã o sinal "já chega" está de volta: café da manhã sem food noise, tarde sem o doce das 15h. *[solução lógica]* INFERÊNCIA
 30. Camada 2, proteger: o ácido do estresse e a enzima que destrói o sinal (DPP-4) também sobem à noite; gengibre e magnésio protegem e devolvem o sono (magnésio aqui é ingrediente de apoio, não a diferença). *[segundo ingrediente]* FRACA-MODERADA

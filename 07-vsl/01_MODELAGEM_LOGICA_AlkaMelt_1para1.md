@@ -1,6 +1,6 @@
 # Modelagem lógica 1:1 — os 67 pontos da AlkaMelt com os nossos controles em cima
 
-**Regra:** a coluna [AM] é a cadeia lógica da AlkaMelt (`08-comunicacao-e-logica/AlkaMelt_comunicacao_e_pontos_logicos.md`, Parte B), na ordem e minutagem originais. A coluna [45+] é o nosso ponto, mesmo lugar, mesmo conectivo. Nada é pulado nem retirado. A cadeia do mecanismo (`03-mecanismo/CADEIA_LOGICA_V2.1_relogio_do_acido.md`) alimenta as colunas; este arquivo é a estrutura da VSL inteira.
+**Regra:** a coluna [AM] é a cadeia lógica da AlkaMelt (`08-comunicacao-e-logica/AlkaMelt_comunicacao_e_pontos_logicos.md`, Parte B), na ordem e minutagem originais. A coluna [40+] é o nosso ponto, mesmo lugar, mesmo conectivo. Nada é pulado nem retirado. A cadeia do mecanismo (`03-mecanismo/CADEIA_LOGICA_V2.1_relogio_do_acido.md`) alimenta as colunas; este arquivo é a estrutura da VSL inteira.
 
 **Controles nossos (o que muda em cima do controle):** causa = Menopause Acid Belly (escudo de estrogênio → solo ácido → células L); diferença = **hora (noite)**, não receita; gordura como segundo escudo; "comer certo piorou"; protagonista Valerie (história Oat Trick); expert Dra. Kathleen Jordan / Midi Health como "quem vem a público expor os golpes"; personalização = escala de ácido; sem FDA/governo, sem "1 lb/dia"; tipicidade em todo número; dispositivos de pressão da AlkaMelt mantidos (decisão 24/11).
 
@@ -12,7 +12,7 @@ Papéis: EXP = **Dra. Kathleen Jordan** (Midi Health; decisão do usuário 24/11
 
 ## LEAD (0:00–3:23) — proporção 7%
 
-| # | AM | [AM] AlkaMelt | [45+] Nosso ponto | Conectivo | St |
+| # | AM | [AM] AlkaMelt | [40+] Nosso ponto | Conectivo | St |
 |---|---|---|---|---|---|
 | 1 | 0:00 | Você já viu o "baking soda shot" nas redes. | Você já viu o baking soda shot. Tomou de manhã, em jejum, como mandaram. | reconhecimento | ≈ |
 | 2 | 0:10 | A maioria das versões está errada e **engorda**. | Igual: a maioria das versões que circulam está errada e **engorda**. | inversão | = |
@@ -28,25 +28,27 @@ Papéis: EXP = **Dra. Kathleen Jordan** (Midi Health; decisão do usuário 24/11
 
 ## HISTÓRIA (3:25–9:45) — 18%
 
-| # | AM | [AM] | [45+] | Conectivo | St |
+| # | AM | [AM] | [40+] | Conectivo | St |
 |---|---|---|---|---|---|
-| 12 | 3:25 | Oprah perdeu 50+ lb com Ozempic, parou, "it all came back". | VAL: até os 45 comia o que queria; depois a cintura cresceu com o peso igual (base Oat Trick; GLP-1 só se o briefing confirmar). | contexto reconhecível | ≈ |
-| 13 | 3:50 | Agora está "finally free" por algo que bebe antes do café. | Agora está livre por algo que bebe **antes de dormir**. | promessa de liberdade | ≈ |
-| 14 | 4:10 | Obesidade é doença crônica, não falha pessoal. | "Não é a mesma gordura": o que apareceu depois dos 45 não responde ao que funcionava aos 35. | reenquadre | ✱ |
-| 15 | 4:40 | Liberdade = não acordar pensando no peso; food noise sumiu. | Liberdade = dormir a noite inteira, acordar sem fome, café da manhã em paz. | definição sensorial | ≈ |
-| 16 | 5:10 | A ferida: o pai na balança, "you always gonna be big". | A ferida da VAL conforme a história validada (cena de origem da vergonha: espelho/foto/roupa). | origem da vergonha | ≈ |
-| 17 | 6:00 | Parou o remédio para provar e ganhou 3, 5, 10, 20 lb; "the noise was back". | Litania: 1.200 kcal, caminhada, keto, o shot viral da manhã (inchou); a barriga ficou; a noite virou inimiga (suor, 3h, geladeira). | fracasso honesto | ≈ |
-| 18 | 7:00 | "I can't be on injections for the rest of my life. There has to be another way." | "I can't live on 1,200 calories and no sleep for the rest of my life. There has to be another way." | beco sem saída | ≈ |
-| 19 | 7:40 | EXP: os remédios imitam hormônios que seu corpo já fabrica. | EXP: seu corpo ainda fabrica o sinal "já chega"; ele só está sendo sufocado **numa hora específica**. | virada | ✱ |
-| 20 | 8:30 | "How do I get my body to do it on its own?" → o shot. | "A que horas você tomava o shot?" "De manhã." "Então você nunca tomou." | pergunta-ponte | ✱ |
-| 21 | 9:20 | "Baking soda, really? How is that beating Big Pharma?" | ÂNC: "Espera. A mesma pitada de bicarbonato, só que à noite, muda tudo? Como?" | pergunta paradoxal | ≈ |
+| 12 | 3:25 | Oprah perdeu 50+ lb com Ozempic, parou, "it all came back". | Mesma função, com a VAL: 40 anos de dietas em público (Jenny Craig 2007–09, −40 lb, capa de biquíni aos 48, reganhou tudo); depois dos 40 o corpo mudou; foi para o Ozempic, perdeu, parou, "it all came back". **DRAMATIZAÇÃO a decidir:** a Valerie disse publicamente que não usa e "nunca vai usar" GLP-1 (People, mar/2026, no briefing); ou aceitamos o conflito, ou a parada do Ozempic vira "quase entrei" / história de uma amiga. | contexto reconhecível | ≈ |
+| 13 | 3:50 | Agora está "finally free" por algo que bebe antes do café. | Agora está "finally free" por algo que bebe **antes de dormir**. | promessa de liberdade | ≈ |
+| 14 | 4:10 | Obesidade é doença crônica, não falha pessoal. | Juntos: obesidade é doença crônica, não falha pessoal; e **depois dos 40 não é a mesma gordura**: o que funcionava aos 35 não responde mais. | reenquadre | ≈ |
+| 15 | 4:40 | Liberdade = não acordar pensando no peso; food noise sumiu. | Igual: liberdade é não acordar pensando no peso; o food noise sumiu. | definição sensorial | = |
+| 16 | 5:10 | A ferida: o pai na balança, "you always gonna be big". | Precisa de uma cena de origem tão forte quanto a da Oprah. Opções (ver nota abaixo da tabela): (a) a capa de biquíni aos 48 e o país inteiro assistindo ao reganho; (b) a balança como a voz que dizia "você sempre vai ser a gorda" (ela parou de se pesar: documentado); (c) a frase de alguém próximo numa foto de família [DRAMATIZAÇÃO]; (d) esconder-se das fotos e evitar intimidade antes do divórcio (base: peça Oat Trick). **A escolher.** | origem da vergonha | ≈ |
+| 17 | 6:00 | Parou o remédio para provar e ganhou 3, 5, 10, 20 lb; "the noise was back". | Combinado, nesta ordem: primeiro as tentativas tradicionais (1.200 kcal, caminhada, keto, Weight Watchers, o shot viral de manhã que só inchou); nada deu certo; **então foi para as injeções**; perdeu; parou para provar que não reganharia; ganhou 3, 5, 10, 20 lb; "the noise was back". | fracasso honesto | ≈ |
+| 18 | 7:00 | "I can't be on injections for the rest of my life. There has to be another way." | Igual (o bloco já está nas injeções): "I can't be on injections for the rest of my life. There has to be another way." | beco sem saída | = |
+| 19 | 7:40 | EXP: os remédios imitam hormônios que seu corpo já fabrica. | Igual: EXP explica que os remédios imitam hormônios que seu corpo já fabrica. | virada | = |
+| 20 | 8:30 | "How do I get my body to do it on its own?" → o shot. | Igual: "How do I get my body to do it on its own?" → o shot. | pergunta-ponte | = |
+| 21 | 9:20 | "Baking soda, really? How is that beating Big Pharma?" | Combinado: ÂNC: "Baking soda, really? How is that beating out medications Big Pharma charges thousands for?" EXP: "Not baking soda. **A shot of it. A pinch, at the right hour.** That's the part nobody told you." | pergunta paradoxal + introdução do shot na hora certa | ≈ |
+
+**Nota ao ponto 16 (a escolher):** (a) é documentada (Jenny Craig, capa aos 48, reganho público) e tem o peso de "todo mundo viu"; (b) é documentada (ela parou de se pesar) e espelha a balança do pai da Oprah; (c) exige dramatização e autorização; (d) vem da peça Oat Trick validada ("escondendo-me das fotos e até evitando intimidade"). Recomendação: (b) como cena, com (a) como contexto em uma frase.
 
 ## MUP (9:45–12:39) — parte dos 18% MUP+MUS
 
-| # | AM | [AM] | [45+] | Conectivo | St |
+| # | AM | [AM] | [40+] | Conectivo | St |
 |---|---|---|---|---|---|
 | 22 | 9:45 | Ozempic/Mounjaro agem em GLP-1/GIP, o sinal "we're good, stop eating, start burning". | Igual: o sinal "já chega, pode queimar" (refrão fixo, mesmas palavras em 4 pontos). | o que a injeção faz | = |
-| 23 | 10:15 | Estresse, ultraprocessados e "queda hormonal depois dos 40" desligam a produção. | **Uma origem:** por 30 anos o estrogênio foi o escudo do intestino; aos 45 cai; o solo azeda; as células L dormem. | causa | ✱ |
+| 23 | 10:15 | Estresse, ultraprocessados e "queda hormonal depois dos 40" desligam a produção. | **Uma origem:** por 30 anos o estrogênio foi o escudo do intestino; aos 40 cai; o solo azeda; as células L dormem. | causa | ✱ |
 | 24 | 10:45 | Sem o sinal, o corpo entra em pânico e guarda tudo. | Sem o sinal, o corpo levanta o **segundo escudo**: gordura ao redor do intestino, onde o ácido está. Mudou de endereço. | consequência | ✱ |
 | 25 | 11:10 | Por isso jejum, keto e academia não funcionam; não é disciplina. | Por isso 1.200 kcal, caminhada e keto não funcionam: "until the acid comes down, the belly won't let go". | absolvição com lógica | ≈ |
 | 26 | 11:30 | Sintomas: fome em hora estranha, doce do nada, cansaço, névoa. | Sintomas: doce das 15h, geladeira às 22h, acordar às 3h, calor na barriga, inchaço de manhã. | reconhecimento | ≈ |
@@ -55,7 +57,7 @@ Papéis: EXP = **Dra. Kathleen Jordan** (Midi Health; decisão do usuário 24/11
 
 ## MUS (12:39–21:57)
 
-| # | AM | [AM] | [45+] | Conectivo | St |
+| # | AM | [AM] | [40+] | Conectivo | St |
 |---|---|---|---|---|---|
 | 29 | 12:39 | Bicarbonato é antigo (avó, azia) e neutraliza o ácido que desliga a produção. | Igual (avó, caixa na despensa) + **"mas a avó tomava à noite, para a azia da noite"**. | familiar + mecanismo | ≈ |
 | 30 | 13:30 | Células L nascem no intestino; sementes em solo ácido; dormindo, não mortas. | Igual (jardim). | metáfora | = |
@@ -72,7 +74,7 @@ Papéis: EXP = **Dra. Kathleen Jordan** (Midi Health; decisão do usuário 24/11
 
 ## PRODUTO (21:57–28:33) — 13%
 
-| # | AM | [AM] | [45+] | Conectivo | St |
+| # | AM | [AM] | [40+] | Conectivo | St |
 |---|---|---|---|---|---|
 | 41 | 21:57 | "Posso comprar os três no mercado?" | Igual. | pergunta que mataria a venda | = |
 | 42 | 22:20 | Não: pureza diluída + proporção ao miligrama. | Não: a pitada precisa ser **tamponada e medida** (a colherada espuma e incha) + os dois de apoio em forma pura. | dois obstáculos | ≈ |
@@ -87,7 +89,7 @@ Papéis: EXP = **Dra. Kathleen Jordan** (Midi Health; decisão do usuário 24/11
 
 ## CLOSE (28:34–51:03) — 44%
 
-| # | AM | [AM] | [45+] | Conectivo | St |
+| # | AM | [AM] | [40+] | Conectivo | St |
 |---|---|---|---|---|---|
 | 51 | 28:34 | Mãe 28 lb; mulher de 50, 34 lb, biquíni. | Dois depoimentos reais ou dramatização marcada; um deles 60+. | prova pós-produto | ≈ |
 | 52 | 30:00 | 5 gotas em jejum, 10 segundos; sem dieta, sem exercício. | À noite, longe do jantar, 10 segundos; "sem pular jantar, sem 1.200 kcal". | modo de uso | ≈ |
@@ -99,7 +101,7 @@ Papéis: EXP = **Dra. Kathleen Jordan** (Midi Health; decisão do usuário 24/11
 | 58 | 37:30 | Não está em farmácia nem Amazon; $185 → $98 → $49 em 6 por 3. | Só no site; escada de preço (pendente); 6 por 3. | ancoragem | ≈ |
 | 59 | 39:00 | Quase ninguém pega o de 2; parar "kills your momentum". | "Seis meses é o tempo que o intestino leva para reaprender o relógio" como razão do kit de 6. | AOV | ≈ |
 | 60 | 39:40 | Perfil 30 s → botão verde/vermelho. | Escala de ácido 30 s → botão. | CTA | ≈ |
-| 61 | 40:20 | 3 presentes com professor nomeado e preço dito por terceiro. | Bônus reais (ex.: "a noite 45+": jantar, sono, calor); preço dito pela ÂNC. | value stack | ≈ |
+| 61 | 40:20 | 3 presentes com professor nomeado e preço dito por terceiro. | Bônus reais (ex.: "a noite 40+": jantar, sono, calor); preço dito pela ÂNC. | value stack | ≈ |
 | 62 | 43:00 | Recap da oferta. | Igual. | resumo | = |
 | 63 | 43:40 | "I've been burned so many times" → 60 dias; "test it". | Pergunta de espectadora → garantia longa nomeada (60 × 180 pendente); "I'm asking you to test it, tonight." | reversão de risco | ≈ |
 | 64 | 45:00 | Pós-clique + recap do mecanismo + depoimentos finais. | Igual: recap em 3 frases (escudo, relógio, pitada à noite) + depoimentos. | facilitar + prova | ≈ |
@@ -110,10 +112,12 @@ Papéis: EXP = **Dra. Kathleen Jordan** (Midi Health; decisão do usuário 24/11
 ---
 
 ## Contagem
-- **=** mantidos: 8 · **≈** adaptados: 47 · **✱** nossos controles no lugar: 10 · **✗** retirados: 0.
+- **=** mantidos: 12 · **≈** adaptados: 48 · **✱** nossos controles no lugar: 7 · **✗** retirados: 0.
 - Decisão do usuário (24/11): os 4 dispositivos de pressão da AlkaMelt (supressão Big Pharma, aposta do diploma, 300 kits/48h, botão verde com contagem) **ficam**, adaptados ao nosso elenco e com os números em [colchetes] para preencher com o lote real.
+- Regra do usuário (24/11): sempre "depois dos 40", nunca 45.
+- História revisada pelo usuário (24/11): 12 segue a função da Oprah com os fatos da Valerie (parada do Ozempic marcada como dramatização a decidir); 14 junta os dois; 15, 18, 19, 20 iguais; 17 combina tentativas tradicionais → injeções; 21 introduz "um shot dele, na hora certa".
 - Lead revisada pelo usuário (24/11): pontos 2, 4, 9 iguais à AlkaMelt; 5 com o reason why do ácido baixo pela manhã; 6 com a hora; 7 vira a revelação da Midi Health; 10 com "rasgo meu diploma e fecho a Midi"; 11 combina supressão e pressão.
-- Os pontos ✱ são a nossa diferença: 7, 14, 19, 20, 23, 24, 31, 32, 50, 54.
+- Os pontos ✱ são a nossa diferença: 7, 23, 24, 31, 32, 50, 54.
 - Proporção de tempo mantida: lead 7% · história 18% · MUP+MUS 18% · produto 13% · close 44%.
 
 ## Pendências que travam a escrita
