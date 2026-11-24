@@ -125,3 +125,17 @@ P → 60 dias para provar a si mesma.
 - "Escudo de estrogênio" é metáfora de ângulo; não prometer efeito hormonal nem "trata menopausa".
 - Sem Oprah, Jastreboff, Jenna & Sheinelle ou qualquer pessoa real; apresentadora com credencial verdadeira.
 - Escassez verdadeira ou nenhuma; sem assinatura escondida.
+
+---
+
+## 9. ADENDO V2.1 (24/11) — gordura como segundo escudo + relógio do ácido
+
+Fonte: maglove Rodale "High-Acid Foods Can Make You VERY Fat" (`REF_maglove_60_Seconds_to_Slim_acido.md`). Muda três coisas na cadeia:
+
+1. **Camada 3 ganha o "porquê" que faltava.** Com o escudo de estrogênio caído, o corpo recruta o único escudo que lhe resta: **gordura**, e a constrói **ao redor do intestino, onde o ácido está**. Isso é "não é a mesma gordura" e "mudou de endereço" em uma única imagem. E dá a frase-tese do MUP: *until the acid comes down, the belly won't let go*. (FRACA como fisiologia; usar como metáfora de proteção.)
+2. **"Comer certo piorou"** entra ao lado de "comer menos piorou": limão, vinagre, café preto, salada com molho, lemon water e o próprio shot viral com limão são rotinas ácidas. A invalidação nominal passa a ter mecanismo.
+3. **O ácido tem relógio.** A versão viral (manhã, jejum) neutraliza um ácido que ainda não chegou; o pico é à noite, com estômago vazio (a confirmar com fonte). A versão 45+ muda a **hora**, não a receita. Horário é sofisticação da causa, não o gimmick name. Cadeia A→P atualizada: entre H e I entra "H2 → O ácido sobe à noite, quando o escudo já caiu e o estômago está vazio; por isso o shot da manhã falhou com você."
+
+Substituições na cadeia lógica (§6): C passa a "o escudo cai: o intestino fica ácido, **e o corpo levanta um segundo escudo de gordura ao redor dele**"; F passa a "estresse, estômago vazio **e as rotinas 'saudáveis' ácidas** azedam ainda mais"; novo H2 (relógio). Resto mantido.
+
+Decisões: chia fora; baking soda herói; diferença = horário; gimmick name pendente.
