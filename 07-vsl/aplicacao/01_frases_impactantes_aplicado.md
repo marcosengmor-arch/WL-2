@@ -84,7 +84,7 @@
 
 ---
 
-## Secundários (SodaTide/Gumitide), só onde somam — 14 frases
+## Secundários (SodaTide/Gumitide), só onde somam — 16 frases
 
 Entram apenas onde a AlkaMelt não tem o dispositivo: menopausa nomeada na virada, concessão com custo, "why even try again", a objeção cultural do ingrediente, o ceticismo da testemunha, a cuidadora que se põe por último.
 
