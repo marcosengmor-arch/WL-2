@@ -1,8 +1,8 @@
-# ROTEIRO — Bloco 2: HISTÓRIA (background da Valerie) — versão PT-BR v2 (passada de voz)
+# ROTEIRO — Bloco 2: HISTÓRIA (background da Valerie) — versão PT-BR v3 (inteligência aplicada)
 
 **Modelado linha a linha** nos blocos 3, 4 e 5 da AlkaMelt (3:25 → 9:45), pontos 12 a 21 da tabela (`07-vsl/01_MODELAGEM_LOGICA_AlkaMelt_1para1.md`). Os números entre colchetes [12]…[21] marcam o ponto da tabela. Elenco: **DREW** (Drew Barrymore, anfitriã; lugar da Jenna na AlkaMelt), **NICOLE** (coapresentadora de blazer branco do vídeo base; nome provisório; lugar da Sheinelle), **VALERIE** (Valerie Bertinelli), **DRA. JORDAN** (Dra. Kathleen Jordan, Midi Health). Marcações: [DRAM] = dramatização decidida; [INF] = inferência de ângulo; [CUT] = cutaway em fundo colorido (vídeo base); [RISO] = reação da mesa. Alvo de tempo: ~6:20 (18% da peça).
 
-**v2 (25/11):** passada de voz sobre a v1, sem mexer na ordem, nas funções nem nas falas-chave. Drew no registro dela (casual, pergunta leiga, confessa); Nicole com as reações e a gíria do vídeo base; Valerie sem estatística, falas mais curtas, "Tá, então…"; dois momentos de riso antes da ferida e antes das injeções.
+**v3 (25/11):** padrões do consolidado aplicados (ferida com lugar + objeto + sentença; objeto antes do número; concessão à injeção; "pela primeira vez"; plantio da noite). Mantida a v2 (25/11): passada de voz sobre a v1, sem mexer na ordem, nas funções nem nas falas-chave. Drew no registro dela (casual, pergunta leiga, confessa); Nicole com as reações e a gíria do vídeo base; Valerie sem estatística, falas mais curtas, "Tá, então…"; dois momentos de riso antes da ferida e antes das injeções.
 
 ---
 
@@ -35,7 +35,7 @@ Mas ela diz que essa não é o fim da história. Hoje ela está compartilhando u
 
 **NICOLE:** Amiga.
 
-**DREW (narração):** Poucas semanas depois de completar 66 anos, a Valerie diz que finalmente está livre. Não por força de vontade. Não por injeção. Mas por algo que ela bebe toda noite, antes de dormir. Uma receita simples de bicarbonato que, segundo ela, fez o que os remédios não fizeram: manteve o peso longe. [13]
+**DREW (narração):** Poucas semanas depois de completar 66 anos, a Valerie diz que, pela primeira vez na vida, está livre. Não por força de vontade. Não por injeção. Mas por algo que ela bebe toda noite, antes de dormir. Uma receita simples de bicarbonato que, segundo ela, fez o que os remédios não fizeram: manteve o peso longe. [13]
 Esta é a primeira entrevista dela desde que largou os remédios. [DRAM] E ela não vai guardar nada.
 
 ## 4.1 — A liberdade [15]
@@ -62,19 +62,19 @@ E a liberdade nova é entender que todos aqueles anos de capa de revista, de pia
 
 **DREW:** Eu acho que todas nós temos esses momentos de vergonha. Não precisa ter obesidade pra isso. Alguém diz uma coisa, e fica. E anos depois, quando você está falando mal de si mesma, você usa aquelas palavras. Você teve um momento assim aos 15 anos.
 
-**VALERIE:** Tive. E eu só entendi muitos anos depois que aquele foi o momento. Eu tinha 15 anos. Estava começando na televisão. E me fizeram entender que eu precisava cuidar do peso. Na frente do país inteiro. Eu era uma menina.
+**VALERIE:** Tive. E eu só entendi muitos anos depois que aquele foi o momento. Eu tinha 15 anos. Era o set de One Day at a Time. Alguém com uma prancheta me olhou do pescoço pra baixo. [DRAM: o objeto] Não precisou dizer nada. Eu entendi: cuida disso. Na frente do país inteiro. Eu era uma menina.
 
 **NICOLE:** Quinze anos.
 
 ## 4.4 — A voz [16]
 
-**VALERIE [CUT]:** Na hora eu só fiquei com vergonha. Eu não percebi até muito depois, porque ficou. E toda vez que eu começava outra dieta, eu ouvia de novo. Cinquenta anos depois, cada dieta ainda tinha aquela voz dentro.
+**VALERIE [CUT]:** Na hora eu só fiquei com vergonha. Eu não percebi até muito depois, porque ficou. E virou a voz. Toda vez que eu começava outra dieta, eu ouvia de novo: cuida disso. Cuida disso. Cuida disso. Cinquenta anos depois, cada dieta ainda tinha aquela voz dentro.
 
 ## 5.1 — As tentativas, a noite e as injeções [17]
 
 **NICOLE:** E você tentou tudo. Em público. Que é pior.
 
-**VALERIE:** Tudo. Jenny Craig: perdi 47 libras, capa de biquíni aos 48. O país inteiro viu. [RISO] E o país inteiro viu voltar, aos 52.
+**VALERIE:** Tudo. Jenny Craig. Eu ainda tenho o biquíni da capa, no fundo do armário. [objeto] Quarenta e sete libras, aos 48. O país inteiro viu. [RISO] E o país inteiro viu voltar, aos 52. E um pouco mais, de brinde.
 
 **NICOLE:** Ai, amiga.
 
@@ -84,7 +84,7 @@ E aos 60, 61, quando eu perdi os meus pais, e o Eddie, voltou tudo de novo. E de
 
 **NICOLE:** E aí vieram as injeções.
 
-**VALERIE:** E aí vieram as injeções. [DRAM] Funcionou. Eu perdi. Eu me senti bem. E eu fiquei fora dos remédios o ano passado inteiro, e ganhei 20 libras. Porque eu quis testar. Todo mundo dizia: "você vai ganhar tudo de volta, vai ganhar tudo de volta". Eu ia mostrar que não. Eu ia caminhar. Eu ia conseguir.
+**VALERIE:** E aí vieram as injeções. [DRAM] E eu vou ser justa: funcionou. Eu perdi. Eu me senti bem. Ninguém pode negar isso. E eu fiquei fora dos remédios o ano passado inteiro, e ganhei 20 libras. Porque eu quis testar. Todo mundo dizia: "você vai ganhar tudo de volta, vai ganhar tudo de volta". Eu ia mostrar que não. Eu ia caminhar. Eu ia conseguir.
 
 **DREW:** Então você estava tomando, e parou.
 
@@ -116,4 +116,5 @@ E eu pensei: tá… então como eu faço o meu corpo fazer isso sozinho? E foi a
 - Ordem e função idênticas à AlkaMelt: abertura narrada → jornada em público → "doença, não falha" → "finalmente livre" → entrevista (liberdade, barulho) → ferida de origem → tentativas → injeções e reganho em escada (3, 5, 10) → "o barulho voltou" → "não posso ficar nisso pra sempre" → virada da expert → pergunta-ponte → pergunta paradoxal.
 - Trocas: Oprah → Valerie (fatos documentados: 46–47, Jenny Craig, 48, 52, 60–61, luto, 15 anos); manhã → noite; pai na balança → a voz aos 15 (escrita como sensação, sem citação inventada); "Thanksgiving" → "ceia de Natal".
 - Passada de voz (v2): Drew abre casual, pergunta "de manhã, na cozinha?", confessa "formato de maçã" e "uma semana antes, eu faço isso"; Nicole reage ("Isso mesmo", "Amiga", "Eu sei que é", "Quinze anos", "Ai, amiga", "que é pior") e fecha o bloco com "Me convença"; Valerie perde a estatística ("ninguém acorda um dia…") e ganha frases curtas; dois risos (maçã; "o país inteiro viu"). Nada foi retirado: todas as falas-chave da v1 continuam.
+- v3: a prancheta (16) e o biquíni no armário (17) são objetos de dramatização; "cuida disso" é a sentença escrita como sensação, não como citação de pessoa real. A noite plantada aqui (camisola, 3h, geladeira) é paga nos pontos 40, 56 e 66.
 - Pendente do usuário: confirmar a cena dos 15 anos (16); o uso de "Eddie" pelo nome; "primeira entrevista desde que largou os remédios" é dramatização.
