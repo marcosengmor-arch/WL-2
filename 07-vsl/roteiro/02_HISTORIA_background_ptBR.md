@@ -1,6 +1,6 @@
-# ROTEIRO — Bloco 2: HISTÓRIA (background da Valerie) — v5 (fiel à AlkaMelt + comunicação impecável)
+# ROTEIRO — Bloco 2: HISTÓRIA (background da Valerie) — v6 (cronologia dos fatos em progressão)
 
-**O que esta versão aplica em cima da v4 (estrutura e falas-modelo intactas):** transições do `aplicacao/07_transicoes_aplicado.md` (11→12 … 21→22, a da AlkaMelt como padrão); **regra ABT** em todo parágrafo da Valerie (E = contexto que ela vive → MAS = o conflito → PORTANTO = o que isso significa); momentum e bucket brigades do CORE §5 ("E tem mais.", "Aqui está o problema.", "E sabe o que é mais louco?"); frase curta como golpe depois da longa; tripletas; **uma palavra de poder a cada 80–100 palavras** (desliga, esmaga, trava, derrete, desperta, acende, voltou com tudo), só em substantivo/verbo/adjetivo; tempo progressivo só na promessa da Drew (12/13), nunca na narrativa; dog whistle da avatar ("barriga alta", "cadê os meus pés", "o barulho", "voltou tudo"); Drew no registro real dela (quente, rápida, leiga, confessa no meio, feminina sem forçar); Nicole com a gíria dela, uma linha por vez. Elenco e marcações como na v4: [AM x.y] fala-modelo; [DRAM]; [INF]; [CUT]; [ABT] onde a regra está aplicada; [PP] palavra de poder.
+**O que esta versão aplica em cima da v4 (estrutura e falas-modelo intactas):** transições do `aplicacao/07_transicoes_aplicado.md` (11→12 … 21→22, a da AlkaMelt como padrão); **regra ABT** em todo parágrafo da Valerie (E = contexto que ela vive → MAS = o conflito → PORTANTO = o que isso significa); momentum e bucket brigades do CORE §5 ("E tem mais.", "Aqui está o problema.", "E sabe o que é mais louco?"); frase curta como golpe depois da longa; tripletas; **uma palavra de poder a cada 80–100 palavras** (desliga, esmaga, trava, derrete, desperta, acende, voltou com tudo), só em substantivo/verbo/adjetivo; tempo progressivo só na promessa da Drew (12/13), nunca na narrativa; dog whistle da avatar ("barriga alta", "cadê os meus pés", "o barulho", "voltou tudo"); Drew no registro real dela (quente, rápida, leiga, confessa no meio, feminina sem forçar); Nicole com a gíria dela, uma linha por vez. **v6 (25/11):** 4.3 → 5.1 reescritos em progressão cronológica documentada (People, Oprah.com, TV Insider): 15 anos no set → anos 80, emagreceu de forma extrema (ela mesma revelou distúrbio alimentar e substâncias para controlar o apetite; escrever com pudor, sem detalhe) → anos 2000, maternidade, 172 lb → 2007 Jenny Craig, capa da People → reganhos repetidos (52; 60–61 no luto) → noite → injeções → parou → voltou tudo [DRAM]. Elenco e marcações como na v4: [AM x.y] fala-modelo; [DRAM]; [INF]; [CUT]; [ABT] onde a regra está aplicada; [PP] palavra de poder.
 
 ---
 
@@ -53,25 +53,33 @@ Esta é a primeira entrevista dela desde que largou os remédios. [DRAM] E ela n
 
 **DREW:** Eu acho que muitas de nós, todas nós, e não precisa ter obesidade pra isso, temos esses momentos de vergonha. Alguém diz uma coisa, e fica. E anos depois, quando você está falando mal de si mesma no espelho, você usa aquelas palavras. Você teve um momento assim. Aos 15.
 
-**VALERIE:** Tive. E sabe o que é? Eu só percebi muitos anos depois que aquele foi o momento. Eu tinha 15 anos, era o set da série, e alguém da produção me puxou de lado e disse que eu precisava cuidar do peso. [DRAM: a cena; sem citação literal] Na frente de todo mundo.
+**VALERIE:** Tive. E sabe o que é? Eu só percebi muitos anos depois que aquele foi o momento. Eu tinha 15 anos, era o set da série, e alguém da produção me puxou de lado e disse que eu precisava cuidar do peso. [DRAM: a cena; sem citação literal] Na frente de todo mundo. E o meu corpo era normal. Normal pra época, normal pra uma menina de 15 anos.
 
-## 4.4 — A voz [16] [AM 4.4]
+## 4.4 — A voz, e a primeira vez que eu "cuidei disso" [16 → 17, fase 1] [AM 4.4]
 
 **VALERIE:** E eu fiquei tipo: o quê? Eu era uma menina. [ABT] Eu fiquei com vergonha naquele momento. Mas eu não percebi, até muitos anos depois, que ficou. Então toda vez que eu começava outra dieta, eu ia… eu ouvia de novo: cuida disso. Cuida disso. Cuida disso.
 
 **NICOLE:** Quinze anos. Uma menina.
 
+**VALERIE:** E eu cuidei. Nos anos 80 eu emagreci de um jeito que não era saúde. Eu já falei disso em público: eu fiz coisas pra não sentir fome que nenhuma menina deveria fazer. [documentado; sem detalhe] Fiquei magra. Magra demais. E todo mundo achou lindo.
+
+**DREW:** Ai, Valerie.
+
 **VALERIE [CUT]:** Por fora, a capa da revista. Por dentro, a voz.
 
-## 5.1 — As tentativas, a noite e as injeções [17] [AM 5.1] · transição 16→17
+## 5.1 — As fases, a noite e as injeções [17] [AM 5.1] · transição 16→17
 
-**NICOLE:** Então, os remédios. Você foi aberta sobre isso. Mas antes deles, você tentou tudo. E tudo em público.
+**NICOLE:** Então, os remédios. Você foi aberta sobre isso. Mas antes deles, teve muita coisa. E tudo em público.
 
-**VALERIE:** Tudo. Jenny Craig, e eu ainda tenho o biquíni da capa no fundo do armário. Quarenta e sete libras, aos 48. O país inteiro viu. [RISO] E o país inteiro viu voltar, aos 52. Weight Watchers. Mil e duzentas calorias. Caminhada todo dia. Keto. Até aquele shot de bicarbonato da internet, de manhã, em jejum. Só me inchou.
+**VALERIE:** Teve a vida. [ABT] Eu virei mãe, e o corpo mudou. E aí vieram os problemas pessoais, e o peso veio junto. Mas eu fazia tudo que mandavam. Então o ponteiro chegou em 172 libras, depois dos 40, e parou lá.
 
-**NICOLE:** E o segundo? E o terceiro? [transição 16→17, SodaTide]
+**NICOLE:** E aí a Jenny Craig.
 
-**VALERIE:** Cada um levava uma parte, e cada um devolvia com juros. [ABT] Cada vez era mais difícil puxar o peso de volta pra baixo. Era como se o meu corpo lembrasse o caminho de volta. Então, aos 60, 61, quando eu perdi os meus pais, e o Eddie, voltou com tudo. [PP] E a noite virou o pior lugar da casa. Eu acordava com a camisola encharcada. Três da manhã. Cozinha. Geladeira. [INF: o horário]
+**VALERIE:** E aí a Jenny Craig, 2007. Eu ainda tenho o biquíni da capa da People no fundo do armário. Quarenta e sete libras. O país inteiro viu. [RISO] E o país inteiro viu voltar.
+
+**NICOLE:** E depois?
+
+**VALERIE:** Depois, de novo. E de novo. Weight Watchers. Mil e duzentas calorias. Caminhada todo dia. Keto. Até aquele shot de bicarbonato da internet, de manhã, em jejum. Só me inchou. [ABT] Cada um levava uma parte. Mas cada um devolvia com juros. Era como se o meu corpo lembrasse o caminho de volta. Então, aos 60, 61, quando eu perdi os meus pais, e o Eddie, voltou com tudo. [PP] E a noite virou o pior lugar da casa. Eu acordava com a camisola encharcada. Três da manhã. Cozinha. Geladeira. [INF: o horário]
 
 **NICOLE:** E aí o Ozempic. Você perdeu o peso, estava se sentindo bem… e parou. O que aconteceu?
 
@@ -116,4 +124,5 @@ E eu pensei: tá… então como eu faço o meu corpo fazer isso sozinho? E foi a
 - Drew: quente e rápida ("Ai, gente", "Eu. Ontem.", "Uma semana antes!", "Ai, eu também tomava de manhã"), pergunta leiga ("de manhã, na cozinha?"), confessa ("falando mal de si mesma no espelho"), e abre a aula do 22 com a confissão real dela ("eu nem sei o que esses remédios fazem", GT-071). Nenhuma linha funcional da Jenna foi removida.
 - Nicole: "Amiga.", "Quinze anos. Uma menina.", "E o segundo? E o terceiro?" (dobradiça da SodaTide para a litania), "Voltava tudo.", "Me convença." (vídeo base).
 - Transições usadas, na ordem do 07: 11→12 (AM-029/030), 12→13 (AM-039), 13→14 (vídeo base), 14→15 (AM-041), 15→16 (AM-052/054), 16→17 (AM-058 + ST 3.5), 17→18 (AM-063), 18→19 (AM-064), 19→20 (AM-066), 20→21 (AM-067/070 + "break me down"), 21→22 (AM-071 + GT-071).
+- v6: a fase dos anos 80 (distúrbio alimentar e substâncias para controlar o apetite) é documentada por ela mesma (People); no roteiro entra com pudor, em uma frase, sem nomear nada, e é parte do termo de autorização. A ordem agora é cronológica: 15 → anos 80 → maternidade/172 lb depois dos 40 → 2007 Jenny Craig/People → reganhos → 60–61 luto/noite → injeções → rebote.
 - Pendente do usuário: cena dos 15 anos (16); "Eddie" pelo nome; "primeira entrevista desde que largou os remédios" é dramatização.
