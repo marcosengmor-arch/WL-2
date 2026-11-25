@@ -17,8 +17,8 @@ Referências dos 4 validados (prints do usuário): Gumitide = pote âmbar de gom
 **A3 — Inspirado no SodaSlim: pote branco, rótulo quente, três frascos na caixa.**
 `Three identical white opaque dropper bottles with white caps, lined up inside an open kraft gift box with shredded paper filling. Label in warm sunset orange fading to gold, with a large stylized "B" monogram in deep teal above the name; claims in a vertical list with teal checkmarks. Top-down studio shot, soft even lighting, clean white background around the box.` + base comum.
 
-**A4 — Inspirado no SodaTide: seis frascos em close, vídeo caseiro.**
-`Six identical dark amber dropper bottles with black caps standing in a row on a worn hardwood floor, shot like a casual smartphone video frame, slight motion softness, natural window light from the left. Label in deep plum purple with a silver crescent moon and a silver balance-scale icon; product name in white. Slight lens distortion, realistic home setting, no studio polish.` + base comum.
+**A4 — Inspirado no SodaTide: o mais próximo do original.**
+`Six identical short, wide black opaque pill-style bottles with flat black screw caps, standing side by side in a tight row on a worn light-brown hardwood floor, photographed from slightly above like a casual smartphone video frame, slight softness and mild compression artifacts. Label: deep purple background with a lighter lavender gradient, the product name "BalanceMelt" in bold white uppercase letters across the top, below it a centered round purple-and-white emblem with a small balance-scale symbol, and under the emblem two short rows of tiny white claim text with small icons. Natural daylight from a window on the left, soft shadows on the floor, no studio polish, home setting.` + base comum. (Mantém do SodaTide: forma do pote, cor preta, rótulo roxo, emblema redondo central, seis em fila no chão de madeira, estética de vídeo caseiro. Muda só o nome, o símbolo da balança e os claims.)
 
 ## B. Novas, do zero (menos referência a eles)
 
