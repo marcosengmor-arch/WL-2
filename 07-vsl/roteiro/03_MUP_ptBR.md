@@ -6,15 +6,19 @@ Continua de onde a História parou: Nicole chamou a Dra. Jordan ("ela está aqui
 
 ---
 
-## 5.3 — Entrada da expert, com autoridade [3 + 21] [AM 5.3]
+## 5.3 — Entrada da expert, com autoridade e a big idea [3 + 7 + 21] [AM 5.3]
 
-**DREW:** A Dra. Kathleen Jordan é médica internista, formada pela UCLA e por Stanford. É certificada pela Menopause Society. Foi diretora médica de hospital em San Francisco. E hoje é diretora médica e cofundadora da Midi Health, a clínica de menopausa que atende mulheres depois dos 40 em todos os estados. [credenciais a confirmar no contrato] Ela está trabalhando com a Valerie nos bastidores. E hoje ela vai explicar por que esses remédios param de funcionar no momento em que você para… e o ritual simples de bicarbonato, antes de dormir, que ajudou a Valerie a perder [X] libras em [Y] meses. [tipicidade] Certo, Valerie?
+**DREW:** A Dra. Kathleen Jordan é médica internista, formada pela UCLA e por Stanford. Certificada pela Menopause Society. Foi diretora médica de hospital em San Francisco. E hoje é diretora médica e cofundadora da Midi Health, a clínica de menopausa que atende mulheres depois dos 40 em todos os estados. [credenciais a confirmar no contrato] [ABT] E, nos bastidores, ela é a médica que Hollywood procura depois dos 40. Atrizes que você conhece. Mulheres que tomaram as injeções, perderam, pararam… e recuperaram mais peso do que tinham perdido. [DRAM: sem nomes] Mas o que ela deu pra elas não foi outra caneta. Foi um ritual natural, de cozinha, com um preparo único que faz ele funcionar. Então hoje ela vai explicar por que esses remédios param de funcionar no momento em que você para… e o ritual de bicarbonato, antes de dormir, que ajudou a Valerie a perder [X] libras em [Y] meses. [tipicidade] Certo, Valerie?
 
 **VALERIE:** Certo. E, pela primeira vez na minha vida, não voltou.
 
-**NICOLE:** Doutora, bem-vinda. Que bom que você veio. Agora, antes de você mostrar como fazer o ritual, eu preciso perguntar o que todo mundo em casa está pensando agora. Bicarbonato? Sério? [AM 5.3] Como é que bicarbonato ganha de um remédio que a indústria cobra milhares de dólares por mês? Me convença.
+**NICOLE:** E tem uma coisa que eu preciso dizer antes, porque muita gente em casa viu esse "shot de bicarbonato" na internet. [ABT] Esse ritual vazou. Golpistas pegaram metade da receita, tiraram o preparo, e estão vendendo a versão errada por aí. Mas é por isso que a doutora veio a público hoje, com o apoio da Midi Health: pra contar a versão verdadeira, a correta. Então, doutora, bem-vinda. Que bom que você veio. [7]
 
-**DRA. JORDAN:** Não é o bicarbonato. É um shot dele. Uma pitada, na hora certa. Essa é a parte que ninguém te contou. [21]
+**DRA. JORDAN:** Obrigada. E é exatamente por isso que eu estou aqui. [ABT] A receita que está circulando tem o ingrediente certo. Mas tem a hora errada e o preparo errado. Então ela não funciona, e ainda incha. A verdadeira, a que eu dou pra elas, eu vou mostrar hoje, passo a passo.
+
+**NICOLE:** Agora, antes de você mostrar como fazer, eu preciso perguntar o que todo mundo em casa está pensando. Bicarbonato? Sério? [AM 5.3] Como é que bicarbonato ganha de um remédio que a indústria cobra milhares de dólares por mês? Me convença.
+
+**DRA. JORDAN:** Não é o bicarbonato. É um shot dele. Uma pitada, com o preparo certo, na hora certa. Essa é a parte que ninguém te contou. [21]
 
 **DREW:** E eu vou ser sincera: eu nem sei o que esses remédios fazem. [transição 21→22]
 
@@ -93,4 +97,5 @@ Continua de onde a História parou: Nicole chamou a Dra. Jordan ("ela está aqui
 - Nossos acréscimos, todos curtos e dentro das falas-modelo: o escudo e as três luzes (23), o batismo com cartela (23), "guardada onde o ácido está" (24), a razão por método terminando na noite (25, ângulo), "a geladeira às dez da noite" (26), "cadê os meus pés / formato de maçã / me emparelhei" (26, vídeo base), a concessão real da Dra. Jordan (27), "a noite continua lá; nada mudou às dez da noite" (27), o rótulo no lugar do "5x harder" (27), "acender as luzes de novo" (28).
 - Voz: Dra. Jordan abre com "Antes de tudo" (First of all), um termo técnico por vez com tradução (GLP-1/GIP → o sinal; Blackout → apagão); Drew pergunta leiga e confessa ("eu nem sei o que esses remédios fazem", "é exatamente o que eu sinto", "formato de maçã"); Nicole uma linha por vez ("O apagão do estrogênio?", "Eu não quero fazer academia mesmo", "cadê os meus pés", "Pior do que antes de começar?").
 - Cotas: "Exatamente" ×2 (limite do bloco), "aqui está o problema" ×1, "deixa eu ver se eu entendi" ×1; palavras de poder: desligando, luta, acender (3 em ~1.100 palavras).
+- v1.1: a big idea entra na apresentação (5.3): médica de Hollywood 40+ que viu as injeções devolverem mais peso do que tiraram; o ritual como solução natural com preparo único; golpistas vazaram a versão errada; ela veio contar a verdadeira, com apoio da Midi (ponto 7 da tabela). "Atrizes que você conhece" sem nomes: dramatização.
 - Pendências: credenciais exatas da Dra. Jordan no contrato (5.3); [X] lb em [Y] meses com tipicidade (5.3); os 3 itens do rótulo vigente (7.1); a razão por método (25) é ângulo, não alegação, e deve ser gravada como "here's what we believe is happening" na versão EN.
