@@ -35,7 +35,11 @@ Como é que isso está vencendo medicamentos que a Big Pharma cobra milhares de 
 
 ## 6.1b — O escudo, o solo e as sementes [23] [jardim sobe do AM 8.1]
 
-**DRA. JORDAN:** Porque a queda hormonal depois dos 40 não é só calor e sono ruim. [ABT] Por trinta anos, o estrogênio foi o escudo do seu intestino. Ele mantinha o ambiente lá dentro calmo. Mas o estresse, o açúcar, o ultraprocessado vão gastando esse escudo aos poucos. E depois dos 40, ele cai de vez. Então o intestino muda. Inflama. E azeda. [PP]
+**DRA. JORDAN:** Porque a queda hormonal depois dos 40 não é só calor e sono ruim. [ABT] Por trinta anos, o estrogênio foi o escudo do seu intestino. Ele mantinha o ambiente lá dentro calmo. Mas o estresse, o açúcar, o ultraprocessado vão gastando esse escudo aos poucos. E depois dos 40, ele cai de vez.
+
+**SUNNY:** Mas a minha avó passou pela menopausa. E a cintura dela não mudou.
+
+**DRA. JORDAN:** Exatamente. [VT: foto de arquivo, 1945] Em 1945, barriga de menopausa não existia. A sua avó passou pela menopausa, e a cintura dela não mudou. O que mudou não foi ela. Foi o que a gente fez com o intestino dela. Café. Refrigerante. Açúcar. Ultraprocessado. [tripleta + 1] É isso que gasta o escudo antes da hora. Então, quando ele cai, o intestino muda. Inflama. E azeda. [PP] [camada 1945; vídeo viral 1,58M views]
 
 **SUNNY:** Azeda?
 
@@ -105,6 +109,7 @@ Como é que isso está vencendo medicamentos que a Big Pharma cobra milhares de 
 
 ### Notas de modelagem (v2, 26/11)
 - Decisão: o ácido e o jardim sobem para o MUP (escudo cai → intestino azeda → sementes dormem → apagão), para que o 25 ("cada tentativa azedou mais o solo") e o 27 ("a caneta não toca no solo") tenham base. O **relógio do ácido, a noite e os três copos ficam no MUS** como a explicação nova; por isso o 25 e o 28 não citam a noite, e a Dra. Jordan fecha com "a outra metade ninguém te contou".
+- v2.1: camada 1945 inserida no 23 (pergunta da Sunny + foto de arquivo), como o vídeo viral "Menopause Weight Gain Wasn't a Thing in 1945" e a BI-01 da pesquisa; callback no 29 (a avó tomava à noite). "Exatamente" passa a ×3 no bloco: trocar um por "Isso" na revisão de cotas.
 - Notas da v1 mantidas abaixo.
 
 ### Notas de modelagem (v1)
