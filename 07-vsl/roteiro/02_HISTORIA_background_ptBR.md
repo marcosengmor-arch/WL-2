@@ -1,12 +1,12 @@
 # ROTEIRO — Bloco 2: HISTÓRIA (background da Valerie) — v6 (cronologia dos fatos em progressão)
 
-**O que esta versão aplica em cima da v4 (estrutura e falas-modelo intactas):** transições do `aplicacao/07_transicoes_aplicado.md` (11→12 … 21→22, a da AlkaMelt como padrão); **regra ABT** em todo parágrafo da Valerie (E = contexto que ela vive → MAS = o conflito → PORTANTO = o que isso significa); momentum e bucket brigades do CORE §5 ("E tem mais.", "Aqui está o problema.", "E sabe o que é mais louco?"); frase curta como golpe depois da longa; tripletas; **uma palavra de poder a cada 80–100 palavras** (desliga, esmaga, trava, derrete, desperta, acende, voltou com tudo), só em substantivo/verbo/adjetivo; tempo progressivo só na promessa da Drew (12/13), nunca na narrativa; dog whistle da avatar ("barriga alta", "cadê os meus pés", "o barulho", "voltou tudo"); Drew no registro real dela (quente, rápida, leiga, confessa no meio, feminina sem forçar); Nicole com a gíria dela, uma linha por vez. **v6 (25/11):** 4.3 → 5.1 reescritos em progressão cronológica documentada (People, Oprah.com, TV Insider): 15 anos no set → anos 80, emagreceu de forma extrema (ela mesma revelou distúrbio alimentar e substâncias para controlar o apetite; escrever com pudor, sem detalhe) → anos 2000, maternidade, 172 lb → 2007 Jenny Craig, capa da People → reganhos repetidos (52; 60–61 no luto) → noite → injeções → parou → voltou tudo [DRAM]. Elenco e marcações como na v4: [AM x.y] fala-modelo; [DRAM]; [INF]; [CUT]; [ABT] onde a regra está aplicada; [PP] palavra de poder.
+**O que esta versão aplica em cima da v4 (estrutura e falas-modelo intactas):** transições do `aplicacao/07_transicoes_aplicado.md` (11→12 … 21→22, a da AlkaMelt como padrão); **regra ABT** em todo parágrafo da Valerie (E = contexto que ela vive → MAS = o conflito → PORTANTO = o que isso significa); momentum e bucket brigades do CORE §5 ("E tem mais.", "Aqui está o problema.", "E sabe o que é mais louco?"); frase curta como golpe depois da longa; tripletas; **uma palavra de poder a cada 80–100 palavras** (desliga, esmaga, trava, derrete, desperta, acende, voltou com tudo), só em substantivo/verbo/adjetivo; tempo progressivo só na promessa da Drew (12/13), nunca na narrativa; dog whistle da avatar ("barriga alta", "cadê os meus pés", "o barulho", "voltou tudo"); Drew no registro real dela (quente, rápida, leiga, confessa no meio, feminina sem forçar); Sunny com a gíria dela, uma linha por vez. **v6 (25/11):** 4.3 → 5.1 reescritos em progressão cronológica documentada (People, Oprah.com, TV Insider): 15 anos no set → anos 80, emagreceu de forma extrema (ela mesma revelou distúrbio alimentar e substâncias para controlar o apetite; escrever com pudor, sem detalhe) → anos 2000, maternidade, 172 lb → 2007 Jenny Craig, capa da People → reganhos repetidos (52; 60–61 no luto) → noite → injeções → parou → voltou tudo [DRAM]. Elenco e marcações como na v4: [AM x.y] fala-modelo; [DRAM]; [INF]; [CUT]; [ABT] onde a regra está aplicada; [PP] palavra de poder.
 
 ---
 
 ## 3.1 — Abertura do programa [12] [AM 3.1] · transição 11→12
 
-**NICOLE:** Estamos de volta com a Valerie Bertinelli, que está vivendo a melhor fase da vida dela. Agora, e sempre. Quatro décadas lutando com o peso, em público. E ela diz que tudo mudou com um único momento de "ah, é isso".
+**SUNNY:** Estamos de volta com a Valerie Bertinelli, que está vivendo a melhor fase da vida dela. Agora, e sempre. Quatro décadas lutando com o peso, em público. E ela diz que tudo mudou com um único momento de "ah, é isso".
 
 **DREW:** Ai, gente. É. E ela vai abrir o jogo sobre a jornada inteira. O peso que chegou ao máximo depois dos 40. As libras que ela perdeu com a Jenny Craig, a empolgação, a capa de revista. E aí o Ozempic… e o que aconteceu quando ela parou. Voltou tudo. [DRAM]
 Mas ela diz que esse não é o fim da história. [ABT] Hoje ela está compartilhando um ritual simples de antes de dormir. Uma pitada de bicarbonato num copo de água. E ela diz que isso está despertando [PP] os mesmos hormônios que o Ozempic mira. Só que dessa vez: sem injeção. Sem receita. Só uma coisa que você pode fazer hoje à noite, com o que já está na sua cozinha.
@@ -33,7 +33,7 @@ Esta é a primeira entrevista dela desde que largou os remédios. [DRAM] E ela n
 
 **VALERIE:** É acordar e a primeira coisa que eu penso não ser "quanto eu peso". É não ficar pensando no que vou comer no café. E se comi no café, agora não posso almoçar. Ou vou pular uma refeição. [ABT] É o barulho na cabeça. Aquele barulho de comida que toda mulher que passou por isso conhece. Mas a gente não sabia que era um barulho. Então eu com certeza não sabia que quem não tem obesidade… não tem isso.
 
-**NICOLE:** Amiga.
+**SUNNY:** Amiga.
 
 ## 4.2 — O barulho [15] [AM 4.2]
 
@@ -59,7 +59,7 @@ Esta é a primeira entrevista dela desde que largou os remédios. [DRAM] E ela n
 
 **VALERIE:** E eu fiquei tipo: o quê? Eu era uma menina. [ABT] Eu fiquei com vergonha naquele momento. Mas eu não percebi, até muitos anos depois, que ficou. Então toda vez que eu começava outra dieta, eu ia… eu ouvia de novo: cuida disso. Cuida disso. Cuida disso.
 
-**NICOLE:** Quinze anos. Uma menina.
+**SUNNY:** Quinze anos. Uma menina.
 
 **VALERIE:** E eu cuidei. Nos anos 80 eu emagreci de um jeito que não era saúde. Eu já falei disso em público: eu fiz coisas pra não sentir fome que nenhuma menina deveria fazer. [documentado; sem detalhe] Fiquei magra. Magra demais. E todo mundo achou lindo.
 
@@ -69,19 +69,19 @@ Esta é a primeira entrevista dela desde que largou os remédios. [DRAM] E ela n
 
 ## 5.1 — As fases, a noite e as injeções [17] [AM 5.1] · transição 16→17
 
-**NICOLE:** Então, os remédios. Você foi aberta sobre isso. Mas antes deles, teve muita coisa. E tudo em público.
+**SUNNY:** Então, os remédios. Você foi aberta sobre isso. Mas antes deles, teve muita coisa. E tudo em público.
 
 **VALERIE:** Teve a vida. [ABT] Eu virei mãe, e o corpo mudou. E aí vieram os problemas pessoais, e o peso veio junto. Mas eu fazia tudo que mandavam. Então o ponteiro chegou em 172 libras, depois dos 40, e parou lá.
 
-**NICOLE:** E aí a Jenny Craig.
+**SUNNY:** E aí a Jenny Craig.
 
 **VALERIE:** E aí a Jenny Craig, 2007. Eu ainda tenho o biquíni da capa da People no fundo do armário. Quarenta e sete libras. O país inteiro viu. [RISO] E o país inteiro viu voltar.
 
-**NICOLE:** E depois?
+**SUNNY:** E depois?
 
 **VALERIE:** Depois, de novo. E de novo. Weight Watchers. Mil e duzentas calorias. Caminhada todo dia. Keto. Até aquele shot de bicarbonato da internet, de manhã, em jejum. Só me inchou. [ABT] Cada um levava uma parte. Mas cada um devolvia com juros. Era como se o meu corpo lembrasse o caminho de volta. Então, aos 60, 61, quando eu perdi os meus pais, e o Eddie, voltou com tudo. [PP] E a noite virou o pior lugar da casa. Eu acordava com a camisola encharcada. Três da manhã. Cozinha. Geladeira. [INF: o horário]
 
-**NICOLE:** E aí o Ozempic. Você perdeu o peso, estava se sentindo bem… e parou. O que aconteceu?
+**SUNNY:** E aí o Ozempic. Você perdeu o peso, estava se sentindo bem… e parou. O que aconteceu?
 
 **VALERIE:** E eu vou ser justa: funcionou. [DRAM] E eu fiquei fora dos remédios o ano passado inteiro, e ganhei 20 libras. Porque eu quis testar. Todo mundo dizia: "você vai ganhar o peso de volta, vai ganhar de volta". Eu ia mostrar pra eles que não. Eu ia caminhar. Eu ia conseguir.
 
@@ -93,7 +93,7 @@ Esta é a primeira entrevista dela desde que largou os remédios. [DRAM] E ela n
 
 **VALERIE:** O barulho voltou. O barulho de ficar parada ali olhando pra geladeira. O que eu posso comer? O que eu posso comer? E eu tentava comer melhor. Mas o peso voltava do mesmo jeito.
 
-**NICOLE:** Voltava tudo.
+**SUNNY:** Voltava tudo.
 
 **VALERIE:** Tudo. E um pouco mais, de brinde.
 
@@ -107,11 +107,11 @@ E eu pensei: tá… então como eu faço o meu corpo fazer isso sozinho? E foi a
 
 **DREW:** Ai, eu também tomava de manhã.
 
-**NICOLE:** E por falar na Dra. Jordan, ela está aqui com a gente hoje. [transição 20→21]
+**SUNNY:** E por falar na Dra. Jordan, ela está aqui com a gente hoje. [transição 20→21]
 
 ## 5.3 — A pergunta paradoxal [21] [AM 5.3] · transição 20→21 / 21→22
 
-**NICOLE:** Doutora, bem-vinda. Antes de você mostrar o ritual, eu preciso perguntar o que todo mundo em casa está pensando. Bicarbonato? Sério? Como é que bicarbonato ganha de um remédio que a indústria cobra milhares de dólares por mês? Me convença.
+**SUNNY:** Doutora, bem-vinda. Antes de você mostrar o ritual, eu preciso perguntar o que todo mundo em casa está pensando. Bicarbonato? Sério? Como é que bicarbonato ganha de um remédio que a indústria cobra milhares de dólares por mês? Me convença.
 
 **DRA. JORDAN:** Não é o bicarbonato. É um shot dele. Uma pitada, na hora certa. Essa é a parte que ninguém te contou.
 
@@ -122,7 +122,7 @@ E eu pensei: tá… então como eu faço o meu corpo fazer isso sozinho? E foi a
 ### Notas de modelagem (v5)
 - Estrutura, ordem e falas-modelo da v4 intactas (AlkaMelt 3.1 → 5.3). O que entrou foi comunicação: ABT em 5 parágrafos da Valerie; bucket brigades ("E tem mais", "E sabe o que é mais louco?", "Mas ela diz que esse não é o fim da história"); golpe curto após frase longa ("Só me inchou."; "Não era eu."; "Eu ri."); tripletas (sem injeção, sem receita, só…; três da manhã, cozinha, geladeira); 4 palavras de poder em ~1.300 palavras (despertando, esmaga [reservada], voltou com tudo, derreter [reservada para o MUS]); progressivo só na promessa da Drew ("está despertando").
 - Drew: quente e rápida ("Ai, gente", "Eu. Ontem.", "Uma semana antes!", "Ai, eu também tomava de manhã"), pergunta leiga ("de manhã, na cozinha?"), confessa ("falando mal de si mesma no espelho"), e abre a aula do 22 com a confissão real dela ("eu nem sei o que esses remédios fazem", GT-071). Nenhuma linha funcional da Jenna foi removida.
-- Nicole: "Amiga.", "Quinze anos. Uma menina.", "E o segundo? E o terceiro?" (dobradiça da SodaTide para a litania), "Voltava tudo.", "Me convença." (vídeo base).
+- Sunny: "Amiga.", "Quinze anos. Uma menina.", "E o segundo? E o terceiro?" (dobradiça da SodaTide para a litania), "Voltava tudo.", "Me convença." (vídeo base).
 - Transições usadas, na ordem do 07: 11→12 (AM-029/030), 12→13 (AM-039), 13→14 (vídeo base), 14→15 (AM-041), 15→16 (AM-052/054), 16→17 (AM-058 + ST 3.5), 17→18 (AM-063), 18→19 (AM-064), 19→20 (AM-066), 20→21 (AM-067/070 + "break me down"), 21→22 (AM-071 + GT-071).
 - v6: a fase dos anos 80 (distúrbio alimentar e substâncias para controlar o apetite) é documentada por ela mesma (People); no roteiro entra com pudor, em uma frase, sem nomear nada, e é parte do termo de autorização. A ordem agora é cronológica: 15 → anos 80 → maternidade/172 lb depois dos 40 → 2007 Jenny Craig/People → reganhos → 60–61 luto/noite → injeções → rebote.
 - Pendente do usuário: cena dos 15 anos (16); "Eddie" pelo nome; "primeira entrevista desde que largou os remédios" é dramatização.
