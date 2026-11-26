@@ -46,7 +46,7 @@ Vamos ver.
 ## 9.2 — A demonstração [AB + Y, Z, AA] [SodaTide, cozinha, modelada fala a fala]
 
 **[Dra. Kathleen Jordan]**
-Olha esses dois recipientes. Eles são idênticos. E os dois representam o fluido do intestino que existe no seu corpo hoje. Conforme os anos passam, especialmente depois dos 40, com a queda do estrogênio e os alimentos processados, o seu intestino fica cada vez mais ácido. E mais amarelado, quase chegando ao verde, exatamente como você está vendo aqui. Esse é o intestino de uma mulher que não consegue emagrecer. Que tem muita dificuldade de perder as libras, não importa o que faça. Dieta, academia, nada parece funcionar.
+Olha esses dois recipientes. [etiquetas: POTE 1 — 7 AM · POTE 2 — 10 PM] Eles são idênticos. E os dois representam o fluido do intestino que existe no seu corpo hoje. Conforme os anos passam, especialmente depois dos 40, com a queda do estrogênio e os alimentos processados, o seu intestino fica cada vez mais ácido. E mais amarelado, quase chegando ao verde, exatamente como você está vendo aqui. Esse é o intestino de uma mulher que não consegue emagrecer. Que tem muita dificuldade de perder as libras, não importa o que faça. Dieta, academia, nada parece funcionar.
 
 **[Sunny Anderson]**
 Uau. Eu não fazia ideia de que chegava a esse ponto. Olha a cor disso. Está amarelo, quase verde. Parece que azedou.
@@ -64,7 +64,7 @@ E é por isso que você nunca ligou uma coisa à outra. Deixa eu te mostrar. Ess
 Entendi. Então o vermelho na fita mostra que o intestino está muito ácido.
 
 **[Dra. Kathleen Jordan]**
-Exatamente. Mas agora, presta atenção, porque é aqui que a internet erra. Os dois recipientes são o mesmo intestino. A diferença é a hora. Esse aqui é o seu intestino às sete da manhã. [etiqueta 7 AM] E esse aqui… é o seu intestino às dez da noite. [etiqueta 10 PM]
+Exatamente. Mas agora, presta atenção, porque é aqui que a internet erra. Os dois recipientes são o mesmo intestino. A diferença é a hora. O pote 1 é o seu intestino às sete da manhã. E o pote 2… é o seu intestino às dez da noite.
 
 **[Sunny Anderson]**
 Espera. O mesmo intestino, em duas horas do dia?
@@ -77,13 +77,13 @@ A camisola encharcada. As três da manhã na cozinha.
 
 **[Dra. Kathleen Jordan]**
 Era o relógio, Valerie. Enquanto você dormia, as suas sementes passavam a noite inteira afogadas nisso aqui. [aponta o copo das dez] De manhã, o sinal não chegava. À tarde, o doce. Às dez, a geladeira.
-Agora olha o que a receita da internet faz. Uma colherada de bicarbonato, com suco de limão, no copo das sete da manhã. [espuma e transborda] Viu? Espuma. Reage no copo, reage no seu estômago, e você acorda inchada. E a fita? [mergulha] Continua igual. Não tinha ácido pra neutralizar. Ainda. Você apagou às sete um fogo que só começa às dez.
+Agora olha o que a receita da internet faz. Uma colherada de bicarbonato, com suco de limão, no pote 1, o das sete da manhã. [espuma e transborda] Viu? Espuma. Reage no copo, reage no seu estômago, e você acorda inchada. E a fita? [mergulha] Continua igual. Não tinha ácido pra neutralizar. Ainda. Você apagou às sete um fogo que só começa às dez.
 
 **[Drew Barrymore]**
 Então o shot da manhã estava doze horas atrasado.
 
 **[Dra. Kathleen Jordan]**
-Doze horas. E com a receita errada. Agora a versão certa. Uma pitada, não uma colherada. Com a casca do limão, não o suco. No copo das dez da noite. [adiciona; sem espuma]
+Doze horas. E com a receita errada. Agora a versão certa. Uma pitada, não uma colherada. Com a casca do limão, não o suco. No pote 2, o das dez da noite. [adiciona; sem espuma]
 
 **[Sunny Anderson]**
 Olha isso. O fluido que estava amarelo e turvo está começando a clarear.
@@ -98,7 +98,7 @@ O tempo todo.
 Eles ajudam um pouco. Mas o bicarbonato, usado do jeito certo e na hora certa, é muito mais poderoso. [sem "3x" até ter fonte] Agora vamos medir de novo, pra você ver com os seus próprios olhos.
 
 **[Sunny Anderson]**
-A fita no copo das dez está ficando verde. E olha só… verde é o pH ideal!
+A fita no pote 2 está ficando verde. E olha só… verde é o pH ideal!
 
 **[Dra. Kathleen Jordan]**
 Exatamente. Isso significa que o ácido foi neutralizado, e o intestino agora está equilibrado. Esse é precisamente o ambiente em que as suas células L acordam. E com isso o seu corpo volta a produzir naturalmente o GLP-1 e o GIP. Os mesmos hormônios que a caneta entrega. Só que produzidos por você. [sem "como se tivesse tomado Mounjaro"]
@@ -107,8 +107,15 @@ Exatamente. Isso significa que o ácido foi neutralizado, e o intestino agora es
 E se eu tivesse feito isso de manhã?
 
 **[Dra. Kathleen Jordan]**
-Teria neutralizado o copo das sete. Que já estava quase limpo. E às dez da noite, o copo que importa… continuava vermelho. É por isso que só funciona assim: a pitada, a casca, e a noite. Antes de dormir. Não é um detalhe. É a razão.
-Agora me diz: em qual desses dois copos você quer que as suas células L passem a noite?
+Teria neutralizado o pote 1. Que já estava quase limpo. E às dez da noite, o pote 2, o que importa… continuava vermelho. É por isso que só funciona assim: a pitada, a casca, e a noite. Antes de dormir. Não é um detalhe. É a razão.
+E agora eu quero que todo mundo em casa veja o que isso muda quando o assunto é a gordura. [duas amostras de gordura, a mesma quantidade, uma ao lado de cada pote; lower third "Demonstração"] Esta, ao lado do pote 1, é a gordura que o corpo guarda ao redor de um intestino ácido. Compacta. **Travada.** O acolchoado que ele não solta, porque o ácido continua lá. E esta, ao lado do pote 2, é a gordura de um corpo em que o sinal voltou. Solta. Pronta pra ser usada como energia. O pote não derrete gordura. O que derrete gordura é o seu corpo, quando o GLP-1 e o GIP voltam a mandar o sinal. É isso que o pote verde libera.
+
+**[Sunny Anderson]**
+Então o pote não queima nada. Ele destrava.
+
+**[Dra. Kathleen Jordan]**
+Ele destrava. O resto o seu corpo faz sozinho. Toda noite.
+Agora me diz: em qual desses dois potes você quer que as suas células L passem a noite?
 
 **[Sunny Anderson]**
 No vermelho não.
@@ -207,6 +214,7 @@ Sabe, eu passei 40 anos em guerra com o meu corpo. Quarenta anos. Então acordar
 - A explicação nova no lugar do scan: o relógio (Y–AA) e os três copos (AB), com a camisola e a cozinha às três pagas em cena ("Como se fosse ontem."). A escolha "no vermelho não" fecha a demonstração.
 - O preparo (10.1) resolve a casca de limão: suco = ácido (a versão viral), casca = os óleos que acalmam e deixam a pitada chegar inteira [ângulo]; "pitada mais casca" vira a primeira peça. Contagem Haddad: três peças (preparo, gengibre, terceiro), não quatro.
 - Haddad embutido: "afogadas no ácido", "sendo boazinha", "apagou às sete um fogo que só começa às dez", "Nada. Elas mudaram a hora.", "o rádio desligou", "Sessenta e seis."
+- v1.4: potes nomeados (pote 1 = 7 AM, o que não funciona; pote 2 = 10 PM, o que funciona); parte da gordura adicionada na versão honesta (travada × solta, "o pote não derrete gordura, o corpo derrete quando o sinal volta"; Gumitide/SodaTide sem a alegação de dissolver no vidro).
 - v1.3 (26/11): a demonstração modelada fala a fala na cozinha da SodaTide (dois recipientes idênticos, cor amarelo-esverdeada, "parece que azedou", "o principal sinal não é azia", fitas vermelhas, bicarbonato → clareia, "limão e vinagre ajudam um pouco", medir de novo → verde, receptores voltam); a hora entra DENTRO da demonstração como a diferença entre os dois copos (7 AM × 10 PM), com a receita errada (colherada + suco, espuma, fita igual) e a certa (pitada + casca, sem espuma, fita verde) e o reason why (relógio, noite da menopausa, sementes afogadas). Antes da bancada não se fala da hora. Vetado: gordura derretendo no copo; "3x"; "como se tivesse tomado Mounjaro". As quatro comentam.
 - v1.2: a ponte encurtada pela metade (mesma lógica: inflama → acolchoa → nome → desincha, para de acolchoar, acorda).
 - v1.1 (26/11): a ponte entre "neutraliza aquele ácido" e o batismo foi reescrita: o ácido inflama → o corpo acolchoa de gordura (segundo escudo) → inchada/maior/mole explicadas uma a uma → nome → "então a barriga é o corpo se defendendo?" → quando o ácido baixa: desincha, para de acolchoar, sementes acordam.
