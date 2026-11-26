@@ -35,56 +35,86 @@ Ok, isso faz muito sentido.
 **[Drew Barrymore]**
 Dra. Jordan, eu acho que todo mundo assistindo agora está pegando uma caneta. Como é que a gente faz esse ritual? [AM 8.3]
 
-## 9.1 — A outra metade: o relógio do ácido [Y, Z, AA] [no lugar do scan cerebral, AM 9.1]
+## 9.1 — Para a bancada [AM 9.1 "But first, I want you to see"] (v1.3: modelado na cozinha da SodaTide; a hora entra dentro da demonstração)
 
 **[Dra. Kathleen Jordan]**
-Eu vou te mostrar exatamente como fazer daqui a pouco, passo a passo. Mas antes, eu preciso te contar a outra metade. A parte que a sua avó acertou sem saber. E a parte que a receita da internet erra todo dia.
-O ácido tem **relógio**.
-De manhã, ele está no ponto mais baixo. No fim da noite, com o estômago vazio, ele está no ponto mais alto. Isso não é opinião minha. É medido desde 1970. [Moore & Englert 1970; Moore & Wolfe 1973; FORTE para o estômago]
-
-**[Drew Barrymore]**
-Espera. O ácido sobe de noite?
-
-**[Dra. Kathleen Jordan]**
-Sobe. E se você é uma mulher depois dos 40, a sua noite é pior que a de todo mundo. O calor. O sono quebrado. O cortisol alto. O jantar leve, porque você está "sendo boazinha". Tudo isso deixa o pico mais alto. E mais longo. [INF]
-Então, enquanto você dorme, as suas sementes passam a noite inteira **afogadas** no ácido. [INF, "here's what we believe"] De manhã, o sinal não chega. À tarde, o doce. Às dez da noite… a geladeira. Lembra da camisola encharcada, Valerie? Das três da manhã na cozinha?
-
-**[Valerie Bertinelli]**
-Como se fosse ontem.
-
-**[Dra. Kathleen Jordan]**
-Era o relógio. E é por isso que o shot da internet falhou com você. Você tomou de manhã. Apagou às sete um fogo que só começa às dez. [AA] A pitada precisa chegar **antes** do pico. À noite. Antes de dormir. Essa é a outra metade.
-
-## 9.2 — Os três copos [AB] [AM 9.1: "Can we pull up that brain scan?" → cozinha das Tide]
-
-**[Dra. Kathleen Jordan]**
-E eu não quero que você acredite em mim. Eu quero que você veja. Isso não é teoria. A gente pode ir pra bancada? [VT: três copos na mesa; lower third "Demonstração. Fluido simulado."]
+Eu vou te mostrar exatamente como fazer daqui a pouco, passo a passo. Mas antes de tudo, eu quero mostrar exatamente o que está acontecendo dentro do seu intestino. Porque isso não é teoria. A gente pode ir pra bancada? [VT: bancada; lower third "Demonstração. Fluido simulado."]
 
 **[Drew Barrymore]**
 Vamos ver.
 
+## 9.2 — A demonstração [AB + Y, Z, AA] [SodaTide, cozinha, modelada fala a fala]
+
 **[Dra. Kathleen Jordan]**
-Três copos. O mesmo intestino, em três horas do dia. Sete da manhã. Três da tarde. Dez da noite. [fitas de pH entram: amarela, laranja, vermelha]
+Olha esses dois recipientes. Eles são idênticos. E os dois representam o fluido do intestino que existe no seu corpo hoje. Conforme os anos passam, especialmente depois dos 40, com a queda do estrogênio e os alimentos processados, o seu intestino fica cada vez mais ácido. E mais amarelado, quase chegando ao verde, exatamente como você está vendo aqui. Esse é o intestino de uma mulher que não consegue emagrecer. Que tem muita dificuldade de perder as libras, não importa o que faça. Dieta, academia, nada parece funcionar.
 
 **[Sunny Anderson]**
-Espera. Isso é o mesmo intestino em três horas do dia?
+Uau. Eu não fazia ideia de que chegava a esse ponto. Olha a cor disso. Está amarelo, quase verde. Parece que azedou.
 
 **[Dra. Kathleen Jordan]**
-O mesmo. Olha a cor. De manhã, quase nada. À tarde, subindo. Às dez da noite… [fita vermelha] vermelho. Esse é o copo em que as suas sementes passam a noite.
-Agora olha o que a receita da internet faz. Uma colherada de bicarbonato, com suco de limão, no copo das sete da manhã. [espuma] Viu? Espuma. Reage no copo, reage no seu estômago, e você acorda inchada. E a fita? Não mudou nada. Não tinha ácido pra neutralizar. Ainda.
-Agora a versão certa. Uma pitada, com o preparo certo, no copo das dez da noite. [a fita vira verde] Sem espuma. Sem barulho. A fita fica verde. É esse o copo que importa.
+Isso mesmo. Azedou. Esse fluido amarelo-esverdeado, espesso e ácido, mostra que o intestino está fora do pH ideal. E muita gente acha que só quem sente azia tem o intestino ácido. Não é verdade. O principal sinal é exatamente esse: inchaço no fim do dia, cansaço e dificuldade pra perder peso. Se você está passando por isso, é quase certo que o fluido no seu intestino está igualzinho a este aqui.
+
+**[Valerie Bertinelli]**
+O meu estava assim. E eu só sentia azia uma vez por mês.
+
+**[Dra. Kathleen Jordan]**
+E é por isso que você nunca ligou uma coisa à outra. Deixa eu te mostrar. Essas fitas medem o pH. Só olha a cor. [mergulha] Viu? As duas fitas ficaram vermelhas. Vermelho significa perigosamente ácido. Exatamente o ambiente onde as suas sementes dormem e os seus hormônios de queimar gordura não conseguem ser produzidos.
+
+**[Drew Barrymore]**
+Entendi. Então o vermelho na fita mostra que o intestino está muito ácido.
+
+**[Dra. Kathleen Jordan]**
+Exatamente. Mas agora, presta atenção, porque é aqui que a internet erra. Os dois recipientes são o mesmo intestino. A diferença é a hora. Esse aqui é o seu intestino às sete da manhã. [etiqueta 7 AM] E esse aqui… é o seu intestino às dez da noite. [etiqueta 10 PM]
+
+**[Sunny Anderson]**
+Espera. O mesmo intestino, em duas horas do dia?
+
+**[Dra. Kathleen Jordan]**
+O mesmo. Porque o ácido tem **relógio**. De manhã, ele está no ponto mais baixo. No fim da noite, com o estômago vazio, ele está no ponto mais alto. Isso não é opinião minha. É medido desde 1970. [Moore & Englert 1970; Moore & Wolfe 1973] E se você é uma mulher depois dos 40, a sua noite é pior que a de todo mundo. O calor. O sono quebrado. O cortisol alto. O jantar leve, porque você está "sendo boazinha". Tudo isso deixa o pico mais alto. E mais longo. [INF] Olha a diferença de cor entre os dois. [o da noite mais escuro]
+
+**[Valerie Bertinelli]**
+A camisola encharcada. As três da manhã na cozinha.
+
+**[Dra. Kathleen Jordan]**
+Era o relógio, Valerie. Enquanto você dormia, as suas sementes passavam a noite inteira afogadas nisso aqui. [aponta o copo das dez] De manhã, o sinal não chegava. À tarde, o doce. Às dez, a geladeira.
+Agora olha o que a receita da internet faz. Uma colherada de bicarbonato, com suco de limão, no copo das sete da manhã. [espuma e transborda] Viu? Espuma. Reage no copo, reage no seu estômago, e você acorda inchada. E a fita? [mergulha] Continua igual. Não tinha ácido pra neutralizar. Ainda. Você apagou às sete um fogo que só começa às dez.
 
 **[Drew Barrymore]**
 Então o shot da manhã estava doze horas atrasado.
 
 **[Dra. Kathleen Jordan]**
-Doze horas. Agora me diz: em qual desses copos você quer que as suas células L passem a noite?
+Doze horas. E com a receita errada. Agora a versão certa. Uma pitada, não uma colherada. Com a casca do limão, não o suco. No copo das dez da noite. [adiciona; sem espuma]
+
+**[Sunny Anderson]**
+Olha isso. O fluido que estava amarelo e turvo está começando a clarear.
+
+**[Dra. Kathleen Jordan]**
+Essa é a alcalinização de que eu estava falando. Olha o que está acontecendo. O bicarbonato está neutralizando o ácido do intestino e trazendo ele de volta ao pH ideal. Sem espuma, porque não tem suco pra reagir. E a pitada chega inteira, porque a casca acalma o caminho. [ângulo] Você já ouviu que água com limão e vinagre de maçã fazem bem pro intestino, né?
+
+**[Drew Barrymore]**
+O tempo todo.
+
+**[Dra. Kathleen Jordan]**
+Eles ajudam um pouco. Mas o bicarbonato, usado do jeito certo e na hora certa, é muito mais poderoso. [sem "3x" até ter fonte] Agora vamos medir de novo, pra você ver com os seus próprios olhos.
+
+**[Sunny Anderson]**
+A fita no copo das dez está ficando verde. E olha só… verde é o pH ideal!
+
+**[Dra. Kathleen Jordan]**
+Exatamente. Isso significa que o ácido foi neutralizado, e o intestino agora está equilibrado. Esse é precisamente o ambiente em que as suas células L acordam. E com isso o seu corpo volta a produzir naturalmente o GLP-1 e o GIP. Os mesmos hormônios que a caneta entrega. Só que produzidos por você. [sem "como se tivesse tomado Mounjaro"]
+
+**[Valerie Bertinelli]**
+E se eu tivesse feito isso de manhã?
+
+**[Dra. Kathleen Jordan]**
+Teria neutralizado o copo das sete. Que já estava quase limpo. E às dez da noite, o copo que importa… continuava vermelho. É por isso que só funciona assim: a pitada, a casca, e a noite. Antes de dormir. Não é um detalhe. É a razão.
+Agora me diz: em qual desses dois copos você quer que as suas células L passem a noite?
 
 **[Sunny Anderson]**
 No vermelho não.
 
 **[Dra. Kathleen Jordan]**
-No vermelho não. [RISO] [AM 9.2: "you can actually see it"]
+No vermelho não. [RISO]
 
 **[Drew Barrymore]**
 Agora eu entendi por que você vive dizendo que não é força de vontade, Valerie.
@@ -177,6 +207,7 @@ Sabe, eu passei 40 anos em guerra com o meu corpo. Quarenta anos. Então acordar
 - A explicação nova no lugar do scan: o relógio (Y–AA) e os três copos (AB), com a camisola e a cozinha às três pagas em cena ("Como se fosse ontem."). A escolha "no vermelho não" fecha a demonstração.
 - O preparo (10.1) resolve a casca de limão: suco = ácido (a versão viral), casca = os óleos que acalmam e deixam a pitada chegar inteira [ângulo]; "pitada mais casca" vira a primeira peça. Contagem Haddad: três peças (preparo, gengibre, terceiro), não quatro.
 - Haddad embutido: "afogadas no ácido", "sendo boazinha", "apagou às sete um fogo que só começa às dez", "Nada. Elas mudaram a hora.", "o rádio desligou", "Sessenta e seis."
+- v1.3 (26/11): a demonstração modelada fala a fala na cozinha da SodaTide (dois recipientes idênticos, cor amarelo-esverdeada, "parece que azedou", "o principal sinal não é azia", fitas vermelhas, bicarbonato → clareia, "limão e vinagre ajudam um pouco", medir de novo → verde, receptores voltam); a hora entra DENTRO da demonstração como a diferença entre os dois copos (7 AM × 10 PM), com a receita errada (colherada + suco, espuma, fita igual) e a certa (pitada + casca, sem espuma, fita verde) e o reason why (relógio, noite da menopausa, sementes afogadas). Antes da bancada não se fala da hora. Vetado: gordura derretendo no copo; "3x"; "como se tivesse tomado Mounjaro". As quatro comentam.
 - v1.2: a ponte encurtada pela metade (mesma lógica: inflama → acolchoa → nome → desincha, para de acolchoar, acorda).
 - v1.1 (26/11): a ponte entre "neutraliza aquele ácido" e o batismo foi reescrita: o ácido inflama → o corpo acolchoa de gordura (segundo escudo) → inchada/maior/mole explicadas uma a uma → nome → "então a barriga é o corpo se defendendo?" → quando o ácido baixa: desincha, para de acolchoar, sementes acordam.
 - Pendências: terceiro ingrediente (mecanismo §4); números com fonte ("93%", estudo do gingerol) ou sem número; [X] lb em [3] meses com tipicidade; "mil e quinhentos dólares" é o da AlkaMelt; confirmar "Wolfie" na autorização; a frase "a casca não é ácida" fica como linguagem ("não é o suco"), não como alegação de pH.
