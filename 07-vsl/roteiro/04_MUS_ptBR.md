@@ -17,11 +17,19 @@ Então o nosso corpo tem as ferramentas. Ele só não consegue usar.
 **[Dra. Kathleen Jordan]**
 Isso. E é por isso que essa receita simples, o que as pessoas estão chamando de ritual alcalino, é tão poderosa. Ela vai direto pro intestino, sobe o pH e neutraliza aquele ácido. [AM 8.2]
 
-## 8.2 — Menopause Acid Belly e as sementes acordando [W, X] [AM 8.3]
+## 8.2 — Menopause Acid Belly e as sementes acordando [W, X] [AM 8.3] (v1.1: ponte reescrita)
 
 **[Dra. Kathleen Jordan]**
-Porque aquela barriga que você vê no fim do dia, inchada, maior a cada ano, mole ao toque, tem nome. A gente chama de **Menopause Acid Belly**. A barriga ácida da menopausa. [CARTELA] Não é gordura comum. É o intestino azedo guardando tudo ao redor dele.
-E no momento em que o ácido baixa, as suas células L adormecidas finalmente **acordam**. De repente o jardim volta a crescer. O seu corpo começa a produzir GLP-1 e GIP sozinho, do jeito que sempre deveria. Não sintético. Não de uma agulha. Os seus próprios hormônios, produzidos pelo seu próprio corpo. [AM 8.3, literal]
+E eu quero que você entenda o que esse ácido faz, porque ele não só põe as sementes pra dormir.
+[ABT] Um intestino ácido é um intestino **inflamado**. Inchado por dentro, o dia inteiro, e mais à noite, quando o ácido sobe. E o corpo, sem o escudo, faz a única coisa que sabe fazer pra se proteger: ele cerca esse intestino de gordura. Como um acolchoado. Uma camada em volta do lugar onde dói.
+Então a barriga que você vê no fim do dia não é uma barriga qualquer. Ela está inchada porque o intestino está inflamado. Ela está maior a cada ano porque o corpo continua acolchoando. E ela está mole ao toque porque, sem estrogênio, a pele e o tecido em volta perdem a firmeza. [flácida ligada ao estrogênio, não ao ácido]
+Inchada. Maior. Mole. Isso tem nome. A gente chama de **Menopause Acid Belly**. A barriga ácida da menopausa. [CARTELA] Não é gordura comum. É o intestino azedo, e tudo que o corpo empilhou ao redor dele pra se proteger.
+
+**[Drew Barrymore]**
+Então a barriga é… o corpo se defendendo?
+
+**[Dra. Kathleen Jordan]**
+É o corpo se defendendo de um ácido que ninguém tirou de lá. E é por isso que a receita importa. Porque no momento em que o ácido baixa, três coisas acontecem em sequência. O intestino desincha. O corpo para de acolchoar. E as suas células L adormecidas finalmente **acordam**. De repente o jardim volta a crescer. O seu corpo começa a produzir GLP-1 e GIP sozinho, do jeito que sempre deveria. Não sintético. Não de uma agulha. Os seus próprios hormônios, produzidos pelo seu próprio corpo. [AM 8.3, literal]
 
 **[Sunny Anderson]**
 Ok, isso faz muito sentido.
@@ -171,4 +179,5 @@ Sabe, eu passei 40 anos em guerra com o meu corpo. Quarenta anos. Então acordar
 - A explicação nova no lugar do scan: o relógio (Y–AA) e os três copos (AB), com a camisola e a cozinha às três pagas em cena ("Como se fosse ontem."). A escolha "no vermelho não" fecha a demonstração.
 - O preparo (10.1) resolve a casca de limão: suco = ácido (a versão viral), casca = os óleos que acalmam e deixam a pitada chegar inteira [ângulo]; "pitada mais casca" vira a primeira peça. Contagem Haddad: três peças (preparo, gengibre, terceiro), não quatro.
 - Haddad embutido: "afogadas no ácido", "sendo boazinha", "apagou às sete um fogo que só começa às dez", "Nada. Elas mudaram a hora.", "o rádio desligou", "Sessenta e seis."
+- v1.1 (26/11): a ponte entre "neutraliza aquele ácido" e o batismo foi reescrita: o ácido inflama → o corpo acolchoa de gordura (segundo escudo) → inchada/maior/mole explicadas uma a uma → nome → "então a barriga é o corpo se defendendo?" → quando o ácido baixa: desincha, para de acolchoar, sementes acordam.
 - Pendências: terceiro ingrediente (mecanismo §4); números com fonte ("93%", estudo do gingerol) ou sem número; [X] lb em [3] meses com tipicidade; "mil e quinhentos dólares" é o da AlkaMelt; confirmar "Wolfie" na autorização; a frase "a casca não é ácida" fica como linguagem ("não é o suco"), não como alegação de pH.
