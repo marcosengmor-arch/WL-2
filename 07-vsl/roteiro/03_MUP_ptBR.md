@@ -1,4 +1,4 @@
-# ROTEIRO — Bloco 3: ENTRADA DA EXPERT + MUP (The Estrogen Blackout) — v1 PT-BR
+# ROTEIRO — Bloco 3: ENTRADA DA EXPERT + MUP (The Estrogen Blackout) — v2 PT-BR (o ácido entra no MUP; a hora fica para o MUS)
 
 **Modelado fala a fala** na AlkaMelt 5.3 → 7.2 (9:08 → 12:39): apresentação de autoridade da expert, "Baking soda, really?", GLP-1/GIP, a causa, o corpo em pânico, "não é disciplina", sintomas, por que a injeção falha, recapitulação da âncora. Pontos 21 a 28 da tabela 1:1. Regra de escrita do CLAUDE.md aplicada: transições do módulo 07 (22→23 … 28→29), ABT em todo parágrafo, bucket brigades, golpe curto, tripletas, uma palavra de poder a cada 80–100 palavras, dicionário de voz, cotas de oralidade ("Exactly" ≤1 neste bloco; "here's" ×1), vetos (sem "5x harder" sem fonte; sem lista grave do rótulo; concessão obrigatória à injeção pela posição real da Midi). Marcações: [AM x.y]; [ABT]; [PP]; [DRAM]; [INF]; [CUT]; [VT]; [CARTELA].
 
@@ -33,19 +33,31 @@ Como é que isso está vencendo medicamentos que a Big Pharma cobra milhares de 
 
 **DREW:** Espera. Desliga? Por quê?
 
-**DRA. JORDAN:** Porque a queda hormonal depois dos 40 não é só calor e sono ruim. [ABT] Por trinta anos, o estrogênio foi o escudo do seu intestino. E o estresse, o açúcar, o ultraprocessado vão gastando esse escudo aos poucos. Mas depois dos 40 ele cai de vez. E quando o escudo cai, as células que fabricam o GLP-1 e o GIP apagam junto. [nosso acréscimo: a causa por trás do "desliga" da AlkaMelt]
+## 6.1b — O escudo, o solo e as sementes [23] [jardim sobe do AM 8.1]
 
-## 6.1b — O batismo [23] [CARTELA: The Estrogen Blackout]
+**DRA. JORDAN:** Porque a queda hormonal depois dos 40 não é só calor e sono ruim. [ABT] Por trinta anos, o estrogênio foi o escudo do seu intestino. Ele mantinha o ambiente lá dentro calmo. Mas o estresse, o açúcar, o ultraprocessado vão gastando esse escudo aos poucos. E depois dos 40, ele cai de vez. Então o intestino muda. Inflama. E azeda. [PP]
 
-**DRA. JORDAN:** [cena do vídeo base] Quando os hormônios mudam na menopausa e na perimenopausa, isso muda o seu metabolismo. Então você não é a única a sentir isso. [ABT] E quando o escudo cai, três luzes apagam de uma vez. A que produz o sinal. A que protege o sinal. E a que manda queimar. Mas ninguém te avisa, porque isso acontece em silêncio. Então a gente deu um nome: **The Estrogen Blackout.** O apagão do estrogênio.
+**SUNNY:** Azeda?
+
+**DRA. JORDAN:** Azeda. E aqui está a parte que importa. [ABT] As células que fabricam o GLP-1 e o GIP não ficam no cérebro. Ficam no seu intestino. Pense nelas como sementes num jardim. Em solo bom, elas brotam e mandam o sinal. Mas em solo azedo, nada brota. Então elas param. Elas não morreram. Elas dormem. [AM 8.1, literal no jardim]
+
+**DREW:** Dormem.
+
+**DRA. JORDAN:** Dormem. E quando o escudo cai, três luzes apagam de uma vez. A que produz o sinal. A que protege o sinal. E a que manda queimar. Ninguém te avisa, porque isso acontece em silêncio. Então a gente deu um nome. [CARTELA] **The Estrogen Blackout.** O apagão do estrogênio.
 
 **SUNNY:** O apagão do estrogênio? [transição 23→24, eco]
 
 **DRA. JORDAN:** Exatamente. E quando isso acontece, você começa a ganhar peso. [AM 6.2, literal] O que acontece? O seu corpo entra em pânico.
 
-## 6.2 — O corpo em pânico [24] [AM 6.2]
+## 6.2 — O corpo em pânico e a barriga [24] [AM 6.2]
 
-**DRA. JORDAN:** [ABT] Ele pensa: eu nunca estou saciado, a comida deve estar escassa, armazene tudo. Então tudo o que você come, uma salada, um bife, até uma fruta… é armazenado como gordura. Mas não em qualquer lugar. Onde o ácido está: na barriga. Isso é o apagão: sem sinal, sem queima, tudo armazenado.
+**DRA. JORDAN:** [ABT] Ele pensa: eu nunca estou saciado, a comida deve estar escassa, armazene tudo. Então tudo o que você come, uma salada, um bife, até uma fruta… é armazenado como gordura. Mas não em qualquer lugar. Onde o ácido está: na barriga. É a barriga que você vê de manhã. Inchada. Maior a cada ano. Mole ao toque.
+
+**SUNNY [CUT, two-shot]:** Aquela barriga alta. Tipo… cadê os meus pés? Sério, pela primeira vez na vida: cadê os meus pés?
+
+**DREW:** Eu sou formato de maçã. É tudo aqui.
+
+**SUNNY:** Eu me emparelhei, querida. [RISO]
 
 ## 6.2b — "Não importa" [25] [AM 6.2]
 
@@ -53,7 +65,7 @@ Como é que isso está vencendo medicamentos que a Big Pharma cobra milhares de 
 
 **DREW:** Então você está dizendo que não é disciplina? Porque eu acho que muitas de nós passaram anos se culpando. [transição 24→25, AM-079]
 
-**DRA. JORDAN:** Exatamente. [ABT] E tem um detalhe que ninguém conta. Cada uma dessas coisas que você tentou piorou a noite. O jejum deixa o estômago vazio por mais horas: mais ácido à noite. O keto encolhe o jantar: a mesma coisa. A academia pesada sobe o cortisol: o ácido do estresse. Então cada tentativa certa… fez a noite errada. [P2, da SodaTide; marcado como ângulo]
+**DRA. JORDAN:** Exatamente. [ABT] E tem um detalhe cruel. Cada uma dessas coisas que você tentou azedou mais o solo. O jejum deixa o estômago vazio por mais horas: mais ácido. O keto encolhe a refeição: a mesma coisa. A academia pesada sobe o cortisol: o ácido do estresse. Então cada tentativa certa… azedou o solo errado. [ângulo; a noite fica para o MUS]
 
 **SUNNY:** Eu não quero fazer academia mesmo. [RISO; vídeo base]
 
@@ -65,25 +77,19 @@ Como é que isso está vencendo medicamentos que a Big Pharma cobra milhares de 
 
 **DRA. JORDAN:** Você e mais da metade das mulheres depois dos 40. [GT-127] Se você tem três desses, você está no apagão.
 
-**SUNNY [CUT, two-shot]:** Aquela barriga alta. Tipo… cadê os meus pés? Sério, pela primeira vez na vida: cadê os meus pés?
-
-**DREW:** Eu sou formato de maçã. É tudo aqui.
-
-**SUNNY:** Eu me emparelhei, querida. [RISO]
-
 ## 6.3 — Absolvição [25/26] [AM 6.3]
 
-**DRA. JORDAN:** [ABT] Não porque você é fraca. Não porque falta força de vontade. Mas porque, sem esses hormônios funcionando, não importa o quanto você se esforce. O seu corpo começa a lutar contra você. E segura cada libra como se a vida dele dependesse disso. [PP: luta]
+**DRA. JORDAN:** [ABT] Não porque você é fraca. Não porque falta força de vontade. Mas porque, com as sementes dormindo, não importa o quanto você se esforce. O seu corpo começa a lutar contra você. E segura cada libra como se a vida dele dependesse disso. [PP: luta]
 
 **VALERIE:** É exatamente assim que eu me sentia. Por décadas, eu achei que alguma coisa estava quebrada dentro de mim.
 
 ## 7.1 — Por que a injeção falha [27] [AM 7.1 + concessão]
 
-**DRA. JORDAN:** E é por isso que a Valerie perdeu peso tão rápido no Ozempic. Pela primeira vez em décadas, o cérebro dela estava recebendo o sinal: você está satisfeita, pare de guardar, comece a queimar. Pareceu um milagre. E eu quero ser justa aqui: [transição 26→27, concessão obrigatória] esses remédios mudaram a vida de muitas mulheres. Ninguém pode negar isso. [fala real da Dra. Jordan no vídeo base] Mas eles não ativam o seu GLP-1 e o seu GIP. Eles substituem, com versões sintéticas. [ABT] E é exatamente aí que mora o perigo. Porque o seu corpo pensa: por que eu produziria esses hormônios, se eles já chegam toda semana? Então o seu corpo desliga. Para de produzir. O resultado? Enquanto você injeta, você perde. Mas no momento em que para, o corpo esqueceu como fazer o trabalho dele. E a noite continua lá. Nada mudou às dez da noite. Então vem o rebote.
+**DRA. JORDAN:** E é por isso que a Valerie perdeu peso tão rápido no Ozempic. Pela primeira vez em décadas, o cérebro dela estava recebendo o sinal: você está satisfeita, pare de guardar, comece a queimar. Pareceu um milagre. E eu quero ser justa aqui: [transição 26→27, concessão obrigatória] esses remédios mudaram a vida de muitas mulheres. Ninguém pode negar isso. [fala real da Dra. Jordan] Mas eles não ativam o seu GLP-1 e o seu GIP. Eles substituem, com versões sintéticas. [ABT] E é exatamente aí que mora o perigo. Porque o seu corpo pensa: por que eu produziria esses hormônios, se eles já chegam toda semana? Então o seu corpo desliga. Para de produzir. E tem uma coisa que a caneta não faz: ela não toca no solo. O intestino continua azedo. As sementes continuam dormindo. O resultado? Enquanto você injeta, você perde. Mas no momento em que para, o corpo esqueceu como fazer o trabalho dele, e o solo está igual. Então vem o rebote.
 
 **SUNNY:** Espera. Pior do que antes de começar? [eco, AM-087]
 
-**DRA. JORDAN:** Não sou eu quem está dizendo. Está impresso na bula. [lê 3 itens do rótulo oficial; a conferir no rótulo vigente] [P3]
+**DRA. JORDAN:** Não sou eu quem está dizendo. Está impresso na bula. [lê 3 itens do rótulo oficial; a conferir] [P3]
 
 **DREW:** E você teria que ficar nisso pra sempre?
 
@@ -91,11 +97,15 @@ Como é que isso está vencendo medicamentos que a Big Pharma cobra milhares de 
 
 ## 7.2 — Recapitulação da âncora [28] [AM 7.2]
 
-**DREW:** Então deixa eu ver se eu entendi. [transição 27→28, AM-089] Depois dos 40 o escudo cai, as luzes apagam, isso é o apagão do estrogênio. As injeções substituem os seus hormônios, o seu corpo desliga, e no momento em que você para, volta tudo. Mas você está dizendo que uma pitada de bicarbonato, na hora certa, pode acender [PP] as luzes de novo? Como é que isso é possível?
+**DREW:** Então deixa eu ver se eu entendi. [transição 27→28, AM-089] Depois dos 40 o escudo cai. O intestino azeda. As sementes dormem. As injeções entregam o sinal pronto, mas não consertam o solo, e no momento em que você para, volta tudo. Mas você está dizendo que uma pitada de bicarbonato pode acender [PP] as luzes de novo? Como é que isso é possível?
 
-**DRA. JORDAN:** Isso mesmo. E é aqui que fica interessante. A sua avó já sabia metade da resposta. [transição 28→29, abre o MUS]
+**DRA. JORDAN:** Isso mesmo. E é aqui que fica interessante. A sua avó já sabia metade da resposta. A outra metade… ninguém te contou. [transição 28→29, abre o MUS; a "outra metade" é a hora]
 
 ---
+
+### Notas de modelagem (v2, 26/11)
+- Decisão: o ácido e o jardim sobem para o MUP (escudo cai → intestino azeda → sementes dormem → apagão), para que o 25 ("cada tentativa azedou mais o solo") e o 27 ("a caneta não toca no solo") tenham base. O **relógio do ácido, a noite e os três copos ficam no MUS** como a explicação nova; por isso o 25 e o 28 não citam a noite, e a Dra. Jordan fecha com "a outra metade ninguém te contou".
+- Notas da v1 mantidas abaixo.
 
 ### Notas de modelagem (v1)
 - Ordem e função idênticas à AlkaMelt 5.3 → 7.2: apresentação de autoridade pela âncora → "pela primeira vez, não voltou" → "Baking soda, really?" → GLP-1/GIP e o refrão → "mas aqui está o problema" (causa) → pânico e "guarda tudo" → "não importa" ×3 → "não é disciplina?" → sintomas → "não porque você é fraca" → "alguma coisa quebrada dentro de mim" → por que a injeção falha → eco → "deixa eu ver se eu entendi" → "a sua avó já sabia".
