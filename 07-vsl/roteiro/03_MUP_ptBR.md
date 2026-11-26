@@ -54,7 +54,7 @@
 
 ## 6.7 — O pânico e a barriga [I, J] [AM 6.2]
 
-**DRA. JORDAN:** [ABT] Ele pensa: eu nunca estou saciado, a comida deve estar escassa, armazene tudo. Então tudo o que você come, uma salada, um bife, até uma fruta… é armazenado como gordura. [I] Mas não em qualquer lugar. Onde o ácido está: na barriga. É a barriga que você vê de manhã. Inchada. Maior a cada ano. Mole ao toque. [J]
+**DRA. JORDAN:** [ABT] Ele pensa: eu nunca estou saciado, a comida deve estar escassa, armazene tudo. Então tudo o que você come, uma salada, um bife, até uma fruta… é armazenado como gordura. [I] Mas não em qualquer lugar. Onde o ácido está: na barriga. É a barriga que você vê no fim do dia. Inchada. Maior a cada ano. Mole ao toque. [J]
 
 **SUNNY [CUT, two-shot]:** Aquela barriga alta. Tipo… cadê os meus pés? Sério, pela primeira vez na vida: cadê os meus pés?
 
