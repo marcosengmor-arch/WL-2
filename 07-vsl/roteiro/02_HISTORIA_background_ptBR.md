@@ -1,28 +1,28 @@
-# ROTEIRO — Bloco 2: HISTÓRIA + entrada da expert — v7 (texto do usuário de 26/11 com a revisão de flow aplicada)
+# ROTEIRO — Bloco 2: HISTÓRIA + entrada da expert — v8 (v7 + dez upgrades de flow, metáfora e palavras de poder)
 
 **Base:** a versão editada pelo usuário em 26/11 (Drew abre; Sunny Anderson como coapresentadora; "ritual alcalino de $1" com bicarbonato, casca de limão e mais dois ingredientes; a cena dos 15 anos com duas pessoas da produção; a progressão cronológica; a entrada da Dra. Jordan). **O que esta revisão faz:** mantém cada fala e a ordem do usuário; mexe só em flow, ritmo, metáfora, DNA do controle, dinâmica de fala, palavras de poder e intensidade. Mudanças marcadas com ▲ no fim do parágrafo e explicadas nas notas. Três pontos de decisão (não de estilo) estão no fim.
 
 ---
 
 **[Drew Barrymore]**
-Ok, queridas, estamos de volta com a Valerie Bertinelli, que está vivendo a melhor fase da vida dela. Agora, e sempre. Quatro décadas lutando com o peso. Em público. E ela diz que tudo mudou com um único momento de "ah, é isso". ▲1
+Ok, queridas, estamos de volta com a Valerie Bertinelli, que está vivendo a melhor fase da vida dela. Aos 66. E vai contar como. Quatro décadas lutando com o peso. Em público. E ela diz que tudo mudou com um único momento de "ah, é isso". ▲1
 
 **[Sunny Anderson]**
 Ai, gente, sim. E ela vai abrir o jogo sobre a jornada inteira. O peso que chegou ao máximo depois dos 40. As libras que ela perdeu com a Jenny Craig, a empolgação, a capa de revista. E aí o Ozempic… e o que aconteceu quando ela parou. Voltou tudo. Mas ela diz que esse não é o fim da história.
 
 **[Drew Barrymore]**
-Hoje ela está compartilhando um ritual simples de antes de dormir. O ritual alcalino de $1. Bicarbonato de sódio, casca de limão, e segundo ela, está despertando os mesmos hormônios que o Ozempic atinge. Mas dessa vez: sem injeção. Sem receita. Só uma coisa que você pode fazer hoje à noite, com o que já está na sua cozinha. ▲2
+Hoje ela está compartilhando um ritual simples de antes de dormir. O ritual alcalino de $1. Bicarbonato de sódio, casca de limão, e segundo ela, está religando os mesmos hormônios que o Ozempic liga por você… só que pelas suas próprias mãos. Mas dessa vez: sem injeção. Sem receita. Só uma coisa que você pode fazer hoje à noite, com o que já está na sua cozinha. ▲2
 A gente vai conversar sobre tudo isso daqui a pouco. Mas antes… mais sobre a jornada da Valerie. Desde que entrou na TV, aos 15 anos, a Valerie Bertinelli nunca escondeu a luta com o peso.
 
 **[Sunny Anderson]**
 Por 40 anos, ela levou o público junto. Dietas, determinação e dúvida.
 
 **[Drew Barrymore]**
-Agora, depois de anos de autoculpa, a ciência levou a Valerie a um entendimento novo. Obesidade é uma doença crônica. Não é uma falha pessoal.
+Agora, depois de anos de autoculpa, a ciência levou a Valerie a um entendimento novo. Obesidade é uma doença crônica. Não é uma falha pessoal. É como um termostato quebrado. Você pode abrir todas as janelas da casa. O calor não muda.
 
 **[Valerie Bertinelli]**
 Ninguém acorda um dia e decide ter obesidade, querida. Eu não acordei aos 46 e decidi que a minha barriga ia mudar de lugar. Eu notei o peso quando entrei na menopausa. Eu fazia tudo certo. Mas ele não cedia.
-E não era só sobre ser magra. Era sobre conseguir subir uma escada. Foi aí que eu entendi que alguma coisa tinha mudado em mim. E não era a minha vontade. ▲3
+E não era só sobre ser magra. Era sobre conseguir subir uma escada. Foi aí que eu entendi: a menopausa não trouxe peso. Ela trocou a fechadura. E as minhas chaves antigas, a dieta, a caminhada, a força de vontade, não abriam mais. ▲3
 
 **[Sunny Anderson]**
 Semanas depois de completar 66 anos, a Valerie diz que, pela primeira vez na vida, está livre. Não por força de vontade. Não por injeção. Mas por algo que ela bebe toda noite, antes de dormir.
@@ -34,14 +34,14 @@ Mas antes eu só quero ouvir de você. Depois de todos esses anos, todas as diet
 
 **[Valerie Bertinelli]**
 É acordar e a primeira coisa que eu penso não ser "quanto eu peso". É não ficar pensando no que vou comer no café. E se comi no café, agora não posso almoçar. Ou vou pular uma refeição.
-É o barulho na cabeça. Aquele barulho de comida que toda mulher que passou por isso conhece. Mas a gente não sabia que era um barulho. Então eu com certeza não sabia que quem não tem obesidade… não tem isso. ▲6
+É o barulho na cabeça. Um rádio ligado o dia inteiro, numa estação só: comida. Toda mulher que passou por isso conhece. Mas a gente não sabia que era um barulho. Então eu com certeza não sabia que quem não tem obesidade… não tem isso. ▲6
 Então, se você está me ouvindo agora e não sabe do que eu estou falando, você provavelmente não tem. Mas se você está ouvindo e pensando "meu Deus, isso acontece comigo também"… Quando você está literalmente parada na frente da geladeira, 10 da noite, pensando no que vai comer depois.
 
 **[Drew Barrymore]**
 Eu. Ontem. ▲7
 
 **[Valerie Bertinelli]**
-Ou pensando no amanhã, e no dia seguinte, e no outro. Ou planejando a ceia de Natal uma semana antes. E pensando: vou exagerar? E como eu tiro isso depois? Esse barulho constante, constante, constante… ficou mudo. Isso foi o que mudou tudo pra mim. ▲8
+Ou pensando no amanhã, e no dia seguinte, e no outro. Ou planejando a ceia de Natal uma semana antes. E pensando: vou exagerar? E como eu tiro isso depois? Esse rádio constante, constante, constante… desligou. Isso foi o que mudou tudo pra mim. ▲8
 E a liberdade nova é entender que todos aqueles anos em que eu sofri, estava nos tabloides toda semana, era a piada de todo mundo… eu achava que era falta de força de vontade. Mas não era. E sabe o que é mais louco? Eu precisei de 40 anos pra descobrir isso.
 O que há de errado comigo, que eu consigo tanta coisa e não consigo vencer isso? Hoje eu sei que não era força de vontade. O que era, a Dra. Jordan vai explicar daqui a pouco. E tem tudo a ver com a sua biologia.
 
@@ -51,27 +51,27 @@ Eu acho que muitas de nós, todas nós, e não precisa ter obesidade pra isso, t
 **[Valerie Bertinelli]**
 Sim. E sabe o que é? Eu só percebi muitos anos depois que aquele foi o momento. Eu tinha 15 anos, era o set de One Day at a Time. Duas pessoas da produção me puxaram de lado. A primeira disse: "você vai sair da série se não começar a perder esse peso hoje". [DRAM: ver decisão 2]
 E a segunda respondeu antes que eu abrisse a boca: "ela não vai conseguir. Ela vai ser grande pra sempre". Na frente de todo mundo. E eu fiquei tipo: o quê? Eu era uma menina. ▲9
-Eu fiquei com vergonha naquele momento. Mas eu não percebi, até muitos anos depois, que ficou. Então toda vez que eu começava outra dieta, eu ia… eu ouvia de novo: você sempre vai ser grande. Você sempre vai ser grande. Você sempre vai ser grande. ▲10
+Eu fiquei com vergonha naquele momento. Mas eu não percebi, até muitos anos depois, que ficou. Então toda vez que eu começava outra dieta, eu ia… eu ouvia de novo: você sempre vai ser grande. Você sempre vai ser grande. Você sempre vai ser grande. Cinquenta anos. A mesma voz. Em cada dieta. ▲10
 
 **[Sunny Anderson]**
 15 anos. Uma menina.
 
 **[Valerie Bertinelli]**
-E eu tentei perder todo aquele peso. Nos anos 80 eu emagreci de um jeito que não era saúde. Eu já falei disso em público: eu fiz coisas pra não sentir fome que nenhuma menina deveria fazer. Fiquei magra. Magra demais. E todo mundo achou lindo. ▲11
+E eu tentei perder todo aquele peso. Nos anos 80 eu emagreci de um jeito que não era saúde. Eu já falei disso em público: eu fiz coisas pra não sentir fome que nenhuma menina deveria fazer. Fiquei magra. Magra demais. E todo mundo achou lindo. Ninguém perguntou o preço. ▲11
 
 **[Drew Barrymore]**
 Ai, Valerie.
 
 **[Valerie Bertinelli]**
 Por fora, a capa da revista. Por dentro, a voz. ▲12
-Mas depois que virei mãe, o meu corpo mudou de novo. E aí vieram os problemas pessoais, e o peso veio junto. Eu fazia tudo que mandavam. Mas o ponteiro subiu até 172 libras, depois dos 40, e parou lá. ▲13
+Mas depois que virei mãe, o meu corpo mudou de novo. E aí vieram os problemas pessoais, e o peso veio junto. Eu fazia tudo que mandavam. Mas o ponteiro subiu até 172 libras, depois dos 40. E se sentou lá. Como quem não ia embora. ▲13
 
 **[Sunny Anderson]**
 Mas você perdeu peso com a Jenny Craig em 2007, não foi?
 
 **[Valerie Bertinelli]**
 Sim, querida. Eu ainda tenho o biquíni da capa da People no fundo do armário. 47 libras a menos. O país inteiro viu o peso ir. E o país inteiro viu ele voltar. Tentei Weight Watchers. 1.200 calorias. Caminhada. Keto. Mas nada funcionava depois que eu entrei na menopausa.
-Mesmo comendo pouco, o peso subia. E com juros. Era como se o meu corpo lembrasse o caminho de volta. Então, aos 60, 61, quando eu perdi os meus pais, e o Eddie, o peso voltou com tudo. E a noite virou o pior lugar da casa. Eu acordava com a camisola encharcada. Três da manhã. Cozinha. Geladeira. ▲14
+Mesmo comendo pouco, o peso subia. E com juros. Era como se o meu corpo lembrasse o caminho de volta. E chegasse em casa antes de mim. Então, aos 60, 61, quando eu perdi os meus pais, e o Eddie, o peso voltou com tudo. E a noite virou o pior lugar da casa. Eu acordava com a camisola encharcada. Três da manhã. Cozinha. Geladeira. ▲14
 
 **[Drew Barrymore]**
 Então você tentou os medicamentos. Você foi aberta sobre isso. Ozempic, Mounjaro. Você perdeu o peso, estava se sentindo bem… mas aí parou. O que aconteceu?
@@ -100,7 +100,7 @@ Ela disse: olha, esses remédios estão imitando hormônios que o seu corpo já 
 E foi aí que ela me contou do ritual alcalino de $1. Bicarbonato de sódio, casca de limão e mais dois ingredientes. E o detalhe que muda tudo: tem que ser preparado e tomado antes de dormir. Ela me perguntou: "A que horas você tomava o da internet?" "De manhã." "Então você nunca tomou de verdade." Eu ri. ▲18
 
 **[Sunny Anderson]**
-E por falar na Dra. Jordan, ela está aqui com a gente hoje.
+E por falar na Dra. Jordan… ela está aqui. E ela trouxe a receita inteira.
 A Dra. Kathleen Jordan é especialista em obesidade, formada pela UCLA e por Stanford. Foi diretora médica de hospital em San Francisco. Hoje é diretora médica e cofundadora da Midi Health, uma clínica avançada que atende mulheres em todo o país. [credencial a conferir no contrato]
 Nos bastidores, ela é a médica das atrizes de Hollywood que estão passando, ou já passaram, pela menopausa. Celebridades acima dos 40 que tomaram as injeções, perderam peso, pararam… e recuperaram mais do que tinham perdido. ▲19
 
@@ -136,6 +136,9 @@ Como é que isso está vencendo medicamentos que a Big Pharma cobra milhares de 
 18. **O diálogo da hora** ("A que horas você tomava o da internet?"… "Eu ri."): carrega a big idea dentro da história antes da aula; estava na v6 e tinha saído. "Tomado" no lugar de "ingerido" (palavra dela, não de bula).
 19. **"estão passando, ou já passaram"** com vírgulas de fala; "Celebridades acima dos 40" sem o "Atende", que repetia.
 20. **"preparado e tomado"** e "Bicarbonato? Sério?" com a interrogação dupla: pergunta paradoxal no ritmo da AlkaMelt ("Baking soda, really?"). Corrigidos "prepararo", "pesso", "Dr." → "Dra.".
+
+### v8 — dez upgrades aplicados (26/11)
+"Aos 66. E vai contar como." · "religando… pelas suas próprias mãos" · termostato quebrado · a menopausa trocou a fechadura · o rádio numa estação só → "desligou" · "Cinquenta anos. A mesma voz. Em cada dieta." · "Ninguém perguntou o preço." · o ponteiro "se sentou lá" · "chegasse em casa antes de mim" · "ela trouxe a receita inteira". Palavras de poder no bloco: religar, desligou, trocou a fechadura, o preço, se sentou, chegasse antes (6 em ~1.400 palavras).
 
 ### Três decisões suas (não são de estilo)
 1. **Casca de limão.** A cadeia do mecanismo (ponto 19/34: "comer certo piorou": limão, vinagre, café) usa o limão como exemplo de ácido que piora a noite, e a V2 do mecanismo diz "sem limão, sem gelo (as versões de 25 anos)". Se a casca de limão entra na receita, o MUS precisa explicar a diferença (casca ≠ suco; a casca não é a parte ácida) ou tirar o limão da lista de vilões. Decidir antes do MUS.
