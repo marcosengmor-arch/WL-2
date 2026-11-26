@@ -29,7 +29,11 @@ Como é que isso está vencendo medicamentos que a Big Pharma cobra milhares de 
 
 **DREW:** Tá. Isso faz sentido.
 
-**DRA. JORDAN:** [ABT] Então, quando esses hormônios estão funcionando, emagrecer fica quase automático. Mas aqui está o problema. [transição 22→23, AM-074] Anos de estresse, comida ultraprocessada, açúcar, remédio… tudo isso vai desligando [PP] o seu estrogênio aos poucos. E depois dos 40, isso se agrava. O estrogênio, que por trinta anos foi o escudo do seu intestino, cai. [23]
+**DRA. JORDAN:** [ABT] Então, quando esses hormônios estão funcionando direito, emagrecer fica quase automático. Mas aqui está o problema. [transição 22→23, AM-074] Estresse crônico, comida ultraprocessada, e a queda hormonal que acontece depois dos 40: tudo isso desliga, em silêncio, a sua produção de GLP-1 e GIP. Sem você nem perceber. [AM 6.1, literal] [23]
+
+**DREW:** Espera. Desliga? Por quê?
+
+**DRA. JORDAN:** Porque a queda hormonal depois dos 40 não é só calor e sono ruim. [ABT] Por trinta anos, o estrogênio foi o escudo do seu intestino. E o estresse, o açúcar, o ultraprocessado vão gastando esse escudo aos poucos. Mas depois dos 40 ele cai de vez. E quando o escudo cai, as células que fabricam o GLP-1 e o GIP apagam junto. [nosso acréscimo: a causa por trás do "desliga" da AlkaMelt]
 
 ## 6.1b — O batismo [23] [CARTELA: The Estrogen Blackout]
 
@@ -37,11 +41,11 @@ Como é que isso está vencendo medicamentos que a Big Pharma cobra milhares de 
 
 **SUNNY:** O apagão do estrogênio? [transição 23→24, eco]
 
-**DRA. JORDAN:** Exatamente. E quando as luzes apagam, o seu corpo entra em pânico.
+**DRA. JORDAN:** Exatamente. E quando isso acontece, você começa a ganhar peso. [AM 6.2, literal] O que acontece? O seu corpo entra em pânico.
 
 ## 6.2 — O corpo em pânico [24] [AM 6.2]
 
-**DRA. JORDAN:** [ABT] O corpo pensa: eu nunca fico satisfeito, a comida deve estar acabando, guarda tudo. Então tudo que você come, uma salada, um bife, até uma fruta… vira gordura guardada. Mas não guardada em qualquer lugar. Guardada onde o ácido está: na barriga. Isso é o apagão: sem sinal, sem queima, tudo armazenado.
+**DRA. JORDAN:** [ABT] Ele pensa: eu nunca estou saciado, a comida deve estar escassa, armazene tudo. Então tudo o que você come, uma salada, um bife, até uma fruta… é armazenado como gordura. Mas não em qualquer lugar. Onde o ácido está: na barriga. Isso é o apagão: sem sinal, sem queima, tudo armazenado.
 
 ## 6.2b — "Não importa" [25] [AM 6.2]
 
@@ -99,4 +103,5 @@ Como é que isso está vencendo medicamentos que a Big Pharma cobra milhares de 
 - Voz: Dra. Jordan abre com "Antes de tudo" (First of all), um termo técnico por vez com tradução (GLP-1/GIP → o sinal; Blackout → apagão); Drew pergunta leiga e confessa ("eu nem sei o que esses remédios fazem", "é exatamente o que eu sinto", "formato de maçã"); Sunny uma linha por vez ("O apagão do estrogênio?", "Eu não quero fazer academia mesmo", "cadê os meus pés", "Pior do que antes de começar?").
 - Cotas: "Exatamente" ×2 (limite do bloco), "aqui está o problema" ×1, "deixa eu ver se eu entendi" ×1; palavras de poder: desligando, luta, acender (3 em ~1.100 palavras).
 - v1.1: a big idea entra na apresentação (5.3): médica de Hollywood 40+ que viu as injeções devolverem mais peso do que tiraram; o ritual como solução natural com preparo único; golpistas vazaram a versão errada; ela veio contar a verdadeira, com apoio da Midi (ponto 7 da tabela). "Atrizes que você conhece" sem nomes: dramatização.
+- v1.2 (26/11): o "desliga silenciosamente a produção de GLP-1 e GIP sem você perceber" e o "quando isso acontece, você começa a ganhar peso" da AlkaMelt voltaram literais (6.1 e 6.1b); o escudo entra como a causa por trás do "desliga", na pergunta leiga da Drew ("Desliga? Por quê?").
 - Pendências: credenciais exatas da Dra. Jordan no contrato (5.3); [X] lb em [Y] meses com tipicidade (5.3); os 3 itens do rótulo vigente (7.1); a razão por método (25) é ângulo, não alegação, e deve ser gravada como "here's what we believe is happening" na versão EN.
