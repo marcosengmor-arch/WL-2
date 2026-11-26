@@ -27,7 +27,7 @@ Ok, mas então como a minha avó passou pela menopausa com a cintura fina?
 
 **[Dra. Kathleen Jordan]**
 Porque em 1945 a obesidade não existia. A comida que ia pra mesa da família era de verdade. Sem as quantidades absurdas de toxinas que a maioria dos americanos engole hoje. O escudo de estrogênio do intestino dela estava inteiro. E a fábrica de GLP-1 e GIP estava a todo vapor.
-Hoje a situação virou de cabeça pra baixo. Uma em cada duas mulheres americanas está obesa. Porque décadas de desgaste do escudo do intestino desligaram a fábrica de queima de gordura do corpo. E o pior de tudo: quando isso acontece, o intestino inflama. E fica ácido. Muito ácido. ▲3
+Hoje a situação virou de cabeça pra baixo. Uma em cada duas mulheres americanas está obesa. Porque décadas de desgaste foram derrubando o escudo do intestino. E o pior de tudo: quando o escudo cai, o intestino inflama. E fica ácido. Muito ácido. ▲3 ▲13
 
 **[Drew Barrymore]**
 Ok, mas por que essa é a pior parte?
@@ -80,7 +80,7 @@ Sim. Foi exatamente o que aconteceu comigo.
 
 **[Drew Barrymore]**
 Então deixa eu ver se eu entendi.
-Depois dos 40, o escudo cai. O intestino azeda. As sementes adormecem. As injeções substituem os seus hormônios, mas não tiram o ácido, o corpo desliga, e no momento em que você para, tudo volta. ▲12
+Depois dos 40, o escudo cai. O intestino azeda. Os hormônios adormecem. As injeções substituem os seus hormônios, mas não tiram o ácido, o corpo desliga, e no momento em que você para, tudo volta. ▲12
 Mas você está dizendo que esse ritual alcalino de bicarbonato consegue, de fato, reiniciar o sistema inteiro? Como isso é possível?
 
 **[Dra. Kathleen Jordan]**
@@ -100,6 +100,7 @@ Isso mesmo. E é aqui que fica interessante. A sua avó já sabia metade da resp
 9. **Pessoa:** "você perdeu… o cérebro da Valerie" virou "você perdeu… Valerie" + "o seu cérebro": a Dra. Jordan fala com ela, e a espectadora ouve.
 10. **"Sintéticas"** → "de laboratório" (nível de linguagem); a fala do corpo entre aspas, como a outra.
 11. **"Elimina a acidez"** → "tira o ácido" (verbo simples); o parágrafo quebrado em frases curtas até "Então vem o rebote."
-12. **Recapitulação da Drew:** "Os hormônios adormecem" → "As sementes adormecem" (a imagem que ela ouviu); "não consertam a acidez" → "não tiram o ácido" (mesmo verbo da Dra. Jordan: a recap repete as palavras da aula, como na AlkaMelt).
+12. **Recapitulação da Drew:** "Os hormônios adormecem" mantido como o usuário escreveu; "não consertam a acidez" → "não tiram o ácido" (mesmo verbo da Dra. Jordan).
+13. **Nó lógico (26/11):** o parágrafo de 1945 dizia "fábrica desliga → intestino azeda" e o jardim dizia o contrário. Agora a seta é uma só: escudo cai → intestino azeda → células dormem → fábrica desliga.
 
-Mantidos como você decidiu: 1945 e a obesidade; "uma em cada duas"; "5 vezes mais difícil"; a fábrica; "mais ácido à noite"; a Valerie com a fala da barriga; sem cartela de batismo neste bloco.
+Mantidos como você decidiu: a Drew sem confissão de peso (quem era gorda é a Valerie); 1945 e a obesidade; "uma em cada duas"; "5 vezes mais difícil"; a fábrica; "mais ácido à noite"; a Valerie com a fala da barriga; sem cartela de batismo neste bloco.
