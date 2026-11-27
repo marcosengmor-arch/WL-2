@@ -12,13 +12,13 @@ Olha, o bicarbonato de sódio existe desde sempre. A sua avó provavelmente usav
 Mas aqui está o que a maioria das pessoas não sabe. Quando ele chega no seu intestino, ele faz uma coisa única: ele **neutraliza** o ácido. O mesmo ácido que estava desligando a sua produção de hormônios, lá no começo de tudo.
 É por isso que essa receita simples, que as pessoas agora chamam de ritual alcalino de bicarbonato, é tão poderosa. Ela vai direto ao intestino. Sobe o pH. E neutraliza aquele ácido. ▲2
 E esse ácido não só desliga a fábrica de GLP-1 e GIP. Ele **inflama** o intestino. E o corpo, sem o escudo, se protege do único jeito que sabe: cerca o intestino de gordura. Como um acolchoado.
-É por isso que a sua barriga está inchada. Maior a cada ano. E mole ao toque. Isso tem nome. **Menopause Acid Belly.** ▲3
+É por isso que a sua barriga está inchada. Maior a cada ano. E mole ao toque. Você sente isso quando tira o jeans à noite. [H1] Isso tem nome. **Menopause Acid Belly.** ▲3
 
 **[Drew Barrymore]**
 Então a barriga que só cresce… é o corpo se defendendo?
 
 **[Dra. Kathleen Jordan]**
-Sim. Se defendendo de um ácido que ninguém tirou de lá. Mas no momento em que o ácido baixa, o intestino desincha. O corpo para de acolchoar. E as suas células L adormecidas finalmente **acordam**. ▲4
+Sim. Se defendendo de um ácido que ninguém tirou de lá. Não é você. É o solo. [H2] Mas no momento em que o ácido baixa, o intestino desincha. O corpo para de acolchoar. E as suas células L adormecidas finalmente **acordam**. ▲4
 De repente, o jardim volta a crescer. O seu corpo começa a produzir GLP-1 e GIP sozinho, do jeito que sempre deveria. Não sintético. Não de uma agulha. Os seus próprios hormônios, produzidos pelo seu próprio corpo.
 
 **[Sunny Anderson]**
@@ -37,7 +37,7 @@ Claro! Eu amo quando tem demonstração.
 
 **[Dra. Kathleen Jordan]**
 Olha esses dois recipientes. Idênticos. ▲5
-Os dois representam o fluido do intestino que existe no seu corpo hoje. Depois dos 40, com a queda do estrogênio e a comida processada, o intestino fica cada vez mais ácido. E mais amarelado. Quase verde, como você está vendo. Esse é o intestino de uma mulher que não consegue emagrecer. Dieta, academia… nada funciona.
+Os dois representam o fluido do intestino que existe no seu corpo hoje. Depois dos 40, com a queda do estrogênio e a comida processada, o intestino fica cada vez mais ácido. E mais amarelado. Quase verde, como você está vendo. Esse é o intestino de uma mulher que não consegue emagrecer. E se você é como a maioria das mulheres que me procuram, você já tentou de tudo. Dieta, academia… nada funciona. [H3]
 
 **[Sunny Anderson]**
 Uau. Olha a cor disso. Amarelo, quase verde. Parece que azedou.
@@ -51,14 +51,14 @@ Então o vermelho mostra que o intestino está muito ácido.
 
 **[Dra. Kathleen Jordan]**
 Exato. Vermelho significa perigosamente ácido. Exatamente o tipo de ambiente desequilibrado onde os seus hormônios queimadores de gordura não conseguem ser produzidos.
-Agora presta atenção, porque é aqui que a maioria das mulheres erra. Os dois recipientes são o mesmo intestino. A diferença entre eles é o horário. O recipiente 1 é o seu intestino às 7 da manhã. E o recipiente 2… às 10 da noite. ▲7
+Agora presta atenção, porque é aqui que a maioria das mulheres erra. E é por isso que eu trouxe dois recipientes, e não um. [H4] Os dois recipientes são o mesmo intestino. A diferença entre eles é o horário. O recipiente 1 é o seu intestino às 7 da manhã. E o recipiente 2… às 10 da noite. ▲7
 
 **[Valerie Bertinelli]**
 Espera. O mesmo intestino, em duas horas do dia?
 
 **[Dra. Kathleen Jordan]**
 O mesmo. Porque o ácido tem **relógio**. De manhã, está no ponto mais baixo. Mas no fim da noite, com o estômago vazio, chega no ponto mais alto. Isso é medido desde 1970. E depois dos 40, a sua noite é pior que a de todo mundo. ▲8
-O calor. O sono quebrado. O cortisol. O jantar leve, porque você está "sendo boazinha". Então o pico fica mais alto. E mais longo. Olha a diferença de cor.
+O calor. O sono quebrado. O cortisol. O jantar leve, porque você está "sendo boazinha". Então o pico fica mais alto. E mais longo. E você passa a noite inteira em cima dele. [H5] Olha a diferença de cor.
 Mas agora olha o que acontece quando a gente adiciona bicarbonato de sódio ao fluido das 7 da manhã.
 
 **[Sunny Anderson]**
@@ -129,7 +129,7 @@ Porque o seu corpo **destrói** o GLP-1 e o GIP incrivelmente rápido. Existe um
 É por isso que os remédios de receita usam doses tão enormes. Eles tentam sobrecarregar o sistema antes que a DPP-4 destrua tudo. Mas e se você pudesse **frear** essa enzima? É aí que entra o segundo ingrediente: o gengibre.
 O gengibre é usado há séculos na medicina asiática pra digestão, náusea, inflamação. Mas o que a maioria das pessoas não sabe é que ele contém um composto bioativo chamado gingerol. E o gingerol é um dos inibidores de DPP-4 mais poderosos da natureza.
 Na verdade, um estudo do Journal of Medicinal Food descobriu que o gingerol inibe a atividade da DPP-4 em até 93%.
-Então, quando você coloca extrato concentrado de gingerol no seu sistema, ele bloqueia essa enzima. Desliga a DPP-4. E de repente o GLP-1 e o GIP que o seu corpo está produzindo… **ficam**. Eles têm tempo de chegar ao seu cérebro e entregar a mensagem: ei, estamos bem, pare de comer, comece a queimar. ▲15
+Então, quando você coloca extrato concentrado de gingerol no seu sistema, ele bloqueia essa enzima. Desliga a DPP-4. E de repente o GLP-1 e o GIP que o seu corpo está produzindo… **ficam**. Eles têm tempo de chegar ao seu cérebro e entregar a mensagem: ei, estamos bem, pare de comer, comece a queimar. É a mensagem que você passou anos esperando ouvir às dez da noite, na frente da geladeira. [H6] ▲15
 
 **[Sunny Anderson]**
 Então o gengibre basicamente está protegendo os hormônios?
@@ -144,7 +144,7 @@ Interruptor metabólico? Como assim?
 **[Dra. Kathleen Jordan]**
 Pensa assim. Toda vez que você come, o seu corpo tem que decidir: eu queimo isso pra energia, ou eu guardo como gordura? E existe uma enzima, a AMPK, que toma essa decisão. É o seu interruptor. Quando ela está ativa, ela diz: queima, usa, vira energia.
 E é aí que você se sente bem. Com energia. Sem se arrastar. Parecendo você mesma de novo. Mas quando a AMPK desacelera, aquela mesma refeição, não importa se é salada ou bife, vai direto pra gordura. Você fica cansada, lenta, pesada. E começa a ver na barriga, no quadril, nas coxas. ▲16
-E aqui está o problema: depois dos 40, a atividade da AMPK cai naturalmente. Soma estresse, sono ruim, anos de ultraprocessado, e pra maioria das mulheres o interruptor simplesmente **trava**. Travado no modo de armazenamento.
+E aqui está o problema: depois dos 40, a atividade da AMPK cai naturalmente. Soma estresse, sono ruim, anos de ultraprocessado, e pra maioria das mulheres o interruptor simplesmente **trava**. Travado no modo de armazenamento. Como uma geladeira que só enche e nunca abre. [H7]
 Era exatamente isso que eu estava tentando resolver. Anos de pesquisa. Centenas de estudos. Procurando alguma coisa que religasse esse interruptor. ▲17
 E foi aí que eu encontrei a berberina. A berberina é um dos ativadores de AMPK mais poderosos da natureza. Já existiam estudos pequenos mostrando resultados incríveis, mas ninguém tinha ligado isso ao emagrecimento.
 Então eu comecei a testar. Primeiro no laboratório, depois com pacientes. E, sinceramente, os resultados nem chegaram perto do que a gente esperava. Foram melhores. Muito melhores.
@@ -163,7 +163,7 @@ Quando a Dra. Jordan me mostrou tudo isso pela primeira vez, eu fiquei em choque
 
 **[Dra. Kathleen Jordan]**
 E eu disse: Valerie, eu entendo. Eu também fui cética quando vi a pesquisa pela primeira vez. Porque a gente foi condicionada a acreditar que, se uma coisa funciona, ela tem que ser cara. Tem que vir de um laboratório. Tem que ter patente. Mas a verdade é que o seu corpo já sabe emagrecer. Ele faz isso há milhares de anos. ▲19
-O problema não é que você precisa de um remédio novo. O problema é que o seu sistema foi derrubado. Pelo estresse. Pela comida processada. Pelo ácido da noite. Tudo que a gente está fazendo é dar ao seu corpo as ferramentas pra ele se consertar sozinho. Na hora em que ele mais precisa.
+O problema não é que você precisa de um remédio novo. O problema é que o seu sistema foi derrubado. Pelo estresse. Pela comida processada. Pelo ácido da noite. Tudo que a gente está fazendo é dar ao seu corpo as ferramentas pra ele se consertar sozinho. Na hora em que ele mais precisa. E se isso valeu pra Valerie, depois de 40 anos, vale pra você. [H8]
 
 **[Valerie Bertinelli]**
 E foi aí que eu decidi: eu tenho que tentar isso.
@@ -183,6 +183,9 @@ Isso é incrível, Valerie. Isso é liberdade.
 Sabe, eu passei 40 anos em guerra com o meu corpo. Então acordar agora e não ter mais essa briga, só comer e não pensar nisso… Deus. Isso é liberdade.
 
 ---
+
+### Camada Haddad (v2.1, 27/11) — oito inserções retóricas, marcadas [H1]–[H8]; nenhuma muda alegação, número ou decisão
+H1 corpo antes de conceito ("quando tira o jeans à noite") · H2 refrão que vira mecanismo ("Não é você. É o solo.") · H3 leitura de mente ("se você é como a maioria das mulheres que me procuram") · H4 meta-narração ("é por isso que eu trouxe dois recipientes, e não um") · H5 corpo na noite ("você passa a noite inteira em cima dele") · H6 sanduíche emoção depois da lógica (a geladeira às dez) · H7 metáfora doméstica do interruptor (geladeira que só enche) · H8 pivô ao leitor ("se valeu pra Valerie, vale pra você"). Toggle tamer: sem palavrão.
 
 ### O que mudou (só flow, comunicação, palavras de poder, Haddad, ABT; nada de conteúdo)
 1. "azia, indigestão, inchaço" em três fragmentos ("Pra azia. Pra indigestão. Pra inchaço."): tripleta falada.
