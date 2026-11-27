@@ -52,16 +52,12 @@ Não tinha como ser outra pessoa. A Valerie.
 **[Drew Barrymore]**
 Que sortuda! Conta pra gente o que aconteceu, Val.
 
-**[Valerie Bertinelli]**
-Eu me lembro do dia em que a Dra. Jordan me falou dessa fórmula de bicarbonato. Eu ri na cara dela. ▲8
-Umas gotas antes de dormir iam mesmo me fazer perder peso? Depois de dietas malucas, treinos impossíveis, e até o Ozempic e o Mounjaro, eu estava cética. Mas, como eu não tinha nada a perder, eu resolvi tentar. Tudo o que eu tinha que fazer era pingar as gotas antes de dormir.
-E depois de só dez dias, eu fiquei em choque. A minha cintura estava muito menor. As minhas calças estavam começando a cair. Eu subi na balança e quase caí pra trás. **17 libras em 10 dias.** Eu continuei usando a fórmula, e depois de 3 meses, incríveis 47 libras tinham sumido. E eu não recuperei nada disso desde então. ▲9
-Eu tive que renovar o guarda-roupa inteiro. E o mais incrível foi que, esse tempo todo, eu continuei comendo o que eu queria… sem restrição, sem dieta, sem plano de treino… e mesmo assim, toda manhã o espelho me surpreendia.
-A minha barriga ficando mais lisa. Os meus braços, mais finos. O meu rosto afinando. E os meus olhos brilhando de novo. ▲10
-Todos aqueles anos, eu achei que era gorda porque não tinha força de vontade pra ir pra academia, ou disciplina pra seguir uma dieta por tempo suficiente. Mas não era culpa minha.
-Agora, tudo o que eu tenho que fazer é pingar essas gotas que a Dra. Jordan criou, antes de dormir. E eu posso comer o que eu quiser e continuar ficando mais magra a cada dia, sem nunca pisar numa academia. Isso muda tudo.
-O único problema foi que a mídia me bombardeou com mentiras, me acusando de usar Ozempic. Mas, como eu disse, eu usei aquela caneta, sim. E sim, eu perdi peso. Mas recuperei tudo de volta.
-Quando eu postei sobre a minha transformação com essas gotas que a Dra. Jordan criou, as minhas redes explodiram. Todo mundo queria saber dessa fórmula inovadora.
+**[Valerie Bertinelli]** [compacto, pras amigas da mesa]
+Gente, eu me lembro do dia. A Dra. Jordan me falou da fórmula e eu ri na cara dela. Umas gotas antes de dormir? Depois de dieta maluca, treino impossível, Ozempic, Mounjaro? Tá bom. Mas eu não tinha nada a perder. Então eu tentei.
+Dez dias. Só dez dias, meninas. A cintura menor. A calça caindo. Eu subi na balança e quase caí pra trás. **17 libras.** Três meses depois, 47. E não voltou nada. Eu tive que trocar o guarda-roupa inteiro. [RISO]
+E eu comi o que eu quis esse tempo todo. Sem dieta, sem treino, sem restrição. E toda manhã o espelho me surpreendia. A barriga mais lisa. Os braços mais finos. O rosto. Os olhos brilhando de novo.
+Eu passei a vida achando que era falta de força de vontade. Não era. Não era culpa minha. Hoje eu pingo as gotas, apago a luz, e pronto. Como o que eu quero, e continuo emagrecendo. Sem academia. Isso muda tudo.
+E aí a mídia veio dizer que era Ozempic. Amiga, eu usei o Ozempic. Perdi. E recuperei tudo. Isso aqui foi o que ficou. Eu postei, e as minhas redes explodiram. Todo mundo queria saber dessa fórmula.
 
 **[Dra. Kathleen Jordan]**
 E, no começo, não foi só a Val. Várias outras celebridades começaram a usar as gotas de bicarbonato, perdendo peso rápido e sem esforço, e compartilhando as transformações delas nas redes sociais.
@@ -152,7 +148,7 @@ Sim. É totalmente verdade, Drew. Mas antes eu preciso te mostrar o resultado de
 5. "Transformamos num protocolo, uma fórmula…" quebrado em duas frases; "escolhemos especificamente" → "a gente escolheu".
 6. "Veja" → "Olha" (palavra dela); "degradados" → "**destruídos**" (palavra de tripa, mesma do MUS).
 7. **Deslize corrigido:** "toda manhã" → "toda noite" (o ritual é noturno em toda a peça). Tripla negação em fragmentos ("Sem comprimido pra engolir. Sem misturar. Sem gosto estranho.").
-8. "Eu me lembro do dia que… eu ri na cara dela" → duas frases: a cena, depois o golpe.
+8. Depoimento da Valerie compactado (de ~290 para ~190 palavras) e no registro de mesa de amigas: "Gente", "Tá bom.", "Só dez dias, meninas.", "Amiga, eu usei o Ozempic."; frases de uma oração; números em golpe ("17 libras." / "Três meses depois, 47."); todos os fatos e decisões mantidos (10 dias, 17 lb, 47 lb, guarda-roupa, espelho, mídia e Ozempic, redes).
 9. "A minha cintura estava muito menor, e as minhas calças…" em duas; "17 libras em 10 dias" em negrito (o número que ela quer ouvir).
 10. A sequência do espelho em fragmentos (barriga, braços, rosto, olhos): ritmo de quem olha uma parte de cada vez.
 11. "As minhas redes sociais foram inundadas" → "As minhas redes foram inundadas"; "então eu decidi" → "Então eu decidi" como frase própria (ABT: E → então).
