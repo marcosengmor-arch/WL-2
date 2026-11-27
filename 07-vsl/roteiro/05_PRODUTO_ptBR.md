@@ -16,8 +16,9 @@ Então o que está na prateleira não é forte o bastante?
 
 **[Dra. Kathleen Jordan]**
 Exatamente. 99% do que está naquelas prateleiras é diluído, instável, mal formulado.
-O gengibre da CVS? Quase só enchimento. Quase nada de gingerol. A berberina da Amazon? Potência inconsistente. Um lote funciona, o próximo não. Os estudos que mostraram resultado de verdade usaram as concentrações mais altas, nas doses exatas comprovadas. Versões bioativas padronizadas, em proporção exata. ▲2
-E isso leva ao segundo problema: a **proporção**. Esses 3 ingredientes têm que ser combinados numa medida precisa. Até o miligrama. Bicarbonato demais, e você desregula o pH do estômago pro lado errado. Gingerol de menos, e a DPP-4 continua destruindo os seus hormônios. Então a maioria das pessoas não tem o equipamento nem o conhecimento pra acertar isso em casa. E foi exatamente isso que eu disse a ela. ▲3
+O gengibre da CVS? Quase só enchimento. Quase nada de gingerol. A berberina da Amazon? Potência inconsistente. Um lote funciona, o próximo não.
+Lembra dos estudos que eu te mostrei? O do gingerol, que freou a DPP-4 em até 93%. O ensaio de 12 semanas em Stanford, com 3 vezes mais gordura perdida. Nenhum deles usou o que está na prateleira. Eles usaram a concentração mais alta, na dose exata, em versão padronizada: o mesmo composto, na mesma quantidade, em todo frasco. É isso que faz o resultado aparecer. E é isso que a prateleira não te dá. ▲2
+E isso leva ao segundo problema: a **proporção**. Não basta ter os 3 ingredientes certos. Eles têm que ser combinados na medida certa, um em relação ao outro. Até o miligrama. Bicarbonato demais, e você desregula o pH do estômago pro lado errado. Gingerol de menos, e a DPP-4 continua destruindo os seus hormônios. Então a maioria das pessoas não tem o equipamento nem o conhecimento pra acertar isso em casa. E foi exatamente isso que eu disse a ela. ▲3
 
 **[Drew Barrymore]**
 Então as mulheres que estão nos assistindo agora não podem usar essa solução em casa?
@@ -145,7 +146,7 @@ Sim. É totalmente verdade, Drew. Mas antes eu preciso te mostrar o resultado de
 
 ### O que mudou (só flow, comunicação, palavras de poder, ABT, linguagem; nada de conteúdo)
 1. A lista do mercado em três frases ("E sim, você vai achar bicarbonato. Vai achar cápsula de gengibre. Vai achar até cápsula de berberina."): anáfora falada; "até achar achar" corrigido.
-2. "Quase só enchimento, quase nada de gingerol" em dois golpes; "Os estudos clínicos que mostraram resultados reais… as doses exatas clinicamente comprovadas" simplificado para "resultado de verdade… doses exatas comprovadas".
+2. "Quase só enchimento, quase nada de gingerol" em dois golpes. "Os estudos" estava solto: agora amarra nos dois estudos já citados no MUS (gingerol 93%, Journal of Medicinal Food; ensaio de 12 semanas em Stanford, 3x), explica o que é "padronizado" em linguagem simples ("o mesmo composto, na mesma quantidade, em todo frasco") e fecha no contraste com a prateleira. A proporção ganha a explicação "um em relação ao outro".
 3. "proporção da mistura" → "**proporção**" em negrito; "Até o miligrama." isolado; "para acertar" → "pra acertar" (registro falado, igual ao resto).
 4. "construí relações" → "construí relação"; "de que precisávamos" → "que a gente precisava" (oitava série; a Dra. Jordan fala "a gente" no bloco inteiro).
 5. "Transformamos num protocolo, uma fórmula…" quebrado em duas frases; "escolhemos especificamente" → "a gente escolheu".
