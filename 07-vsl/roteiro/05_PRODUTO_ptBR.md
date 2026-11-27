@@ -40,7 +40,7 @@ Então você transformou isso num produto?
 A gente transformou num protocolo. Uma fórmula líquida concentrada que tem tudo: o bicarbonato de sódio, o extrato concentrado de gingerol e a berberina bioativa, nas proporções exatas que funcionam. E a gente escolheu o formato de gotas por dois grandes motivos: velocidade e potência. ▲5
 Olha, quando você engole uma cápsula, ela pode levar até 45 minutos pra se desfazer no seu estômago antes que os compostos ativos sequer comecem a chegar ao intestino, onde as suas células L realmente estão. E, nesses 45 minutos, até 60% dos compostos bioativos são **destruídos** pelo ácido do estômago. ▲6
 Mas, quando você toma esses compostos em forma líquida concentrada, eles são absorvidos direto pela boca e pela mucosa digestiva, vão direto pra corrente sanguínea, e chegam ao intestino em segundos. Isso significa que mais ingrediente ativo chega, de verdade, às células que produzem GLP-1 e GIP.
-Na verdade, estudos mostram que gotas líquidas são absorvidas até 10 vezes mais rápido, e entregam 6 vezes mais composto bioativo ao intestino do que qualquer cápsula ou pó jamais conseguiria.
+E não sou eu quem está dizendo. Revisões em farmacologia, como a da Frontiers in Pharmacology, em 2019, mostram que a via debaixo da língua entra direto na circulação, sem passar pelo estômago e pelo fígado, e age mais rápido do que o que você engole. [VT: cartela com fonte] É a mesma via que o remédio de emergência do coração usa. Por isso as gotas chegam onde precisam, e inteiras. [10x / 6x retirados: sem fonte; se quiser mantê-los, ficam em colchetes como decisão sua]
 E, sinceramente, também é mais fácil. Sem comprimido pra engolir. Sem misturar. Sem gosto estranho. Você pinga algumas gotas debaixo da língua toda noite, e pronto. ▲7
 
 **[Sunny Anderson]**
@@ -163,4 +163,5 @@ Sim. É totalmente verdade, Drew. Mas antes eu preciso te mostrar o resultado de
 16. "Pra quem podia pagar." isolado como golpe.
 17. "$100 milhões?" / "$100 milhões, Drew" → "Cem milhões?" / "Cem milhões, Drew" (é fala; a cifra fica na cartela).
 18. "Para perder de 15 a 24 pounds antes do natal e caber no vestido sem se preocupar com a barriga saliente" → três frases: libras (não "pounds"), "Natal" maiúsculo, e o vestido como frase própria.
+Fonte real para a absorção das gotas: a via sublingual entra na circulação sem primeira passagem pelo fígado e tem início de ação mais rápido que a via oral (Hua, Frontiers in Pharmacology, 2019, mini-review; Goswami, Jasti & Li, Crit Rev Ther Drug Carrier Syst, 2008). O "10 vezes mais rápido / 6 vezes mais composto" da AlkaMelt não tem fonte localizável e saiu; o exemplo da nitroglicerina sublingual (remédio de emergência do coração) é uso consagrado da via.
 Palavras de tripa marcadas: problema da pureza, proporção, destruídos, 17 libras em 10 dias, afogando, irresponsável, New Year, New Body. "Dr." → "Dra." em todas as ocorrências.
