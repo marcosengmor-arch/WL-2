@@ -57,6 +57,21 @@ E antes de você falar o nome, a gente tem duas mulheres que entraram ao vivo pr
 **[Sunny Anderson]**
 Amiga. O vestido.
 
+**[Dra. Kathleen Jordan]** [escala; adaptado da Gumitide 24.1–24.3]
+E são milhares assim. Mas produzir nessa escala não é fácil. Pra chegar na pureza e na concentração que realmente funcionam, a fórmula tem que ser fabricada numa instalação com certificação GMP e registro na FDA, do tipo que produz grau farmacêutico. Na VitalCore. E isso custa milhões. Por muito tempo, esse tipo de cuidado ficou trancado em consultório particular, pra quem podia pagar. [fala real da Dra. Jordan no vídeo base: "relegated to small, private concierge practices"]
+
+**[Sunny Anderson]**
+E como você conseguiu?
+
+**[Dra. Kathleen Jordan]**
+Eu não consegui sozinha. Um consórcio de investidores de saúde da mulher [nome a definir; DRAM] viu as transformações e procurou a Midi Health. Eles viram o que estava acontecendo com essas mulheres e decidiram investir [$200 milhões] [DRAM; valor a validar com a Midi] num objetivo só: tirar isso do consultório de Hollywood e levar pra toda mulher americana.
+
+**[Drew Barrymore]**
+[Duzentos] milhões?
+
+**[Dra. Kathleen Jordan]**
+[Duzentos] milhões, Drew. Pra produzir essa fórmula na escala certa, na VitalCore, e pra Midi levar o ritual pra mulheres em todos os estados, a um preço que a professora de Sacramento consegue pagar, não só a atriz de Los Angeles. A gente construiu a Midi exatamente pra isso: pra mais mulheres terem acesso ao cuidado. [fala real da Dra. Jordan] Isso aqui é o primeiro passo.
+
 **[Drew Barrymore]**
 Ok. Agora o nome.
 
@@ -126,4 +141,5 @@ Exatamente. Se você usa o BalanceMelt por seis meses ou mais, a transformação
 ### Notas de modelagem (v1, 26/11)
 - Ordem e função da AlkaMelt 13.1 → 15.5 mantidas: "posso comprar no mercado?" → problema da pureza → proporção → "como uma pessoa normal faz?" → o laboratório → "virou produto?" → protocolo → por que gotas → "é mais fácil" → nome → "essa fórmula exata" → "pessoa normal consegue?" → primeira e única → "eu estive do outro lado" → "o que faz diferente?" → willpower e castigo → "perde 10, ganha 15" → causa raiz em 3 → quarto ingrediente → pele → "antienvelhecimento numa fórmula?" → seis meses.
 - Nossos acréscimos: o bicarbonato "puro, mas não tamponado"; "a pitada tamponada com a casca… na pia, às dez da noite, com sono"; "preparada pra uma hora só: a noite"; a cápsula que não chega antes do pico; "apaga a luz, e pronto"; a Sunny provando ("sem gosto, sem espuma"); os depoimentos ao vivo antes do nome (45b: a de 60+ que se coloca por último; a do vestido com data); "equilibra o ácido, e a barriga derrete"; "no relógio dele"; "todas pedem que você vença a noite sozinha"; a pele como a terceira palavra do nome.
+- Bloco de escala (Gumitide 24: GMP/FDA, consórcio, $200M, Boulder) adaptado: o consórcio investe na **Midi Health** (não numa fábrica própria), a produção fica na VitalCore, e a missão é a fala real da Dra. Jordan ("mais mulheres terem acesso ao cuidado"). **Aviso:** nome do consórcio e valor são afirmações sobre uma empresa real; só com validação/autorização da Midi, ou em colchetes.
 - Pendências: o terceiro ingrediente; o quarto (NAD+ × colágeno); os números em colchetes (45 min, 60%, 20 anos, lb/30 dias) só com fonte ou tipicidade; nomes, cidades e números das depoentes; "FDA registered" do lab conforme decisão do usuário; Q1 absorvido no depoimento da Valerie na bancada (adaptado da Kathy Bates, Gumitide 21.1–21.3): riso inicial → ceticismo → "nada a perder" → 10 dias (sono primeiro, cintura, calças, balança) → 3 meses → não recuperou → guarda-roupa → comia o que queria → espelho (barriga, braços, rosto, olhos) → "não era culpa minha, era o solo" → mídia e Ozempic → redes explodiram. Números em colchetes com tipicidade.
