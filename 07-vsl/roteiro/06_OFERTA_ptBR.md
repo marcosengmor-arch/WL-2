@@ -58,7 +58,7 @@ E posso te dizer, aos 66, isso importa muito. Minha pele nunca esteve tão bonit
 Então é emagrecimento e antienvelhecimento numa fórmula só?
 
 **[Dra. Kathleen Jordan]**
-Exatamente. Se você usar o BalanceMelt por 6 meses ou mais, a transformação vai muito além da balança. Recebo mensagens todos os dias de mulheres me mostrando as fotos de antes e depois. Não só mais magras. Mais jovens, mais vibrantes, mais vivas.
+Exatamente. Se você usar o BalanceMelt por 6 meses ou mais, a transformação vai muito além da balança. [o "Recebo mensagens…" desceu para depois do teste da FDA]
 
 ## 15.6 — O teste da FDA [53b] [modelado na SodaTide: Dr. Martin Makary, 3 vídeos; decisão 28/11: antes dos depoimentos]
 
@@ -78,15 +78,15 @@ Hoje estou aqui no laboratório para demonstrar um dos milhares de testes que re
 Observem o lado esquerdo primeiro. A gordura começa a se decompor gradualmente. É assim que o Mounjaro funciona: ele estimula o corpo a usar a gordura como energia. Agora olhem o lado direito. A mesma gordura, a mesma quantidade. Mas, sob a ação do BalanceMelt, a resposta aparece mais rápida, mais intensa. Como se o processo estivesse sendo acelerado. Foi exatamente isso que chamou a nossa atenção. O corpo reconhece o estímulo natural com mais facilidade do que o composto sintético, e por isso ativa o mecanismo mais rápido. Repetimos esse experimento várias vezes, controlando cada variável. E em todo teste a resposta foi consistente: o BalanceMelt mostrou uma decomposição da gordura mais rápida do que o princípio ativo do Mounjaro. Foi aí que percebemos que não estávamos lidando com só mais um suplemento. Mas com uma fórmula extremamente poderosa.
 
 **[Drew Barrymore]**
-Espera. As gotas na frente da caneta?
+Dra. Jordan, depois dessa demonstração do chefe da FDA… eu estou honestamente sem palavras. Pessoal em casa, vocês percebem o que acabamos de ver? Estamos falando de algo [10 vezes; o vídeo do Makary só mostra "mais rápida": ou entra o número no vídeo 3, ou fica "mais poderoso"] mais poderoso que o Mounjaro. E de uma forma completamente natural.
 
 **[Dra. Kathleen Jordan]**
-Na frente. Sem agulha, sem receita. E o que ele viu no laboratório, as mulheres estão vendo em casa.
+Exatamente, Drew. Isso não é opinião. Isso não é marketing. Isso é ciência provada. Não só no laboratório, mas em quem realmente importa: nas mulheres. Recebo mensagens todo dia de mulheres me mostrando o antes e o depois. Não só mais magras. Mais jovens. Mais vivas. Mais elas mesmas.
 
 ## 16 — Depoimentos [51] [AM 16.1–16.2; Q2]
 
-**[Sunny Anderson]**
-Nós entramos em contato com algumas dessas mulheres. Vamos ouvir o que elas têm a dizer. [VT]
+**[Drew Barrymore]**
+Nós entramos em contato com algumas delas. Vamos ouvir o que elas têm a dizer. [VT]
 
 **[Mãe, com o bebê]**
 Este bebezinho me fez ganhar [28] libras na gravidez. E eu perdi tudo antes mesmo de ele completar 2 meses. Graças ao BalanceMelt, a minha energia voltou, a minha libido melhorou, até a minha pele parece mais jovem. E a parte louca? Sem passar fome, sem academia, sem odiar cada minuto. [tipicidade]
