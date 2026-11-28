@@ -1,4 +1,4 @@
-# ROTEIRO — Bloco 6: BIG OFFER (do nome do produto ao fecho) — v2 PT-BR
+# ROTEIRO — Bloco 6: BIG OFFER (do nome do produto ao fecho) — v2.1 PT-BR
 
 **Continua do fim do bloco do Produto v2** (Dra. Jordan: "Sim. É totalmente verdade, Drew. Mas antes eu preciso te mostrar o resultado dessa nossa iniciativa."). **Modelado fala a fala** na AlkaMelt 14.3 → 25.4 (25:03 → 51:03), pontos 46 a 67 da tabela. **v2 (27/11): revisão linha a linha contra a tradução PT-BR da AlkaMelt.** Palavras fortes da controle de volta ("linda", "insano", "mais firme, mais rígida", "você perdeu"); "nós/fizemos" no lugar de "a gente" nas falas da Dra. Jordan; frases da AlkaMelt que tinham caído foram repostas. As otimizações aprovadas (Q2, Q4, Q5, Q6, Q7, Q8; 53b; escala de ácido; noite 1; 60 dias; "New Year, New Body") entram só onde a tabela marcou. Tudo que depende de decisão sua está em [colchetes]. Marcações: [AM x.y]; [DRAM]; [VT]; [CARTELA]; [RISO]; [tipicidade].
 
@@ -60,6 +60,29 @@ Então é emagrecimento e antienvelhecimento numa fórmula só?
 **[Dra. Kathleen Jordan]**
 Exatamente. Se você usar o BalanceMelt por 6 meses ou mais, a transformação vai muito além da balança. Recebo mensagens todos os dias de mulheres me mostrando as fotos de antes e depois. Não só mais magras. Mais jovens, mais vibrantes, mais vivas.
 
+## 15.6 — O teste da FDA [53b] [modelado na SodaTide: Dr. Martin Makary, 3 vídeos; decisão 28/11: antes dos depoimentos]
+
+**[Sunny Anderson]**
+Mas, doutora, me convence de uma coisa. O BalanceMelt é tão eficaz quanto a caneta? Porque não adianta ser natural se não muda nada.
+
+**[Dra. Kathleen Jordan]**
+Justo. E eu não quero que você acredite em mim. Quero que você veja quem testou. [VT]
+
+**[Dr. Martin Makary, FDA — VÍDEO 1]**
+Hoje marca o começo do fim das medicações e suplementos para emagrecer que não funcionam. Por anos, o mercado foi inundado com promessas vazias: cápsulas milagrosas, fórmulas genéricas, produtos que prometem tudo e não entregam nada. Isso muda agora. Junto com o governo federal, estamos introduzindo um novo nível de supervisão. Mais rigoroso, mais técnico e muito mais difícil de enganar. E o que encontramos foi chocante: a maioria dos produtos vendidos hoje simplesmente não entrega resultado quando analisada com seriedade. Ao mesmo tempo, algumas soluções baseadas em mecanismos biológicos reais foram ignoradas. Ou pior: copiadas, diluídas e falsificadas. Um exemplo claro é o bicarbonato de sódio, já associado à ativação do GLP-1, mas distorcido por versões genéricas e cápsulas ineficazes. Quando vimos a fórmula do BalanceMelt, eu fiquei realmente surpreso. Além do bicarbonato tamponado, ela incluía componentes projetados para potencializar o efeito dele: gingerol concentrado, berberina bioativa [e NAD+]. Uma combinação natural extremamente poderosa. Eu nunca tinha visto algo tão bem estruturado.
+
+**[Dr. Martin Makary, FDA — VÍDEO 2: laboratório]**
+Hoje estou aqui no laboratório para demonstrar um dos milhares de testes que realizamos, com um objetivo: mostrar ao público o que realmente funciona. Aqui eu tenho 2 recipientes idênticos, com a mesma quantidade de gordura extraída de pacientes em tratamento de obesidade. Mesma origem, mesma densidade, mesma quantidade. Qualquer diferença que vocês vão ver vem exclusivamente da substância aplicada. No recipiente da esquerda, o princípio ativo do Mounjaro, hoje um dos medicamentos mais eficazes do mercado para estimular o GLP-1. No recipiente da direita, a fórmula natural do BalanceMelt. [DRAM; rótulo "demonstração"]
+
+**[Dr. Martin Makary, FDA — VÍDEO 3: resultado]**
+Observem o lado esquerdo primeiro. A gordura começa a se decompor gradualmente. É assim que o Mounjaro funciona: ele estimula o corpo a usar a gordura como energia. Agora olhem o lado direito. A mesma gordura, a mesma quantidade. Mas, sob a ação do BalanceMelt, a resposta aparece mais rápida, mais intensa. Como se o processo estivesse sendo acelerado. Foi exatamente isso que chamou a nossa atenção. O corpo reconhece o estímulo natural com mais facilidade do que o composto sintético, e por isso ativa o mecanismo mais rápido. Repetimos esse experimento várias vezes, controlando cada variável. E em todo teste a resposta foi consistente: o BalanceMelt mostrou uma decomposição da gordura mais rápida do que o princípio ativo do Mounjaro. Foi aí que percebemos que não estávamos lidando com só mais um suplemento. Mas com uma fórmula extremamente poderosa.
+
+**[Drew Barrymore]**
+Espera. As gotas na frente da caneta?
+
+**[Dra. Kathleen Jordan]**
+Na frente. Sem agulha, sem receita. E o que ele viu no laboratório, as mulheres estão vendo em casa.
+
 ## 16 — Depoimentos [51] [AM 16.1–16.2; Q2]
 
 **[Sunny Anderson]**
@@ -119,23 +142,6 @@ Tenho que dizer: é raro ver médicas desse calibre recomendando um suplemento. 
 
 **[Drew Barrymore]**
 Eu literalmente já fui dispensada por médico quando falei de menopausa. [fala real da Drew] É tipo: aqui está uma receita, te vejo em 6 meses.
-
-## 17b — O teste cabeça a cabeça [53b] [SodaTide/Gumitide; versão recomendada: laboratório independente]
-
-**[Sunny Anderson]**
-Mas, doutora, me convence de uma coisa. O BalanceMelt é tão eficaz quanto a caneta? Porque não adianta nada ser seguro e natural se não muda nada.
-
-**[Dra. Kathleen Jordan]**
-Justo. E eu não quero que você acredite em mim. [VT: laboratório] Nós levamos o BalanceMelt a um laboratório independente, [nome], com o químico [nome], e pedimos o teste mais simples possível. Dois recipientes com a mesma gordura. Mesma origem, mesma quantidade. Num, a caneta. No outro, o BalanceMelt. Qualquer diferença vem só do que foi aplicado.
-
-**[Químico — VT]**
-Nos dois a gordura começou a responder. Mas o recipiente do BalanceMelt respondeu primeiro. [DRAM; rótulo "demonstração"]
-
-**[Drew Barrymore]**
-Espera. As gotas na frente?
-
-**[Dra. Kathleen Jordan]**
-Na frente. Sem agulha. [Alternativa das Tide, se preferir: a cena com o "chefe da FDA"; risco alto registrado]
 
 ## 18 — Personalização e Midi [54, 55] [AM 18.1–18.4]
 
@@ -393,8 +399,9 @@ Restam menos de [27] kits, e estão acabando rápido. [67] A maioria das pessoas
 ### Notas de modelagem (v2, 27/11)
 - **v2 = revisão linha a linha contra a tradução PT-BR da AlkaMelt.** O que voltou da controle: "funciona instantaneamente" (adaptado para "desde a primeira noite") e "venho tomando há 2 meses" (15.1); "ousar ser humana", "volta com tudo" (15.2); "Isso porque as células da pele não conseguem se regenerar rápido o suficiente", "Estudos mostram…" com fonte (15.4); "Minha pele nunca esteve tão bonita" (Valerie); "mais vibrantes" (15.5); libido da mãe; "meu Deus", "mais firme, mais rígida", "braços não balançam", "barriga chapada", "saída de praia", "voltado o relógio" (16); "testado quanto à pureza", "para começo de conversa", "desse calibre", "prescrevem os remédios e seguem em frente" (17); "Pense bem", "novíssimo"/"coach" → "clínica de menopausa no bolso", "suporte de verdade, não conselhos genéricos da internet", "Netflix para a sua saúde", "celebrar vitórias, tirar dúvidas…" (18); "Quão rápido isso funciona de verdade?", "eu me senti linda", "As pessoas viviam dizendo", "se segurando à força", "aproveitar a comida", "o peso simplesmente fica onde está" (19); "não parou de vibrar", "a notícia se espalhou", "conseguiram reservar" (20); "simplesmente errado", "imitações demais", "pagavam com gosto", "dedicada a uma única coisa", "confortável no seu próprio corpo", "não criei isto para ajudar poucas", "pessoalmente cubro o custo", "mata o seu ritmo" (21); "você perdeu", "círculo íntimo", "absolutamente insano", "renome mundial", a pergunta da Sunny sobre as atrizes, "maxilar e pescoço", "maximizar essa transformação", "Ok, calma." (22); "vitalício", "em cima do muro", "band-aid", "protocolo comprovado, baseado em ciência", "perdido completamente a esperança" (23); "ganhava peso só de olhar para a comida", "mais magra" (24); "a mudança dá medo", "questão de", "realmente quer ser vista", "de outro jeito", "forte o suficiente", "conversar com vocês também" (25).
 - **"A gente" → "nós"/verbo na 1ª pessoa do plural** em todas as falas da Dra. Jordan e da Sunny (chamamos, fizemos, entramos em contato, conversamos, percebemos, conseguimos, lançamos, cortamos, personalizamos). Fica "a gente" só na Valerie em 18.4 ("A gente posta"), que é literal da AlkaMelt, e na Drew em 17.1 ("explica rapidinho pra gente").
-- **Otimizações mantidas (só onde a tabela marcou):** 47 "no relógio dele"; 48 "vença a noite sozinha / geladeira das dez"; 49 "à noite"; 50 barriga mole + noite repara + estudo com fonte; 51 Q2 vestido com data; 52 antes de dormir, sem levantar para água; 53 aviso em uma linha, médicas da Midi, fala real da Drew; 53b teste independente (alternativa "chefe da FDA" registrada); 54 escala de ácido com as duas horas; 55 Midi; 56 noite 1, "reaprender o relógio", Q4; 57 Q5 1ª contagem; 58 Q6 Melissa, Q7 New Year New Body; 59 6 meses = relógio; 60 Q5 2ª contagem; 61 bônus renomeados; 63 "Hoje à noite"; 64 recap escudo/solo/pitada; 65 Q8 duas escolhas, "É a hora. E as duas podem ser consertadas"; 66 começa na noite, "foto na festa"; 67 Q5 3ª contagem, "amanhã à noite".
+- **Otimizações mantidas (só onde a tabela marcou):** 47 "no relógio dele"; 48 "vença a noite sozinha / geladeira das dez"; 49 "à noite"; 50 barriga mole + noite repara + estudo com fonte; 51 Q2 vestido com data; 52 antes de dormir, sem levantar para água; 53 aviso em uma linha, médicas da Midi, fala real da Drew; 53b teste da FDA (decisão 28/11: versão Makary, modelada na SodaTide, movida para antes dos depoimentos, 15.6); 54 escala de ácido com as duas horas; 55 Midi; 56 noite 1, "reaprender o relógio", Q4; 57 Q5 1ª contagem; 58 Q6 Melissa, Q7 New Year New Body; 59 6 meses = relógio; 60 Q5 2ª contagem; 61 bônus renomeados; 63 "Hoje à noite"; 64 recap escudo/solo/pitada; 65 Q8 duas escolhas, "É a hora. E as duas podem ser consertadas"; 66 começa na noite, "foto na festa"; 67 Q5 3ª contagem, "amanhã à noite".
 - Vetos respeitados: sem "mais que Ozempic, mais que Mounjaro" na médica 2; sem selo nem "FDA approved"; sem lista de doenças no custo da inação; sem "love yourself enough".
 - 50: a frase "Studies show it can accelerate skin healing by up to…" da AlkaMelt fica sem número na própria transcrição; não existe percentual humano verificado para NAD+ e pele. Entrou a versão com fonte real (Wong et al., *Molecular Metabolism*, 2022; estudo em camundongos). Se quiser um "em até X%", só com fonte nova.
-- Pendências (todas em colchetes): quarto ingrediente; 53b (versão); preços [$185 → $98 → $49 / $69 / $79]; bônus (nomes, professoras, valores); consulta ($ e 50); contagens [84 / 63 / 27]; app/Academy/Círculo da Midi (só o que existir); números de resultado com tipicidade; nomes das depoentes; evento da Valerie no protocolo de 48h; credencial na fala da Drew em 22.4 ["formada em Stanford"].
+- 15.6 (28/11): modelagem compacta dos 3 vídeos do Makary da SodaTide. Mantidos: a supervisão nova, "a maioria não entrega", mecanismos reais copiados e diluídos, o bicarbonato como exemplo, a surpresa com a fórmula, 2 recipientes idênticos com gordura de pacientes, Mounjaro à esquerda e BalanceMelt à direita, a decomposição gradual vs rápida, estímulo natural reconhecido mais fácil, repetição consistente, "não é só mais um suplemento". Cortado: redundâncias ("queremos trabalhar com transparência", "em outras palavras", a frase dupla sobre compostos sintéticos). Risco de compliance alto registrado (figura real da FDA + gordura em recipiente); decisão do copy.
+- Pendências (todas em colchetes): quarto ingrediente; preços [$185 → $98 → $49 / $69 / $79]; bônus (nomes, professoras, valores); consulta ($ e 50); contagens [84 / 63 / 27]; app/Academy/Círculo da Midi (só o que existir); números de resultado com tipicidade; nomes das depoentes; evento da Valerie no protocolo de 48h; credencial na fala da Drew em 22.4 ["formada em Stanford"].
 - v1 arquivada em `06_OFERTA_ptBR_v1_arquivo.md`.
